@@ -1,0 +1,177 @@
+{
+  "book_id": "3387",
+  "subject": "الرياضيات",
+  "subject_en": "Mathematics",
+  "grade": 3,
+  "semester": 2,
+  "part": 2,
+  "country": "Kuwait",
+  "publisher": "وزارة التربية - دولة الكويت",
+  "year": "2025-2026",
+  "total_pages": 165,
+  "units": [
+    {
+      "unit_number": 5,
+      "unit_title": "القسمة",
+      "unit_title_en": "Division",
+      "page_start": 14,
+      "lessons": [
+        {
+          "code": "5-1",
+          "title": "استكشاف القسمة (التوزيع بالتساوي)",
+          "title_en": "Exploring Division (Equal Distribution)",
+          "page": 17,
+          "page_end": 19
+        },
+        {
+          "code": "5-2",
+          "title": "استكشاف القسمة (الطرح المتكرر)",
+          "title_en": "Exploring Division (Repeated Subtraction)",
+          "page": 20,
+          "page_end": 21
+        },
+        {
+          "code": "5-3",
+          "title": "العلاقة بين عمليتي الضرب والقسمة",
+          "title_en": "The Relationship Between Multiplication and Division",
+          "page": 22,
+          "page_end": 23
+        },
+        {
+          "code": "5-4",
+          "title": "القسمة على العدد 2",
+          "title_en": "Division by 2",
+          "page": 24,
+          "page_end": 25
+        },
+        {
+          "code": "5-5",
+          "title": "القسمة على العدد 5",
+          "title_en": "Division by 5",
+          "page": 26,
+          "page_end": 27
+        },
+        {
+          "code": "5-6",
+          "title": "القسمة على العدد 1 وقسمة العدد على نفسه",
+          "title_en": "Division by 1 and Dividing a Number by Itself",
+          "page": 28,
+          "page_end": 29
+        },
+        {
+          "code": "5-7",
+          "title": "القسمة على العدد 3",
+          "title_en": "Division by 3",
+          "page": 30,
+          "page_end": 31
+        },
+        {
+          "code": "5-8",
+          "title": "القسمة على العدد 4",
+          "title_en": "Division by 4",
+          "page": 32,
+          "page_end": 33
+        },
+        {
+          "code": "5-9",
+          "title": "القسمة على العدد 6",
+          "title_en": "Division by 6",
+          "page": 34,
+          "page_end": 35
+        },
+        {
+          "code": "5-10",
+          "title": "القسمة على العدد 7",
+          "title_en": "Division by 7",
+          "page": 36,
+          "page_end": 37
+        },
+        {
+          "code": "5-11",
+          "title": "القسمة على العدد 8",
+          "title_en": "Division by 8",
+          "page": 38,
+          "page_end": 39
+        },
+        {
+          "code": "5-12",
+          "title": "القسمة على العدد 9",
+          "title_en": "Division by 9",
+          "page": 40,
+          "page_end": 41
+        }
+      ]
+    },
+    {
+      "unit_number": 6,
+      "unit_title": "القسمة والإحصاء",
+      "unit_title_en": "Division and Statistics",
+      "page_start": 46,
+      "lessons": [
+        {
+          "code": "6-1",
+          "title": "أنماط القسمة",
+          "title_en": "Division Patterns",
+          "page": 49,
+          "page_end": 51
+        },
+        {
+          "code": "6-2",
+          "title": "التعرف على القسمة مع وجود باقٍ",
+          "title_en": "Introduction to Division with Remainder",
+          "page": 52,
+          "page_end": 53
+        },
+        {
+          "code": "6-3",
+          "title": "القسمة على عدد مكون رمزه من رقم واحد بدون إعادة التسمية وبدون باقٍ",
+          "title_en": "Division by a One-Digit Number Without Regrouping and Without Remainder",
+          "page": 54,
+          "page_end": 55
+        },
+        {
+          "code": "6-4",
+          "title": "القسمة على عدد مكون رمزه من رقم واحد مع إعادة التسمية وبدون باقٍ",
+          "title_en": "Division by a One-Digit Number With Regrouping and Without Remainder",
+          "page": 56,
+          "page_end": 57
+        },
+        {
+          "code": "6-5",
+          "title": "الأعداد الزوجية والأعداد الفردية",
+          "title_en": "Even and Odd Numbers",
+          "page": 58,
+          "page_end": 59
+        },
+        {
+          "code": "6-6",
+          "title": "تنظيم البيانات",
+          "title_en": "Organizing Data",
+          "page": 60,
+          "page_end": 61
+        },
+        {
+          "code": "6-7",
+          "title": "التمثيل البياني بالصور",
+          "title_en": "Pictographs",
+          "page": 62,
+          "page_end": 63
+        },
+        {
+          "code": "6-8",
+          "title": "التمثيل البياني بالأعمدة",
+          "title_en": "Bar Graphs",
+          "page": 64,
+          "page_end": 65
+        },
+        {
+          "code": "6-9",
+          "title": "التمثيل البياني بالنقاط المجمعة",
+          "title_en": "Dot Plots",
+          "page": 66,
+          "page_end": 67
+        }
+      ]
+    }
+  ]
+}
