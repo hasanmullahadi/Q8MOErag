@@ -1,0 +1,110 @@
+{
+  "book_id": "3212",
+  "subject": "العلوم",
+  "subject_en": "Science",
+  "grade": 5,
+  "semester": 2,
+  "part": 2,
+  "country": "Kuwait",
+  "publisher": "وزارة التربية - دولة الكويت",
+  "year": "2025-2026",
+  "total_pages": 92,
+  "units": [
+    {
+      "unit_number": 4,
+      "unit_title": "الأرض والفضاء",
+      "unit_title_en": "Earth and Space",
+      "page_start": 11,
+      "chapters": [
+        {
+          "chapter_number": 1,
+          "chapter_title": "رحلة إلى كنوز الأرض",
+          "chapter_title_en": "Journey to Earth's Treasures",
+          "page_start": 13,
+          "lessons": [
+            {
+              "code": "1-1",
+              "title": "أنواع الموارد الطبيعية للأرض",
+              "title_en": "Types of Earth's Natural Resources",
+              "page": 14
+            },
+            {
+              "code": "1-2",
+              "title": "الصخور والمعادن",
+              "title_en": "Rocks and Minerals",
+              "page": 18
+            },
+            {
+              "code": "1-3",
+              "title": "المياه الجوفية",
+              "title_en": "Groundwater",
+              "page": 25
+            },
+            {
+              "code": "1-4",
+              "title": "النفط",
+              "title_en": "Oil/Petroleum",
+              "page": 31
+            },
+            {
+              "code": "1-5",
+              "title": "استخراج النفط الخام",
+              "title_en": "Extracting Crude Oil",
+              "page": 36
+            },
+            {
+              "code": "1-6",
+              "title": "أهمية النفط في حياتنا",
+              "title_en": "Importance of Oil in Our Lives",
+              "page": 40
+            }
+          ]
+        },
+        {
+          "chapter_number": 2,
+          "chapter_title": "رحلة مع رواد الفضاء",
+          "chapter_title_en": "Journey with Astronauts",
+          "page_start": 53,
+          "lessons": [
+            {
+              "code": "2-1",
+              "title": "رائد الفضاء",
+              "title_en": "The Astronaut",
+              "page": 54
+            },
+            {
+              "code": "2-2",
+              "title": "الصاروخ من الأرض إلى الفضاء",
+              "title_en": "The Rocket from Earth to Space",
+              "page": 63
+            },
+            {
+              "code": "2-3",
+              "title": "حياة رائد الفضاء",
+              "title_en": "Life of an Astronaut",
+              "page": 68
+            },
+            {
+              "code": "2-4",
+              "title": "استكشاف الفضاء",
+              "title_en": "Space Exploration",
+              "page": 73
+            },
+            {
+              "code": "2-5",
+              "title": "القمر الصناعي وأهميته في حياتنا",
+              "title_en": "Satellites and Their Importance",
+              "page": 77
+            },
+            {
+              "code": "2-6",
+              "title": "عودة رائد الفضاء للأرض",
+              "title_en": "The Astronaut's Return to Earth",
+              "page": 83
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

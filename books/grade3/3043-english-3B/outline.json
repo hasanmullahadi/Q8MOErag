@@ -1,0 +1,100 @@
+{
+  "book_id": "3043",
+  "subject": "Skyline English",
+  "subject_en": "English",
+  "grade": 3,
+  "semester": 2,
+  "part": 1,
+  "country": "Kuwait",
+  "publisher": "وزارة التربية - دولة الكويت",
+  "year": "2025-2026",
+  "total_pages": 35,
+  "units": [
+    {
+      "unit_number": 5,
+      "unit_title": "Happy Dates",
+      "unit_title_en": "Happy Dates",
+      "page_start": 6,
+      "lessons": [
+        {
+          "code": "5-1",
+          "title": "Happy Dates",
+          "title_en": "Happy Dates",
+          "page": 6,
+          "page_end": 13
+        },
+        {
+          "code": "5-PT",
+          "title": "Progress Test",
+          "title_en": "Progress Test",
+          "page": 14,
+          "page_end": 15
+        },
+        {
+          "code": "5-PJ",
+          "title": "Project",
+          "title_en": "Project",
+          "page": 16,
+          "page_end": 16
+        },
+        {
+          "code": "5-V",
+          "title": "Vocabulary",
+          "title_en": "Vocabulary",
+          "page": 17,
+          "page_end": 17
+        },
+        {
+          "code": "5-S",
+          "title": "Song",
+          "title_en": "Song",
+          "page": 19,
+          "page_end": 19
+        }
+      ]
+    },
+    {
+      "unit_number": 6,
+      "unit_title": "Colours Of Seasons",
+      "unit_title_en": "Colours Of Seasons",
+      "page_start": 22,
+      "lessons": [
+        {
+          "code": "6-1",
+          "title": "Colours Of Seasons",
+          "title_en": "Colours Of Seasons",
+          "page": 22,
+          "page_end": 29
+        },
+        {
+          "code": "6-PT",
+          "title": "Progress Test",
+          "title_en": "Progress Test",
+          "page": 30,
+          "page_end": 31
+        },
+        {
+          "code": "6-PJ",
+          "title": "Project",
+          "title_en": "Project",
+          "page": 32,
+          "page_end": 32
+        },
+        {
+          "code": "6-V",
+          "title": "Vocabulary",
+          "title_en": "Vocabulary",
+          "page": 33,
+          "page_end": 33
+        },
+        {
+          "code": "6-S",
+          "title": "Song",
+          "title_en": "Song",
+          "page": 35,
+          "page_end": 35
+        }
+      ]
+    }
+  ]
+}

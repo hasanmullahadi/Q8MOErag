@@ -1,0 +1,214 @@
+{
+  "book_id": "3099",
+  "subject": "وطني الكويت",
+  "subject_en": "My Country Kuwait (Social Studies)",
+  "grade": 5,
+  "semester": 2,
+  "part": 1,
+  "country": "Kuwait",
+  "publisher": "وزارة التربية - دولة الكويت",
+  "year": "2025-2026",
+  "total_pages": 105,
+  "units": [
+    {
+      "unit_number": 1,
+      "unit_title": "تاريخ النهضة في وطني الكويت",
+      "unit_title_en": "History of Renaissance in Kuwait",
+      "page_start": 15,
+      "lessons": [
+        {
+          "code": "1-1",
+          "title": "الشيخ عبدالله السالم الصباح",
+          "title_en": "Sheikh Abdullah Al-Salem Al-Sabah",
+          "page": 18,
+          "page_end": 20
+        },
+        {
+          "code": "1-2",
+          "title": "الشيخ صباح السالم الصباح",
+          "title_en": "Sheikh Sabah Al-Salem Al-Sabah",
+          "page": 21,
+          "page_end": 24
+        },
+        {
+          "code": "1-3",
+          "title": "الشيخ جابر الأحمد الجابر الصباح",
+          "title_en": "Sheikh Jaber Al-Ahmad Al-Jaber Al-Sabah",
+          "page": 25,
+          "page_end": 28
+        },
+        {
+          "code": "1-4",
+          "title": "الشيخ سعد العبدالله السالم الصباح",
+          "title_en": "Sheikh Saad Al-Abdullah Al-Salem Al-Sabah",
+          "page": 29,
+          "page_end": 31
+        },
+        {
+          "code": "1-5",
+          "title": "الشيخ صباح الأحمد الجابر الصباح",
+          "title_en": "Sheikh Sabah Al-Ahmad Al-Jaber Al-Sabah",
+          "page": 32,
+          "page_end": 34
+        },
+        {
+          "code": "1-6",
+          "title": "الشيخ نواف الأحمد الجابر الصباح",
+          "title_en": "Sheikh Nawaf Al-Ahmad Al-Jaber Al-Sabah",
+          "page": 35,
+          "page_end": 37
+        },
+        {
+          "code": "1-7",
+          "title": "حضرة صاحب السمو أمير البلاد الشيخ مشعل الأحمد الجابر الصباح",
+          "title_en": "His Highness the Amir Sheikh Mishal Al-Ahmad Al-Jaber Al-Sabah",
+          "page": 38,
+          "page_end": 44
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "unit_title": "سكان وطني الكويت",
+      "unit_title_en": "Population of Kuwait",
+      "page_start": 45,
+      "lessons": [
+        {
+          "code": "2-1",
+          "title": "السكان في وطني الكويت (1)",
+          "title_en": "Population of Kuwait (1)",
+          "page": 48,
+          "page_end": 50
+        },
+        {
+          "code": "2-2",
+          "title": "السكان في وطني الكويت (2)",
+          "title_en": "Population of Kuwait (2)",
+          "page": 51,
+          "page_end": 52
+        },
+        {
+          "code": "2-3",
+          "title": "المجتمع في وطني الكويت",
+          "title_en": "Society in Kuwait",
+          "page": 53,
+          "page_end": 55
+        },
+        {
+          "code": "2-4",
+          "title": "دور المرأة في مجتمع وطني الكويت",
+          "title_en": "The Role of Women in Kuwaiti Society",
+          "page": 56,
+          "page_end": 58
+        },
+        {
+          "code": "2-5",
+          "title": "العادات والتقاليد في وطني الكويت",
+          "title_en": "Customs and Traditions in Kuwait",
+          "page": 59,
+          "page_end": 60
+        },
+        {
+          "code": "2-6",
+          "title": "دور الفرد في المحافظة على الهوية الوطنية",
+          "title_en": "The Role of the Individual in Preserving National Identity",
+          "page": 61,
+          "page_end": 66
+        }
+      ]
+    },
+    {
+      "unit_number": 3,
+      "unit_title": "وطني الكويت والمنظمات الإقليمية",
+      "unit_title_en": "Kuwait and Regional Organizations",
+      "page_start": 67,
+      "lessons": [
+        {
+          "code": "3-1",
+          "title": "وطني الكويت ومجلس التعاون لدول الخليج العربية",
+          "title_en": "Kuwait and the Gulf Cooperation Council",
+          "page": 70,
+          "page_end": 71
+        },
+        {
+          "code": "3-2",
+          "title": "وطني الكويت وجامعة الدول العربية (1)",
+          "title_en": "Kuwait and the Arab League (1)",
+          "page": 72,
+          "page_end": 73
+        },
+        {
+          "code": "3-3",
+          "title": "وطني الكويت وجامعة الدول العربية (2)",
+          "title_en": "Kuwait and the Arab League (2)",
+          "page": 74,
+          "page_end": 75
+        },
+        {
+          "code": "3-4",
+          "title": "وطني الكويت ومنظمة التعاون الإسلامي",
+          "title_en": "Kuwait and the Organisation of Islamic Cooperation",
+          "page": 76,
+          "page_end": 78
+        },
+        {
+          "code": "3-5",
+          "title": "وطني الكويت ومنظمة الأمم المتحدة",
+          "title_en": "Kuwait and the United Nations",
+          "page": 79,
+          "page_end": 81
+        },
+        {
+          "code": "3-6",
+          "title": "وطني الكويت وحقوق الإنسان",
+          "title_en": "Kuwait and Human Rights",
+          "page": 82,
+          "page_end": 88
+        }
+      ]
+    },
+    {
+      "unit_number": 4,
+      "unit_title": "وطني الكويت بلد العطاء",
+      "unit_title_en": "Kuwait: Land of Giving",
+      "page_start": 89,
+      "lessons": [
+        {
+          "code": "4-1",
+          "title": "وطني الكويت مركز للعمل الإنساني",
+          "title_en": "Kuwait: A Center for Humanitarian Work",
+          "page": 92,
+          "page_end": 93
+        },
+        {
+          "code": "4-2",
+          "title": "جمعية الهلال الأحمر الكويتي",
+          "title_en": "Kuwait Red Crescent Society",
+          "page": 94,
+          "page_end": 95
+        },
+        {
+          "code": "4-3",
+          "title": "الجمعيات الخيرية في وطني الكويت",
+          "title_en": "Charitable Organizations in Kuwait",
+          "page": 96,
+          "page_end": 98
+        },
+        {
+          "code": "4-4",
+          "title": "دور الفرد في العمل الخيري",
+          "title_en": "The Role of the Individual in Charitable Work",
+          "page": 99,
+          "page_end": 101
+        },
+        {
+          "code": "4-5",
+          "title": "الأيادي البيضاء في وطني الكويت",
+          "title_en": "The White Hands of Kuwait",
+          "page": 102,
+          "page_end": 105
+        }
+      ]
+    }
+  ]
+}
