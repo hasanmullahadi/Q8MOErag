@@ -1,0 +1,41 @@
+{
+  "book_id": "2854",
+  "subject": "لغتي العربية",
+  "subject_en": "Arabic Language",
+  "grade": 3,
+  "semester": 1,
+  "part": 1,
+  "country": "Kuwait",
+  "publisher": "وزارة التربية - دولة الكويت",
+  "year": "2025-2026",
+  "total_pages": 160,
+  "units": [
+    {
+      "unit_number": 1,
+      "unit_title": "الوحدة الأولى",
+      "unit_title_en": "Unit 1",
+      "page_start": 17,
+      "lessons": [
+        {"code": "1-0", "title": "أنشودة العلم والوطن (شعر)", "title_en": "Song of Knowledge and Homeland (Poetry)", "page": 24, "page_end": 24},
+        {"code": "1-S", "title": "درس الاستماع: الفتاة المغرورة (نثر)", "title_en": "Listening: The Arrogant Girl (Prose)", "page": 25, "page_end": 27},
+        {"code": "1-1", "title": "قدري أن أكون قمراً (نثر)", "title_en": "My Destiny to Be a Moon (Prose)", "page": 28, "page_end": 52},
+        {"code": "1-2", "title": "طريق النجاح (نثر)", "title_en": "The Path of Success (Prose)", "page": 53, "page_end": 79},
+        {"code": "1-E", "title": "الوقفة التقويمية الشاملة", "title_en": "Comprehensive Assessment", "page": 80, "page_end": 87},
+        {"code": "1-R", "title": "القراءة الحرة", "title_en": "Free Reading", "page": 88, "page_end": 91}
+      ]
+    },
+    {
+      "unit_number": 2,
+      "unit_title": "الوحدة الثانية",
+      "unit_title_en": "Unit 2",
+      "page_start": 92,
+      "lessons": [
+        {"code": "2-S", "title": "درس الاستماع: بطل صغير.. لكوكب كبير (نثر)", "title_en": "Listening: Small Hero for a Big Planet (Prose)", "page": 92, "page_end": 94},
+        {"code": "2-1", "title": "أخبرني عن الإسلام (حديث شريف)", "title_en": "Tell Me About Islam (Hadith)", "page": 95, "page_end": 120},
+        {"code": "2-2", "title": "حزام الأمان (نثر)", "title_en": "The Safety Belt (Prose)", "page": 121, "page_end": 147},
+        {"code": "2-E", "title": "الوقفة التقويمية الشاملة", "title_en": "Comprehensive Assessment", "page": 148, "page_end": 153},
+        {"code": "2-R", "title": "القراءة الحرة", "title_en": "Free Reading", "page": 154, "page_end": 160}
+      ]
+    }
+  ]
+}

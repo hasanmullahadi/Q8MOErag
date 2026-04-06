@@ -1,0 +1,34 @@
+{
+  "book_id": "2970",
+  "subject": "العلوم",
+  "subject_en": "Science",
+  "grade": 5,
+  "semester": 2,
+  "part": 1,
+  "country": "Kuwait",
+  "publisher": "وزارة التربية - دولة الكويت",
+  "year": "2025-2026",
+  "total_pages": 93,
+  "units": [
+    {
+      "unit_number": 3,
+      "unit_title": "المادة والطاقة",
+      "unit_title_en": "Matter and Energy",
+      "page_start": 15,
+      "lessons": [
+        {"code": "1-1", "title": "الحرارة", "title_en": "Heat", "page": 18, "page_end": 24},
+        {"code": "1-2", "title": "طرق انتقال الحرارة", "title_en": "Methods of Heat Transfer", "page": 25, "page_end": 31},
+        {"code": "1-3", "title": "تطبيقات على انتقال الحرارة في حياتنا", "title_en": "Applications of Heat Transfer in Our Lives", "page": 32, "page_end": 37},
+        {"code": "1-4", "title": "تأثير الحرارة على المادة", "title_en": "Effect of Heat on Matter", "page": 38, "page_end": 43},
+        {"code": "1-5", "title": "الذرة", "title_en": "The Atom", "page": 44, "page_end": 47},
+        {"code": "1-6", "title": "شحنة الذرة", "title_en": "Atomic Charge", "page": 48, "page_end": 52},
+        {"code": "1-7", "title": "العناصر", "title_en": "Elements", "page": 53, "page_end": 65},
+        {"code": "2-1", "title": "التيار الكهربائي", "title_en": "Electric Current", "page": 67, "page_end": 72},
+        {"code": "2-2", "title": "دائرة توصيل المصابيح على التوالي", "title_en": "Series Circuit for Connecting Light Bulbs", "page": 73, "page_end": 77},
+        {"code": "2-3", "title": "دائرة توصيل المصابيح على التوازي", "title_en": "Parallel Circuit for Connecting Light Bulbs", "page": 78, "page_end": 85},
+        {"code": "3-1", "title": "الرافعة", "title_en": "The Lever", "page": 87, "page_end": 92},
+        {"code": "3-2", "title": "رفع الأجسام برافعة", "title_en": "Lifting Objects with a Lever", "page": 93, "page_end": 93}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "book_id": "3211",
+  "subject": "العلوم",
+  "subject_en": "Science",
+  "grade": 3,
+  "semester": 2,
+  "part": 2,
+  "country": "Kuwait",
+  "publisher": "وزارة التربية - دولة الكويت",
+  "year": "2025-2026",
+  "total_pages": 60,
+  "units": [
+    {
+      "unit_number": 4,
+      "unit_title": "الأرض والفضاء",
+      "unit_title_en": "Earth and Space",
+      "page_start": 11,
+      "lessons": [
+        {"code": "1-1", "title": "ما أغلفة الأرض؟", "title_en": "What Are Earth's Layers?", "page": 14, "page_end": 18},
+        {"code": "1-2", "title": "ما التجوية؟", "title_en": "What Is Weathering?", "page": 19, "page_end": 22},
+        {"code": "1-3", "title": "ما التعرية؟", "title_en": "What Is Erosion?", "page": 23, "page_end": 26},
+        {"code": "1-4", "title": "كيف يغير الزلزال سطح الأرض؟", "title_en": "How Do Earthquakes Change Earth's Surface?", "page": 27, "page_end": 30},
+        {"code": "1-5", "title": "كيف يغير البركان سطح الأرض؟", "title_en": "How Do Volcanoes Change Earth's Surface?", "page": 31, "page_end": 34},
+        {"code": "1-6", "title": "ما الأحافير؟", "title_en": "What Are Fossils?", "page": 35, "page_end": 39},
+        {"code": "1-7", "title": "ما أهمية دراسة الأحافير؟", "title_en": "Why Is Studying Fossils Important?", "page": 40, "page_end": 46},
+        {"code": "2-1", "title": "كيف تختلف عوامل المناخ في البيئات المختلفة؟", "title_en": "How Do Climate Factors Differ Across Environments?", "page": 48, "page_end": 51},
+        {"code": "2-2", "title": "كيف يتحرك القمر حول الأرض؟", "title_en": "How Does the Moon Move Around Earth?", "page": 52, "page_end": 58}
+      ]
+    }
+  ]
+}

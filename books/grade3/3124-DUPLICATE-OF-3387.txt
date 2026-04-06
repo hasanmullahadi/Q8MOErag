@@ -1,0 +1,4 @@
+Book 3124 is identical to book 3387.
+Both are: الرياضيات - الصف الثالث - الفصل الدراسي الثاني - القسم الأول
+Same authors, same TOC, same content.
+Use the extraction from 3387-math-sem2-part2/ instead.

@@ -1,0 +1,53 @@
+{
+  "book_id": "3412",
+  "subject": "الرياضيات",
+  "subject_en": "Mathematics",
+  "grade": 5,
+  "semester": 2,
+  "part": 1,
+  "country": "Kuwait",
+  "publisher": "وزارة التربية - دولة الكويت",
+  "year": "2025-2026",
+  "total_pages": 83,
+  "units": [
+    {
+      "unit_number": 5,
+      "unit_title": "الكسور",
+      "unit_title_en": "Fractions",
+      "page_start": 14,
+      "lessons": [
+        {"code": "5-1", "title": "الكسور", "title_en": "Fractions", "page": 17, "page_end": 19},
+        {"code": "5-2", "title": "الكسور المتكافئة", "title_en": "Equivalent Fractions", "page": 20, "page_end": 21},
+        {"code": "5-3", "title": "العامل المشترك الأكبر (ع.م.أ)", "title_en": "Greatest Common Factor (GCF)", "page": 22, "page_end": 23},
+        {"code": "5-4", "title": "الكسر في أبسط صورة", "title_en": "Simplest Form of a Fraction", "page": 24, "page_end": 25},
+        {"code": "5-5", "title": "ربط الكسور الاعتيادية بالكسور العشرية", "title_en": "Connecting Common Fractions to Decimals", "page": 26, "page_end": 27},
+        {"code": "5-6", "title": "الأعداد الكسرية", "title_en": "Mixed Numbers", "page": 28, "page_end": 29},
+        {"code": "5-7", "title": "إيجاد المقام المشترك الأصغر", "title_en": "Finding the Least Common Denominator (LCD)", "page": 30, "page_end": 32},
+        {"code": "5-8", "title": "مقارنة الكسور", "title_en": "Comparing Fractions", "page": 33, "page_end": 33},
+        {"code": "5-9", "title": "ترتيب الكسور", "title_en": "Ordering Fractions", "page": 34, "page_end": 35},
+        {"code": "5-10", "title": "مقارنة الأعداد الكسرية وترتيبها", "title_en": "Comparing and Ordering Mixed Numbers", "page": 36, "page_end": 37}
+      ]
+    },
+    {
+      "unit_number": 6,
+      "unit_title": "العمليات على الكسور",
+      "unit_title_en": "Operations on Fractions",
+      "page_start": 44,
+      "lessons": [
+        {"code": "6-1", "title": "جمع وطرح الكسور ذات المقامات الموحدة", "title_en": "Adding and Subtracting Fractions with Like Denominators", "page": 47, "page_end": 49},
+        {"code": "6-2", "title": "جمع كسور ذات مقامات مختلفة", "title_en": "Adding Fractions with Unlike Denominators", "page": 50, "page_end": 51},
+        {"code": "6-3", "title": "جمع الأعداد الكسرية", "title_en": "Adding Mixed Numbers", "page": 52, "page_end": 53},
+        {"code": "6-4", "title": "طرح كسور ذات مقامات مختلفة", "title_en": "Subtracting Fractions with Unlike Denominators", "page": 54, "page_end": 55},
+        {"code": "6-5", "title": "طرح الأعداد الكسرية", "title_en": "Subtracting Mixed Numbers", "page": 56, "page_end": 57},
+        {"code": "6-6", "title": "إيجاد قيمة كسر من عدد كلي", "title_en": "Finding a Fraction of a Whole Number", "page": 58, "page_end": 59},
+        {"code": "6-7", "title": "ضرب الكسور", "title_en": "Multiplying Fractions", "page": 60, "page_end": 61},
+        {"code": "6-8", "title": "ضرب عدد كلي في كسر", "title_en": "Multiplying a Whole Number by a Fraction", "page": 62, "page_end": 63},
+        {"code": "6-9", "title": "ضرب الأعداد الكسرية", "title_en": "Multiplying Mixed Numbers", "page": 64, "page_end": 65},
+        {"code": "6-10", "title": "النسب", "title_en": "Ratios", "page": 66, "page_end": 67},
+        {"code": "6-11", "title": "النسب المتساوية والتناسب", "title_en": "Equal Ratios and Proportion", "page": 68, "page_end": 69},
+        {"code": "6-12", "title": "مفهوم النسبة المئوية", "title_en": "Concept of Percentage", "page": 70, "page_end": 72},
+        {"code": "6-13", "title": "الربط بين الكسور الاعتيادية والكسور العشرية والنسبة المئوية", "title_en": "Connecting Common Fractions, Decimals, and Percentages", "page": 73, "page_end": 75}
+      ]
+    }
+  ]
+}
