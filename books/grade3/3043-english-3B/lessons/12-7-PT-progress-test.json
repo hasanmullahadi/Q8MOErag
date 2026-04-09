@@ -1,0 +1,101 @@
+{
+  "code": "7-PT",
+  "title": "Progress Test",
+  "title_en": "Progress Test - Unit 7",
+  "page_start": 46,
+  "page_end": 47,
+  "objectives": [
+    "Assess vocabulary from Unit 7 (hobbies, indoor/outdoor activities)",
+    "Test reading comprehension with a passage about helping cats",
+    "Evaluate grammar: like/enjoy + verb-ing and possessive adjectives",
+    "Assess guided writing about last summer holiday"
+  ],
+  "vocabulary": [],
+  "key_concepts": [],
+  "examples": [],
+  "exercises": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "problem": "Playing football is an amazing ............ (a. chess, b. hobby, c. coin)",
+      "answer": "b. hobby"
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "problem": "The teacher took us to do some ............ activities. (a. rainy, b. cloudy, c. outdoor)",
+      "answer": "c. outdoor"
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "problem": "They ............ beautiful houses of blocks. (a. build, b. dive, c. sail)",
+      "answer": "a. build"
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "problem": "My cousin likes doing ............ on weekends. (a. crafts, b. tracks, c. seasons)",
+      "answer": "a. crafts"
+    },
+    {
+      "id": 5,
+      "type": "reading_comprehension",
+      "problem": "Read about Ali and the cat. The best title: (a. Playing with Friends, b. Saving Cats, c. At School)",
+      "answer": "b. Saving Cats"
+    },
+    {
+      "id": 6,
+      "type": "reading_comprehension",
+      "problem": "The underlined word 'They' in line 5 refers to: (a. Ali and his friends, b. cats, c. places)",
+      "answer": "a. Ali and his friends"
+    },
+    {
+      "id": 7,
+      "type": "reading_comprehension",
+      "problem": "Ali and his friends gave the cat food and some ............ (a. track, b. milk, c. school)",
+      "answer": "b. milk"
+    },
+    {
+      "id": 8,
+      "type": "short_answer",
+      "problem": "Where did Ali and his friends see the cat?",
+      "answer": "Near his school."
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "problem": "I enjoy ............ healthy food. (a. eat, b. eating, c. ate)",
+      "answer": "b. eating"
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "problem": "She bought a new bag. ............ bag is big. (a. His, b. Her, c. Their)",
+      "answer": "b. Her"
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "problem": "This is our teacher. ............ name is Ali. (a. Their, b. Our, c. His)",
+      "answer": "c. His"
+    },
+    {
+      "id": 12,
+      "type": "guided_writing",
+      "problem": "Write about 'Last Summer Holiday' using guide words: go-beach, sister-castle, amazing-time",
+      "answer": "Last summer, we went to the beach. My sister built a castle. We had an amazing time."
+    },
+    {
+      "id": 13,
+      "type": "fill_in_blank",
+      "problem": "Complete: 1. This is my __________ sister. 2. I enjoy doing __________ with my friend. 3. My __________ is writing.",
+      "answer": "1. little; 2. crafts (or activities); 3. hobby"
+    }
+  ],
+  "images": {
+    "pages": [],
+    "figures": []
+  },
+  "teaching_notes": "Progress test covers all Unit 7 skills. The reading passage about saving cats tests comprehension and values (kindness to animals). Grammar tests both like/enjoy + verb-ing and possessive adjectives. Writing requires a guided paragraph about a summer holiday."
+}

@@ -1,0 +1,27 @@
+{
+  "code": "8-7",
+  "title": "Technology in My Life: Today and Tomorrow",
+  "title_en": "Technology in My Life: Today and Tomorrow",
+  "page_start": 63, "page_end": 64,
+  "skill": "Writing",
+  "objectives": [
+    "Produce a two-paragraph report comparing technology now and in the future",
+    "Apply appropriate linkers to connect ideas clearly in a report"
+  ],
+  "vocabulary": [],
+  "key_concepts": [
+    {"concept": "Now vs Future Technology", "explanation": "Now (N): People use tablets to study and do homework. A parent buys groceries online using a phone app. People use smartwatches to check the time and their health. Future (F): Robots will help with cooking and daily work. Memory-recording glasses will save special memories. Weather-control drones will keep cities cool. Families will live in smart homes and robots will help with daily work."},
+    {"concept": "Time Linkers", "explanation": "Nowadays and in the future are time linkers — use them to show when something happens. Use the present simple for Now (N). Use will + base verb for In the Future (F)."},
+    {"concept": "Paragraph Structure with Linkers", "explanation": "Fill-in model: '___ (Nowadays), technology is a big part of our everyday life. People use it to study, work, and shop online. ___ (For example), students attend virtual classes and families buy groceries using apps. ___ (As a result), many tasks are faster and easier than before. ___ (However/In the future), robots and AI will help people at home and make cities smarter. ___ (As a result), people should still use technology carefully and not depend on it too much.'"}
+  ],
+  "examples": [],
+  "exercises": [
+    {"id": 1, "type": "classify", "problem": "Read and Sort (N for Now / F for In the Future): 1. People use tablets to study and do homework. 2. Robots will help with cooking and daily work. 3. A parent buys groceries online using a phone app. 4. Memory-recording glasses will save special memories. 5. Weather-control drones will keep cities cool. 6. People use smartwatches to check the time and their health.", "answer": "1. N, 2. F, 3. N, 4. F, 5. F, 6. N"},
+    {"id": 2, "type": "fill_in_linkers", "problem": "Fill in the blanks in the paragraph with suitable linkers from: in the future, for example, however, nowadays, as a result.", "answer": "Nowadays, For example, As a result, In the future/However, As a result/However"},
+    {"id": 3, "type": "paragraph_analysis", "problem": "Read the paragraph again and complete the table: Type of Sentence → Write Your Sentence. Topic Sentence: ___. Supporting Detail 1: ___. Supporting Detail 2: ___. Concluding Sentence: ___.", "answer": "Topic: Nowadays, technology is a big part of our everyday life. Supporting 1: Students attend virtual classes and families buy groceries using apps. Supporting 2: Robots and AI will help people at home. Concluding: People should still use technology carefully."},
+    {"id": 4, "type": "group_writing", "problem": "In groups, write one way technology helps people now and one way it will help them in the future. Discuss your ideas with your group. Now: ___. In the future: ___.", "answer": "Open-ended group brainstorming"},
+    {"id": 5, "type": "writing", "problem": "Plan and write a report of two paragraphs: Paragraph 1 — How technology helps people today. Paragraph 2 — How technology will change life in the future. Use the planning template (Introduction, Paragraph 1 topic/details/conclusion, Paragraph 2 topic/details/conclusion, Conclusion). Use the Paragraph Writing Checklist.", "answer": "Open-ended two-paragraph report"}
+  ],
+  "images": {"pages": [63, 64], "figures": []},
+  "teaching_notes": "Writing lesson comparing technology now and in the future. Read and Sort exercise distinguishes present (N) and future (F) statements. Language Focus: 'Nowadays' and 'in the future' as time linkers. Linker Bank: because, also, first, finally, therefore, in addition, for example, next, so, as a result. Model paragraph with linker gaps. Paragraph analysis table. Group brainstorming then individual two-paragraph report. Paragraph Writing Checklist includes: interesting opening sentence, new words from unit, punctuation/capitals, AI proofreading, suitable linkers, clear paragraph endings, correct spelling, present simple for now + will for future. Page 64 contains planning template. 2 pages."
+}

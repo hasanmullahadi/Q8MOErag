@@ -1,0 +1,192 @@
+{
+  "code": "5-1",
+  "title": "Happy Dates",
+  "title_en": "Happy Dates",
+  "page_start": 6,
+  "page_end": 13,
+  "objectives": [
+    "Identify key vocabulary related to Ramadan and national celebrations",
+    "Use present simple negative (don't / doesn't) correctly",
+    "Read and comprehend short passages about Eid Al-Fitr, Eid Al-Adha, and Prophet Muhammad's birthday",
+    "Use ordinal numbers and prepositions of time (in, on, at) with months and dates",
+    "Write short guided paragraphs about Ramadan and Kuwait's National Day"
+  ],
+  "vocabulary": [
+    {"term": "date", "term_en": "date", "definition": "A specific day of the month or year"},
+    {"term": "fast", "term_en": "fast", "definition": "To not eat or drink for a period of time, especially during Ramadan"},
+    {"term": "before", "term_en": "before", "definition": "Earlier than a particular time"},
+    {"term": "dawn", "term_en": "dawn", "definition": "The time of day when light first appears in the sky, before sunrise"},
+    {"term": "after", "term_en": "after", "definition": "Later than a particular time"},
+    {"term": "sunset", "term_en": "sunset", "definition": "The time when the sun goes down in the evening"},
+    {"term": "special", "term_en": "special", "definition": "Different from what is normal; important"},
+    {"term": "month", "term_en": "month", "definition": "One of the twelve periods of time that a year is divided into"},
+    {"term": "forget", "term_en": "forget", "definition": "To not remember something"},
+    {"term": "celebrate", "term_en": "celebrate", "definition": "To do something enjoyable for a special occasion"},
+    {"term": "prayer", "term_en": "prayer", "definition": "Words spoken to God; the act of praying"},
+    {"term": "grandparent", "term_en": "grandparent", "definition": "The parent of your mother or father"},
+    {"term": "mount", "term_en": "mount", "definition": "A mountain (e.g. Mount Arafat)"},
+    {"term": "poor", "term_en": "poor", "definition": "Having very little money; not rich"},
+    {"term": "celebration", "term_en": "celebration", "definition": "A special event or party for an important occasion"},
+    {"term": "national", "term_en": "national", "definition": "Relating to or belonging to a country"},
+    {"term": "year", "term_en": "year", "definition": "A period of 365 days (or 366 in a leap year)"},
+    {"term": "march", "term_en": "march", "definition": "To walk in a group with regular steps, often in a parade"},
+    {"term": "fireworks", "term_en": "fireworks", "definition": "Devices that explode with bright colours and loud noises in the sky"},
+    {"term": "lucky", "term_en": "lucky", "definition": "Having good things happen to you by chance"},
+    {"term": "birthday", "term_en": "birthday", "definition": "The day each year that is the same date as the one on which you were born"},
+    {"term": "birth", "term_en": "birth", "definition": "The occasion when a baby is born"},
+    {"term": "invite", "term_en": "invite", "definition": "To ask someone to come to a party or event"},
+    {"term": "hold", "term_en": "hold", "definition": "To organise or have an event"},
+    {"term": "holiday", "term_en": "holiday", "definition": "A day when you do not have to go to school or work"},
+    {"term": "later", "term_en": "later", "definition": "After some time; not now"}
+  ],
+  "key_concepts": [
+    {
+      "concept": "Present Simple Negative",
+      "explanation": "Use 'don't' with I/you/we/they and 'doesn't' with he/she/it to make negative sentences. Examples: 'I don't drink water when I fast.' 'She doesn't stay up late in Ramadan.' After don't/doesn't, use the base form of the verb (not past tense)."
+    },
+    {
+      "concept": "Ramadan and Fasting",
+      "explanation": "Ramadan is a special month for Muslims. They fast from dawn to sunset — they don't eat or drink during the day. At sunset (iftar), they can eat. Suhoor is the meal before dawn. Common iftar foods include dates and soup."
+    },
+    {
+      "concept": "The Two Eids",
+      "explanation": "Muslims celebrate Eid Al-Fitr after Ramadan and Eid Al-Adha on the 10th of Dhu Al-Hijjah. On Eid, people wear new clothes, go to the mosque for prayer, visit family and friends, and give gifts and money to children. For Eid Al-Adha, Muslims give lamb meat to family, friends, and poor people."
+    },
+    {
+      "concept": "Kuwait's National Day",
+      "explanation": "Kuwait's National Day is on the 25th of February. People celebrate with marching, discovering places, and watching fireworks. Al-Muhrah is a celebration where people visit Kuwait."
+    },
+    {
+      "concept": "Ordinal Numbers and Months",
+      "explanation": "Ordinal numbers show position or order: 1st (first), 2nd (second), 3rd (third), 4th (fourth), etc. up to 12th (twelfth). Used with months: 'My birthday is on the 8th of December.' Prepositions of time: use 'on' for specific dates, 'in' for months/years/Ramadan."
+    },
+    {
+      "concept": "Prophet Muhammad's Birthday",
+      "explanation": "On the 12th of Rabi' Al-Awwal, Muslims celebrate the birth of Prophet Muhammad (PBUH). Families visit each other and share sweets. It is a holiday. At school, teachers hold a celebration, give gifts, and tell stories about the Prophet's life. Students learn lessons like being kind and helping others."
+    }
+  ],
+  "examples": [
+    {
+      "problem": "Lesson 1 Listening: Listen to the recording about Ramadan and tick or cross",
+      "solution_steps": [
+        "1. Grandmother tells Noura to drink juice. (listen for this detail)",
+        "2. Noura's mother will make rice with chicken for suhoor. (listen for this detail)",
+        "3. Noura wants to fast for the first time. (listen for this detail)"
+      ],
+      "answer": "Students listen to a recording about a family preparing for Ramadan and determine if statements are true or false. Then circle the food Noura ate for suhoor from pictures (dates, rice, chicken, laban, etc.).",
+      "visual_description": "Images of grandmother and Noura watching TV about Ramadan, and Noura with her mother at night. Food pictures: dates, rice, roast chicken, laban."
+    },
+    {
+      "problem": "Lesson 3 Reading: Read about the Two Eids and answer",
+      "solution_steps": [
+        "Read the passage about Eid Al-Fitr and Eid Al-Adha",
+        "Q1: The best title — a. Month of Ramadan, b. The Two Eids, c. Giving Gifts",
+        "Q2: The underlined word 'They' in line 4 refers to — a. people, b. grandparents, c. friends",
+        "Complete the timeline: Ramadan → Eid Al-Fitr → Dhu Al-Hijjah → Eid Al-Adha"
+      ],
+      "answer": "1. b. The Two Eids; 2. a. people; Timeline: Ramadan → Eid Al-Fitr → Dhu Al-Hijjah → Eid Al-Adha",
+      "visual_description": "Reading passage with illustrations of iftar meal, family in Eid clothes, Hajj pilgrimage, and a timeline graphic"
+    },
+    {
+      "problem": "Lesson 6 Grammar: Ordinal numbers and prepositions of time",
+      "solution_steps": [
+        "Learn all 12 months with ordinal numbers: January=1st, February=2nd, ..., December=12th",
+        "Q1: My birthday is ............ the 8th of December. (a. in, b. on, c. at)",
+        "Q2: We fast ............ Ramadan. (a. in, b. on, c. at)"
+      ],
+      "answer": "1. b. on (use 'on' for specific dates); 2. a. in (use 'in' for months and Ramadan)",
+      "visual_description": "Calendar showing 12 months with ordinal numbers (1st through 12th), balloons, and children asking about birthdays"
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "problem": "They ............ eat before iftar.",
+      "answer": "a. don't"
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "problem": "She doesn't ............ up late in Ramadan.",
+      "answer": "b. stay"
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "problem": "The best title for the passage about the Two Eids could be:",
+      "answer": "b. The Two Eids"
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "problem": "The underlined word 'They' in line 4 refers to:",
+      "answer": "a. people"
+    },
+    {
+      "id": 5,
+      "type": "spelling",
+      "problem": "Write the missing words: 1. They __________ Eid by wearing new clothes. 2. Don't __________ to pray on time.",
+      "answer": "1. celebrate; 2. forget"
+    },
+    {
+      "id": 6,
+      "type": "guided_writing",
+      "problem": "Write a paragraph about 'Ramadan' with the help of pictures and guide words: Muslims-fast, read-Quran, pray-mosque",
+      "answer": "In Ramadan, Muslims fast from dawn to sunset. They read the Quran every day. They pray in the mosque. Ramadan is a special month."
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "problem": "Al-Muhrah is from ............ (a. Kuwait, b. Bahrain, c. United Arab Emirates)",
+      "answer": "Listen to determine the correct answer from the recording about Kuwait's National Day celebrations"
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "problem": "My birthday is ............ the 8th of December.",
+      "answer": "b. on"
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "problem": "We fast ............ Ramadan.",
+      "answer": "a. in"
+    },
+    {
+      "id": 10,
+      "type": "short_answer",
+      "problem": "When was our Prophet's birthday?",
+      "answer": "On the 12th of Rabi' Al-Awwal."
+    },
+    {
+      "id": 11,
+      "type": "short_answer",
+      "problem": "What do children learn from the story of our Prophet?",
+      "answer": "They learn lessons like being kind and helping others."
+    },
+    {
+      "id": 12,
+      "type": "spelling",
+      "problem": "Write the missing words: 1. We celebrate Eid with our __________. 2. There are 365 days in a __________.",
+      "answer": "1. families (or grandparents); 2. year"
+    },
+    {
+      "id": 13,
+      "type": "guided_writing",
+      "problem": "Write a paragraph about 'Kuwait's National Day' with guide words: march-street, discover-places, watch-fireworks",
+      "answer": "On Kuwait's National Day, we march in the street. We discover new places. We watch fireworks at night. It is a happy celebration."
+    },
+    {
+      "id": 14,
+      "type": "classify",
+      "problem": "Read, then tick: Is 'December' a Day, month, or year? Is '2028' a Day, month, or year?",
+      "answer": "December = month; 2028 = year"
+    }
+  ],
+  "images": {
+    "pages": [],
+    "figures": []
+  },
+  "teaching_notes": "This unit covers Ramadan, the two Eids, Kuwait's National Day, and Prophet Muhammad's birthday — all culturally significant for Kuwaiti students. Grammar focus is present simple negative (don't/doesn't) and ordinal numbers with prepositions of time (in/on/at). The unit has 8 sub-lessons alternating between listening, grammar, reading, and spelling/writing for two themes. Use the song 'We Don't Eat Before Dawn' to reinforce don't/doesn't. Connect to students' personal experiences: ask about their Ramadan routines, Eid celebrations, and birthdays. The vocabulary list has 26 words across all 8 sub-lessons."
+}

@@ -1,0 +1,108 @@
+{
+  "code": "6-PT",
+  "title": "Progress Test",
+  "title_en": "Progress Test - Unit 6",
+  "page_start": 33,
+  "page_end": 36,
+  "objectives": [
+    "Assess sports and technology vocabulary from Unit 6",
+    "Test reading comprehension about a Science Museum visit",
+    "Evaluate grammar: good at + verb-ing and relative clauses (who/which)",
+    "Assess spelling: -ing rules and -ly suffix",
+    "Write a structured paragraph about Sports Day"
+  ],
+  "vocabulary": [],
+  "key_concepts": [],
+  "examples": [],
+  "exercises": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "problem": "Riding bikes is a great exercise to ............ calories. (a. burn, b. worry, c. greet, d. wrap)",
+      "answer": "a. burn"
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "problem": "............, schools are modern in Kuwait. (a. Nowadays, b. Suddenly, c. Easily, d. Gently)",
+      "answer": "a. Nowadays"
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "problem": "Modern cars have ............ to help us drive safely. (a. calories, b. channels, c. workouts, d. sensors)",
+      "answer": "d. sensors"
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "problem": "Playing sports helps to ............ your energy. (a. announce, b. track, c. increase, d. land)",
+      "answer": "c. increase"
+    },
+    {
+      "id": 5,
+      "type": "reading_comprehension",
+      "problem": "Read about Sara and Nouf visiting Science Museum. Best title: (a. The Science Museum, b. The Space Hall, c. The Robots, d. The Moon Landing)",
+      "answer": "a. The Science Museum"
+    },
+    {
+      "id": 6,
+      "type": "reading_comprehension",
+      "problem": "The underlined word 'effortless' in line 10 means: (a. new, b. light, c. clean, d. easy)",
+      "answer": "d. easy"
+    },
+    {
+      "id": 7,
+      "type": "reading_comprehension",
+      "problem": "The underlined word 'They' in line 9 refers to: (a. photos, b. tablets, c. girls, d. cars)",
+      "answer": "c. girls"
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "problem": "Noura is not good at ............ bikes. (a. rode, b. riding, c. rides)",
+      "answer": "b. riding"
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "problem": "Mona ............ has a long hair, is my cousin. (a. which, b. who, c. what)",
+      "answer": "b. who"
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "problem": "I ............ good at using smart phones. (a. is, b. am, c. are)",
+      "answer": "b. am"
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "problem": "The school ............ is near our house is my school. (a. who, b. what, c. which)",
+      "answer": "c. which"
+    },
+    {
+      "id": 12,
+      "type": "fill_in_blank",
+      "problem": "1. I use my ............ to track my steps. 2. In the past people used the ............ to type letters.",
+      "answer": "1. smartwatch; 2. typewriter"
+    },
+    {
+      "id": 13,
+      "type": "word_formation",
+      "problem": "Combine: 1. normal + ly = ............ 2. easy + ly = ............",
+      "answer": "1. normally; 2. easily"
+    },
+    {
+      "id": 14,
+      "type": "guided_writing",
+      "problem": "Graphic organiser about 'The Sports Day': 1. How often? 2. What do you do? 3. What should each team do? 4. What does the winner get? 5. How do players feel? Guide words: yearly-warm up-race-respect-golden-proud",
+      "answer": "We have a sports day every year. We warm up and run in races. Each team should race with respect. The winning team gets a golden cup. Players feel proud after winning."
+    }
+  ],
+  "images": {
+    "pages": [],
+    "figures": []
+  },
+  "teaching_notes": "4-page progress test. Reading passage about Science Museum visit tests comprehension, vocabulary in context ('effortless'), and reference words. Grammar tests both good at + verb-ing and relative clauses. Spelling tests smartwatch/typewriter recognition and -ly suffix."
+}

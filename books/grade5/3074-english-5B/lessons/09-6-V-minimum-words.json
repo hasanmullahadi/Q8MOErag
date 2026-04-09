@@ -1,0 +1,49 @@
+{
+  "code": "6-V",
+  "title": "Minimum Words",
+  "title_en": "Minimum Words to be Taught - Unit 6",
+  "page_start": 38,
+  "page_end": 38,
+  "objectives": [
+    "Master the 29 target vocabulary words from Unit 6"
+  ],
+  "vocabulary": [
+    {"term": "technology", "term_en": "technology", "definition": "noun (Lesson 1)"},
+    {"term": "smartwatch", "term_en": "smartwatch", "definition": "noun (Lesson 1)"},
+    {"term": "calorie", "term_en": "calorie", "definition": "noun (Lesson 1)"},
+    {"term": "track", "term_en": "track", "definition": "verb (Lesson 1)"},
+    {"term": "step", "term_en": "step", "definition": "noun (Lesson 1)"},
+    {"term": "relay race", "term_en": "relay race", "definition": "noun (Lesson 1)"},
+    {"term": "burn", "term_en": "burn", "definition": "verb (Lesson 1)"},
+    {"term": "heart rate", "term_en": "heart rate", "definition": "noun (Lesson 1)"},
+    {"term": "tablet", "term_en": "tablet", "definition": "noun (Lesson 4)"},
+    {"term": "easily", "term_en": "easily", "definition": "adverb (Lesson 4)"},
+    {"term": "programme", "term_en": "programme", "definition": "noun (Lesson 4)"},
+    {"term": "channel", "term_en": "channel", "definition": "noun (Lesson 4)"},
+    {"term": "typewriter", "term_en": "typewriter", "definition": "noun (Lesson 4)"},
+    {"term": "wire", "term_en": "wire", "definition": "noun (Lesson 4)"},
+    {"term": "nowadays", "term_en": "nowadays", "definition": "adverb (Lesson 4)"},
+    {"term": "type", "term_en": "type", "definition": "verb (Lesson 4)"},
+    {"term": "scale", "term_en": "scale", "definition": "noun (Lesson 6)"},
+    {"term": "workout", "term_en": "workout", "definition": "noun (Lesson 6)"},
+    {"term": "muscle", "term_en": "muscle", "definition": "noun (Lesson 6)"},
+    {"term": "normal", "term_en": "normal", "definition": "adjective (Lesson 6)"},
+    {"term": "weight", "term_en": "weight", "definition": "noun (Lesson 6)"},
+    {"term": "increase", "term_en": "increase", "definition": "verb (Lesson 6)"},
+    {"term": "growth", "term_en": "growth", "definition": "noun (Lesson 6)"},
+    {"term": "announce", "term_en": "announce", "definition": "verb (Lesson 8)"},
+    {"term": "sensor", "term_en": "sensor", "definition": "noun (Lesson 8)"},
+    {"term": "nervous", "term_en": "nervous", "definition": "adjective (Lesson 8)"},
+    {"term": "suddenly", "term_en": "suddenly", "definition": "adverb (Lesson 8)"},
+    {"term": "referee", "term_en": "referee", "definition": "noun (Lesson 8)"},
+    {"term": "tie", "term_en": "tie", "definition": "noun (Lesson 8)"}
+  ],
+  "key_concepts": [],
+  "examples": [],
+  "exercises": [],
+  "images": {
+    "pages": [],
+    "figures": []
+  },
+  "teaching_notes": "29 words. Groups: fitness/health (smartwatch, calorie, step, burn, heart rate, scale, workout, muscle, weight, growth), technology past/present (tablet, wire, typewriter, programme, channel, nowadays), and the Robo-Ref story (announce, sensor, referee, tie, nervous, suddenly)."
+}

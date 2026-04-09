@@ -1,0 +1,156 @@
+{
+  "code": "7-1",
+  "title": "The Culture Compass",
+  "title_en": "The Culture Compass",
+  "page_start": 42,
+  "page_end": 50,
+  "objectives": [
+    "Identify vocabulary related to culture, exhibitions, and traditions",
+    "Use imperatives for commands, instructions, and directions (affirmative and negative)",
+    "Use past continuous with 'while' to describe simultaneous past actions",
+    "Read passages about VR cultural learning and Arab inventions",
+    "Recognise silent 'l' in -lk words and apply -er/-est spelling rules",
+    "Write structured paragraphs about cultural events using graphic organisers"
+  ],
+  "vocabulary": [
+    {"term": "exhibition", "term_en": "exhibition", "definition": "A public show of objects, art, or information"},
+    {"term": "compass", "term_en": "compass", "definition": "A tool that shows direction (north, south, east, west)"},
+    {"term": "fact", "term_en": "fact", "definition": "Something that is known to be true"},
+    {"term": "model", "term_en": "model", "definition": "A small copy of something, like a building or pyramid"},
+    {"term": "respect", "term_en": "respect", "definition": "Treating others with kindness and consideration"},
+    {"term": "jewellery", "term_en": "jewellery", "definition": "Decorative items worn on the body (rings, necklaces, bracelets)"},
+    {"term": "rich", "term_en": "rich", "definition": "Having a lot of something valuable; full of culture or history"},
+    {"term": "go straight", "term_en": "go straight", "definition": "To walk or move forward without turning"},
+    {"term": "walk forward", "term_en": "walk forward", "definition": "To move ahead in the direction you are facing"},
+    {"term": "turn left/right", "term_en": "turn left/right", "definition": "To change direction to the left or right side"},
+    {"term": "experience", "term_en": "experience", "definition": "Something that happens to you; knowledge gained from doing things"},
+    {"term": "real", "term_en": "real", "definition": "Actually existing; not imaginary or virtual"},
+    {"term": "local", "term_en": "local", "definition": "Belonging to a particular place or area"},
+    {"term": "respectfully", "term_en": "respectfully", "definition": "In a polite and considerate way"},
+    {"term": "lantern", "term_en": "lantern", "definition": "A lamp, often decorative, that gives light"},
+    {"term": "virtual", "term_en": "virtual", "definition": "Created by computer; not physically real (e.g. virtual reality)"},
+    {"term": "popular", "term_en": "popular", "definition": "Liked or enjoyed by many people"},
+    {"term": "artwork", "term_en": "artwork", "definition": "A painting, drawing, or other creative piece"},
+    {"term": "poster", "term_en": "poster", "definition": "A large printed picture or notice displayed on a wall"},
+    {"term": "move", "term_en": "move", "definition": "To go from one place to another"},
+    {"term": "Malaysia", "term_en": "Malaysia", "definition": "A country in Southeast Asia"},
+    {"term": "display", "term_en": "display", "definition": "To show something for people to see"},
+    {"term": "Singapore", "term_en": "Singapore", "definition": "A city-state in Southeast Asia"},
+    {"term": "catch / caught", "term_en": "catch / caught", "definition": "To get or attract someone's attention; past: caught"},
+    {"term": "invention", "term_en": "invention", "definition": "A new machine or device created for the first time"},
+    {"term": "pick / picked", "term_en": "pick / picked", "definition": "To lift or take something up"},
+    {"term": "reply / replied", "term_en": "reply / replied", "definition": "To answer someone; past: replied"},
+    {"term": "librarian", "term_en": "librarian", "definition": "A person who works in a library and helps with books"}
+  ],
+  "key_concepts": [
+    {
+      "concept": "Imperatives",
+      "explanation": "Imperatives are used for commands, instructions, and directions. Affirmative: Use the base verb — 'Tidy your room.' 'Cross the street safely.' 'Go straight / Turn left.' 'Walk forward.' Negative: Use 'Don't' + base verb — 'Don't drink fizzy drinks.' 'Don't play in the street.' 'Don't jump in the class.' 'Don't stop here, walk forward.'"
+    },
+    {
+      "concept": "Past Continuous with While",
+      "explanation": "Use 'while' to show two actions happening at the same time in the past. Structure: While + subject + was/were + verb-ing, subject + past simple. Use 'was' with I/she/he/it, 'were' with you/they/we. Examples: 'While my mother was cooking, the cat broke the vase.' 'While they were playing, the old man fell and hurt his leg.' 'While we were studying, the new furniture arrived.'"
+    },
+    {
+      "concept": "VR for Cultural Learning",
+      "explanation": "Reading passage: Schools use virtual reality (VR) for cultural learning. During Cultural Week, students wear VR headsets to visit Italy (walk through virtual streets, see famous buildings), China (watch bright lanterns, explore the Great Wall), and Brazil (see colourful rainforest animals). Teachers say VR makes cultural learning easier and more exciting. Technology helps students explore cultures safely and respectfully."
+    },
+    {
+      "concept": "Great Arab Inventions",
+      "explanation": "Reading story: Sami finds a book called 'Great Arab Inventions' in the school library. While walking between bookshelves, something caught his eye. While opening the first page, he heard his friend Hadi. They read about early cameras, star charts, and scientists like Ibn Al-Haytham. The librarian said it was one of his favourite books. Sami borrowed it and while walking home, imagined himself inventing something new."
+    },
+    {
+      "concept": "Silent Letters and -er/-est Spelling",
+      "explanation": "Silent 'l' in -lk words: walk, talk, chalk — don't pronounce the 'l'. Adding -er/-est for comparatives/superlatives: (1) Just add: small→smaller→smallest. (2) Change 'y' to 'i': happy→happier→happiest. (3) Double final consonant (CVC): big→bigger→biggest."
+    }
+  ],
+  "examples": [
+    {
+      "problem": "Lesson 2: Imperatives",
+      "solution_steps": [
+        "Affirmative: base verb. Negative: Don't + base verb.",
+        "1. Don't ............ here, walk forward. (a. stopping, b. stopped, c. stop)",
+        "2. ............ left, then go straight. (a. Turned, b. Turn, c. Turning)"
+      ],
+      "answer": "1. c. stop; 2. b. Turn",
+      "visual_description": "Direction signs (right, forward, left, stop) with airport map showing locations"
+    },
+    {
+      "problem": "Lesson 6: Past continuous with while",
+      "solution_steps": [
+        "While + was/were + verb-ing, + past simple",
+        "While we (study), the new furniture (arrive).",
+        "→ While we were studying, the new furniture arrived."
+      ],
+      "answer": "While we were studying, the new furniture arrived.",
+      "visual_description": "Grammar chart showing while + was/were + verb-ing structure with story images"
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "problem": "Listening: 1. Reem and Noura started at the Kuwaiti booth. 2. The Egyptian booth has a model of the pyramids. 3. Moroccan booth shows traditional pearl diving tools. 4. Indonesian booth shows homemade crafts.",
+      "answer": "Listen and determine true/false. Then complete chart: What new fact did you learn about Kuwait, Oman, Turkey?"
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "problem": "Don't ............ here, walk forward. (a. stopping, b. stopped, c. stop)",
+      "answer": "c. stop"
+    },
+    {
+      "id": 3,
+      "type": "reading_comprehension",
+      "problem": "Main idea of the third paragraph about VR: (a. teachers want to replace books, b. VR helps learn science, c. students prefer real travel, d. VR allows safe cultural exploration)",
+      "answer": "d. VR allows students to explore different cultures in a safe way"
+    },
+    {
+      "id": 4,
+      "type": "reading_comprehension",
+      "problem": "The opposite of 'bright' in line 8: (a. short, b. dark, c. old, d. real)",
+      "answer": "b. dark"
+    },
+    {
+      "id": 5,
+      "type": "short_answer",
+      "problem": "Why is technology important for students in schools?",
+      "answer": "Technology helps students see real places, hear local sounds, understand traditions, and explore cultures safely and respectfully."
+    },
+    {
+      "id": 6,
+      "type": "correction",
+      "problem": "While we (study), the new furniture (arrive).",
+      "answer": "While we were studying, the new furniture arrived."
+    },
+    {
+      "id": 7,
+      "type": "reading_comprehension",
+      "problem": "In the Great Arab Inventions story, what did Sami and Hadi learn about?",
+      "answer": "They learned about clever inventions from the Arab world including early cameras, star charts, and scientists like Ibn Al-Haytham."
+    },
+    {
+      "id": 8,
+      "type": "spelling",
+      "problem": "Add -er or -est: 1. clean + er = ___. 2. easy + est = ___. 3. hot + est = ___. 4. glad + er = ___.",
+      "answer": "1. cleaner; 2. easiest; 3. hottest; 4. gladder"
+    },
+    {
+      "id": 9,
+      "type": "guided_writing",
+      "problem": "Graphic organiser about 'A Cultural Day': 1. When? 2. What countries? 3. What did you see? 4. What did you learn? 5. How did you feel? Guide words: last-Egypt-real-models-respect-excited",
+      "answer": "Last week, our school had a Cultural Day. Countries like Egypt, Kuwait, and Oman were shown. I saw real models and beautiful crafts. I learned to respect different cultures. I felt excited and proud."
+    },
+    {
+      "id": 10,
+      "type": "guided_writing",
+      "problem": "Graphic organiser about 'Artwork Show': 1. What did you participate in? 2. What did you present? 3. How long did you work? 4. What did your teacher do? 5. How did your family feel? Guide words: artwork show-airplane-model-week-help-proud",
+      "answer": "I participated in an artwork show. I presented a model airplane. I worked on it for a week. My teacher helped me. My family felt proud of my work."
+    }
+  ],
+  "images": {
+    "pages": [],
+    "figures": []
+  },
+  "teaching_notes": "This unit celebrates cultural diversity through exhibitions, VR technology, and traditions. Two grammar points: imperatives (practical for directions/instructions) and past continuous with while (complex structure for Grade 5). The VR reading connects technology to cultural learning. The Great Arab Inventions story promotes Arab heritage and scientific pride — mention Ibn Al-Haytham (father of optics). The airport map for directions is practical and engaging. Fun fact: Nile river is the longest river in the world. Values: respect, tolerance, empathy, cultural awareness. 28 vocabulary words."
+}

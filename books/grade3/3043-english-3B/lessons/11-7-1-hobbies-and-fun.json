@@ -1,0 +1,169 @@
+{
+  "code": "7-1",
+  "title": "Hobbies And Fun",
+  "title_en": "Hobbies And Fun",
+  "page_start": 38,
+  "page_end": 45,
+  "objectives": [
+    "Identify vocabulary related to hobbies and activities",
+    "Use 'like/enjoy + verb-ing' to talk about hobbies",
+    "Use possessive adjectives (my, your, his, her, our, their) correctly",
+    "Read and comprehend passages about indoor hobbies and beach activities",
+    "Write guided paragraphs about favourite activities and hobbies"
+  ],
+  "vocabulary": [
+    {"term": "hobby", "term_en": "hobby", "definition": "An activity you enjoy doing in your free time"},
+    {"term": "use", "term_en": "use", "definition": "To do something with a tool or object for a purpose"},
+    {"term": "agree", "term_en": "agree", "definition": "To have the same opinion as someone else"},
+    {"term": "collect", "term_en": "collect", "definition": "To gather things together as a hobby (e.g. coins, stamps)"},
+    {"term": "coin", "term_en": "coin", "definition": "A small round piece of metal used as money"},
+    {"term": "time", "term_en": "time", "definition": "The hours and minutes shown on a clock; a period or moment"},
+    {"term": "weekend", "term_en": "weekend", "definition": "Friday and Saturday (in Kuwait), the days off from school"},
+    {"term": "indoor", "term_en": "indoor", "definition": "Inside a building; not outside"},
+    {"term": "build", "term_en": "build", "definition": "To make something by putting parts together"},
+    {"term": "chess", "term_en": "chess", "definition": "A board game played with special pieces on a checkered board"},
+    {"term": "craft", "term_en": "craft", "definition": "An activity of making things by hand using paper, glue, etc."},
+    {"term": "create", "term_en": "create", "definition": "To make something new, especially using imagination"},
+    {"term": "wonderful", "term_en": "wonderful", "definition": "Very good; excellent; amazing"},
+    {"term": "active", "term_en": "active", "definition": "Moving around a lot; energetic"},
+    {"term": "sail", "term_en": "sail", "definition": "To travel on water in a boat"},
+    {"term": "outdoor", "term_en": "outdoor", "definition": "Outside; not inside a building"},
+    {"term": "sandcastle", "term_en": "sandcastle", "definition": "A model of a castle made from sand on a beach"},
+    {"term": "dive", "term_en": "dive", "definition": "To go under water, especially head first"},
+    {"term": "little", "term_en": "little", "definition": "Small in size; young"},
+    {"term": "track", "term_en": "track", "definition": "A path or route for walking, running, or cycling"},
+    {"term": "kayak", "term_en": "kayak", "definition": "A small narrow boat that you move with a paddle"},
+    {"term": "spend", "term_en": "spend", "definition": "To use time doing something"}
+  ],
+  "key_concepts": [
+    {
+      "concept": "Like / Enjoy + Verb-ing",
+      "explanation": "Use 'like' or 'enjoy' followed by a verb with -ing to talk about hobbies. With I/they/we: 'I like playing football.' 'They enjoy cooking.' With he/she/it: 'She enjoys writing stories.' 'He likes reading.' Questions: 'What do you like doing?' 'What do you enjoy doing?'"
+    },
+    {
+      "concept": "Possessive Adjectives",
+      "explanation": "Possessive adjectives show who owns something: I→My, You→Your, He→His, She→Her, We→Our, They→Their. Examples: 'My name is Reem.' 'His car is new.' 'Her phone is pink.' 'Our house is big.' 'Their food is cold.' Question: 'Whose house is this?' → 'This is our house.'"
+    },
+    {
+      "concept": "Indoor Hobbies",
+      "explanation": "Indoor hobbies are activities done inside: playing video games, building with blocks, playing board games (chess, dama), doing crafts (using paper, glue, colours). These help children learn new things, relax, and have fun with family or friends."
+    },
+    {
+      "concept": "Outdoor Hobbies at the Beach",
+      "explanation": "Reading passage about Mr. Nasser's family at Al-Khairan beach in Kuwait. Activities: Omar likes kayaking, Sami likes diving with his father (watching colourful fish), Ali loves skating around the beach track, Hana likes playing with her ball and building sandcastles. The mother enjoys cooking for the family. They have a picnic in the evening."
+    }
+  ],
+  "examples": [
+    {
+      "problem": "Lesson 2 Grammar: like/enjoy + verb-ing",
+      "solution_steps": [
+        "Rule: like/enjoy + verb-ing (I like watching, She enjoys writing)",
+        "1. I like ............ television with my family. (a. watch, b. watching, c. watched)",
+        "2. She ............ writing stories. (a. enjoys, b. enjoying, c. enjoy)"
+      ],
+      "answer": "1. b. watching; 2. a. enjoys",
+      "visual_description": "Grammar chart showing I/They/We + like/enjoy + verb-ing and He/She/It + likes/enjoys + verb-ing"
+    },
+    {
+      "problem": "Lesson 6 Grammar: Possessive adjectives",
+      "solution_steps": [
+        "Match pronoun to possessive: I→My, You→Your, He→His, She→Her, We→Our, They→Their",
+        "1. My sister bought a new dress. I like ............ dress. (a. our, b. her, c. his)",
+        "2. They don't like fish. ............ favourite food is chicken. (a. Their, b. Your, c. My)"
+      ],
+      "answer": "1. b. her (sister = she); 2. a. Their (They → Their)",
+      "visual_description": "Table showing pronouns matched to possessive adjectives with example sentences"
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "problem": "Listening: 1. Reem likes playing games with her family. 2. Fahad enjoys playing football. 3. Hamad likes riding bikes.",
+      "answer": "Listen and determine true/false. Then match: 1. He likes playing basketball → [boy image], 2. She likes board games → [girl image]"
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "problem": "I like ............ television with my family. (a. watch, b. watching, c. watched)",
+      "answer": "b. watching"
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "problem": "She ............ writing stories. (a. enjoys, b. enjoying, c. enjoy)",
+      "answer": "a. enjoys"
+    },
+    {
+      "id": 4,
+      "type": "reading_comprehension",
+      "problem": "The best title for the passage about indoor hobbies could be: (a. Indoor Hobbies, b. Playing Chess, c. The Board Games)",
+      "answer": "a. Indoor Hobbies"
+    },
+    {
+      "id": 5,
+      "type": "reading_comprehension",
+      "problem": "The underlined 'They' in line 6 refers to: (a. blocks, b. children, c. games)",
+      "answer": "b. children"
+    },
+    {
+      "id": 6,
+      "type": "spelling",
+      "problem": "Write the missing words: 1. I enjoy collecting __________. 2. Their favourite __________ is cooking.",
+      "answer": "1. coins; 2. hobby"
+    },
+    {
+      "id": 7,
+      "type": "guided_writing",
+      "problem": "Write about 'My Favourite Activity' using guide words: Friday-grandfather, like-chess, amazing-time",
+      "answer": "Every Friday, I visit my grandfather. We like playing chess together. We have an amazing time."
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "problem": "Fahad likes skating with his ............ (a. teacher, b. friends, c. father)",
+      "answer": "Listen to determine the correct answer"
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "problem": "My sister bought a new dress. I like ............ dress. (a. our, b. her, c. his)",
+      "answer": "b. her"
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "problem": "They don't like fish. ............ favourite food is chicken. (a. Their, b. Your, c. My)",
+      "answer": "a. Their"
+    },
+    {
+      "id": 11,
+      "type": "short_answer",
+      "problem": "Where does the family go every weekend?",
+      "answer": "They go to Al-Khairan beach."
+    },
+    {
+      "id": 12,
+      "type": "short_answer",
+      "problem": "What does Hana like doing?",
+      "answer": "She likes playing with her ball and building sandcastles."
+    },
+    {
+      "id": 13,
+      "type": "spelling",
+      "problem": "Write the missing words: 1. They enjoy __________ activities. 2. It is a __________.",
+      "answer": "1. outdoor; 2. sandcastle"
+    },
+    {
+      "id": 14,
+      "type": "guided_writing",
+      "problem": "Write about 'My Father's Hobby' using guide words: sea-father, enjoy-sail, wonderful-time",
+      "answer": "My father likes going to the sea. He enjoys sailing. We have a wonderful time together."
+    }
+  ],
+  "images": {
+    "pages": [],
+    "figures": []
+  },
+  "teaching_notes": "This unit is very relatable — all children have hobbies. Grammar has two structures: like/enjoy + gerund (-ing) and possessive adjectives. The reading about Al-Khairan beach connects to Kuwaiti beach culture. The indoor hobbies passage introduces chess and dama (traditional board games). The Bingo game in Lesson 5 is great for vocabulary review. The unit distinguishes indoor vs outdoor activities, which feeds into the project. 22 vocabulary words. Song 'My Hobbies' reinforces enjoy/like + verb-ing with activities like riding bikes, skating, building blocks, drawing, diving, and crafting."
+}

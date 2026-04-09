@@ -1,0 +1,114 @@
+{
+  "code": "8-PT",
+  "title": "Progress Test",
+  "title_en": "Progress Test - Unit 8",
+  "page_start": 69,
+  "page_end": 72,
+  "objectives": [
+    "Assess health and hygiene vocabulary from Unit 8",
+    "Test reading comprehension about the five senses",
+    "Evaluate grammar: present simple and first conditional",
+    "Assess spelling: verb+s rules and health vocabulary",
+    "Write a structured paragraph about visiting a dietitian"
+  ],
+  "vocabulary": [],
+  "key_concepts": [],
+  "examples": [],
+  "exercises": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "problem": "She keeps her ............ clean and healthy. (a. pains, b. teeth, c. inventions, d. adults)",
+      "answer": "b. teeth"
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "problem": "Students should ............ being messy in the class. (a. track, b. echo, c. reply, d. avoid)",
+      "answer": "d. avoid"
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "problem": "You need to eat ............ meals to stay healthy. (a. local, b. deep, c. balanced, d. difficult)",
+      "answer": "c. balanced"
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "problem": "I get a ............ when I use my phone for a long time. (a. choice, b. step, c. headache, d. diet)",
+      "answer": "c. headache"
+    },
+    {
+      "id": 5,
+      "type": "reading_comprehension",
+      "problem": "Read about the five senses. Best title: (a. Healthy Ears, b. Clean Food, c. Our Tongue, d. Five Senses)",
+      "answer": "d. Five Senses"
+    },
+    {
+      "id": 6,
+      "type": "reading_comprehension",
+      "problem": "The opposite of 'high' in line 6: (a. bright, b. fun, c. big, d. low)",
+      "answer": "d. low"
+    },
+    {
+      "id": 7,
+      "type": "reading_comprehension",
+      "problem": "The underlined word 'them' in line 3 refers to: (a. senses, b. eyes, c. places, d. colours)",
+      "answer": "b. eyes"
+    },
+    {
+      "id": 8,
+      "type": "reading_comprehension",
+      "problem": "Our senses help us enjoy ............ (a. noise, b. tongue, c. nose, d. life)",
+      "answer": "d. life"
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "problem": "We ............ books in the school library every Sunday. (a. are reading, b. read, c. reading)",
+      "answer": "b. read"
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "problem": "If he sleeps early, he will ............ active all day. (a. felt, b. feels, c. feel)",
+      "answer": "c. feel"
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "problem": "My mother ............ eat fast food. (a. doesn't, b. isn't, c. hasn't)",
+      "answer": "a. doesn't"
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "problem": "If it ............, we will stay home. (a. raining, b. rains, c. rained)",
+      "answer": "b. rains"
+    },
+    {
+      "id": 13,
+      "type": "fill_in_blank",
+      "problem": "1. The ............ helps me to stay healthy. 2. Washing your hands before eating removes ............",
+      "answer": "1. dietitian (or diet); 2. germs"
+    },
+    {
+      "id": 14,
+      "type": "word_formation",
+      "problem": "Combine: 1. teach + s = ............ 2. remind + s = ............",
+      "answer": "1. teaches; 2. reminds"
+    },
+    {
+      "id": 15,
+      "type": "guided_writing",
+      "problem": "Graphic organiser 'A Visit to the Dietitian': 1. Why visit? 2. What does a good diet give? 3. Why drink water? 4. What does fast food do? 5. Why is the dietitian important? Guide words: guide-energy-hydrated-tired-understand-healthy",
+      "answer": "I went to the dietitian to get guidance. A good diet gives our bodies energy. We drink water to stay hydrated. Fast food makes us tired. The dietitian's work is important because they help us understand how to stay healthy."
+    }
+  ],
+  "images": {
+    "pages": [],
+    "figures": []
+  },
+  "teaching_notes": "Final progress test. Reading about five senses tests comprehension and vocabulary in context. Grammar tests present simple (routines) and first conditional (if-clauses). The dietitian writing task connects to the unit's health theme."
+}

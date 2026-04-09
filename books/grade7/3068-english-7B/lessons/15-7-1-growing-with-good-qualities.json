@@ -1,0 +1,46 @@
+{
+  "code": "7-1",
+  "title": "Growing with Good Qualities",
+  "title_en": "Growing with Good Qualities",
+  "page_start": 43, "page_end": 44,
+  "skill": "Reading",
+  "objectives": [
+    "Identify main ideas and supporting details from a written text about positive individual and social qualities that influence behaviour",
+    "Infer the writer's attitudes towards qualities such as kindness, patience, and responsibility from a written text about role models"
+  ],
+  "vocabulary": [
+    {"term": "wonder", "term_en": "wonder", "definition": "To think about something with curiosity"},
+    {"term": "behaviour", "term_en": "behaviour", "definition": "The way a person acts or conducts themselves"},
+    {"term": "observe", "term_en": "observe", "definition": "To watch carefully; to notice"},
+    {"term": "behave", "term_en": "behave", "definition": "To act in a particular way"},
+    {"term": "relative", "term_en": "relative", "definition": "A member of your family"},
+    {"term": "member", "term_en": "member", "definition": "A person belonging to a group or community"},
+    {"term": "aware", "term_en": "aware", "definition": "Having knowledge or understanding of something"},
+    {"term": "quality", "term_en": "quality", "definition": "A characteristic or feature of a person"},
+    {"term": "shape", "term_en": "shape", "definition": "To influence or determine the form or nature of something"},
+    {"term": "respond", "term_en": "respond", "definition": "To react or reply to something"},
+    {"term": "self-discipline", "term_en": "self-discipline", "definition": "The ability to control yourself and make yourself do things you should do"},
+    {"term": "openly", "term_en": "openly", "definition": "Without hiding anything; honestly and freely"},
+    {"term": "sensible", "term_en": "sensible", "definition": "Having or showing good judgement; practical"},
+    {"term": "cooperation", "term_en": "cooperation", "definition": "Working together with others to achieve a shared goal"},
+    {"term": "helpfulness", "term_en": "helpfulness", "definition": "The quality of being ready to help others"},
+    {"term": "welcoming", "term_en": "welcoming", "definition": "Friendly and making people feel comfortable"},
+    {"term": "closely", "term_en": "closely", "definition": "In a way that is strongly connected"}
+  ],
+  "key_concepts": [
+    {"concept": "Individual Qualities", "explanation": "Personal strengths that appear in how a person acts and responds. Self-discipline: starting homework on time before playing, staying calm in difficult situations. Confidence: speaking openly and sharing ideas. Being organised: keeping a room tidy, using a timetable. Not giving up: continuing to try bravely after many mistakes. These help people act responsibly and make sensible choices."},
+    {"concept": "Social Qualities", "explanation": "How people treat others. Cooperation: sharing things, drivers letting other cars join, shoppers waiting calmly in queues, following rules, speaking politely. Helpfulness: assisting someone carrying heavy bags, guiding a lost person. These positive actions make society safer, kinder, and more welcoming."},
+    {"concept": "Connection Between Individual and Social Qualities", "explanation": "Individual and social qualities are closely connected. When a person behaves with self-discipline, respect, and helpfulness, others feel comfortable and safe. By showing these personal qualities every day, people become responsible citizens in a caring community."}
+  ],
+  "examples": [],
+  "exercises": [
+    {"id": 1, "type": "multiple_choice", "problem": "1. The main idea of the passage is: a) children learn their personal qualities from adults and relatives b) individual qualities help people manage their daily lives c) positive qualities improve individuals and communities d) social qualities are more important than individual qualities", "answer": "c) positive qualities improve individuals and communities"},
+    {"id": 2, "type": "reference", "problem": "2. The underlined pronoun 'they' in the 1st paragraph refers to: a) adults b) children c) members d) relatives", "answer": "b) children"},
+    {"id": 3, "type": "vocabulary_in_context", "problem": "3. The underlined word 'cooperate' in the 3rd paragraph means: a) work together b) drive cars c) carry bags d) shop safely", "answer": "a) work together"},
+    {"id": 4, "type": "comprehension", "problem": "1. What are some examples of individual qualities mentioned in the passage? 2. How do people show cooperation in daily life according to the passage? 3. What result do social qualities have on society? 4. What is the author's purpose in writing this passage?", "answer": "1. Self-discipline, confidence, being organised, not giving up. 2. Sharing things, letting others join, waiting calmly in queues, following rules, speaking politely. 3. They make society safer, kinder, and more welcoming. 4. To show how individual and social qualities are connected and improve communities."},
+    {"id": 5, "type": "fill_in_blank", "problem": "Complete with (observe, openly, relative, behave, member): 1. Mariam spoke ___ about her goals for the school year. 2. My cousin is my favourite ___ because we grew up together. 3. We must ___ respectfully towards our classmates. 4. At the science club, students ___ how plants grow under different conditions.", "answer": "1. openly, 2. relative, 3. behave, 4. observe"},
+    {"id": 6, "type": "personal_quality", "problem": "My Personal Quality in Action: Think of a real moment when you helped someone and showed a good personal quality. Choose a quality (confident, organised, patient, helpful, respectful, responsible). Use: 'I showed (quality) when I ___ because ___. As a result, ___.'", "answer": "Example: 'Yesterday, I helped my sister with her homework because she was confused. As a result, she understood the lesson and felt supported.'"}
+  ],
+  "images": {"pages": [43, 44], "figures": []},
+  "teaching_notes": "Reading lesson on individual and social qualities. 4-paragraph passage: intro (children learn from adults), individual qualities (self-discipline, confidence, organisation, perseverance), social qualities (cooperation, helpfulness), conclusion (connection between both). Rich vocabulary (17 words). Exercises: MCQ, reference, vocabulary in context, comprehension, fill-in-blank, personal reflection with sentence starters. Quick Checklist for self-assessment. 2 pages."
+}

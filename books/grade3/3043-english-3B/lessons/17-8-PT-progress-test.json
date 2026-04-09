@@ -1,0 +1,101 @@
+{
+  "code": "8-PT",
+  "title": "Progress Test",
+  "title_en": "Progress Test - Unit 8",
+  "page_start": 62,
+  "page_end": 63,
+  "objectives": [
+    "Assess vocabulary from Unit 8 (weekend plans, family trips, pearl diving)",
+    "Test reading comprehension about a family beach trip",
+    "Evaluate grammar: future (going to) and past simple (did not + base verb)",
+    "Assess guided writing about last weekend"
+  ],
+  "vocabulary": [],
+  "key_concepts": [],
+  "examples": [],
+  "exercises": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "problem": "I'm ............ for my family every day. (a. grateful, b. perfect, c. funny)",
+      "answer": "a. grateful"
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "problem": "My mother's bag is made of ............ (a. hobbies, b. ideas, c. pearls)",
+      "answer": "c. pearls"
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "problem": "The family ............ food and some warm clothes for camping. (a. began, b. laughed, c. packed)",
+      "answer": "c. packed"
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "problem": "He wrote his favourite ............ in my diary. (a. parents, b. memories, c. caravans)",
+      "answer": "b. memories"
+    },
+    {
+      "id": 5,
+      "type": "reading_comprehension",
+      "problem": "Read about Sara's family beach trip. The best title: (a. A Cruise Ship, b. A Wonderful Day, c. A Coin On The Sand)",
+      "answer": "b. A Wonderful Day"
+    },
+    {
+      "id": 6,
+      "type": "reading_comprehension",
+      "problem": "The underlined word 'He' in line 5 refers to: (a. Salem, b. diver, c. Saad)",
+      "answer": "b. diver"
+    },
+    {
+      "id": 7,
+      "type": "reading_comprehension",
+      "problem": "Sara told her parents about her idea to: (a. make a sandcastle, b. check the map, c. pack the bags)",
+      "answer": "a. make a sandcastle"
+    },
+    {
+      "id": 8,
+      "type": "short_answer",
+      "problem": "How did the family feel after sunset?",
+      "answer": "They felt happy and grateful."
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "problem": "Next month, we are going to ............ by plane. (a. travel, b. travelled, c. travelling)",
+      "answer": "a. travel"
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "problem": "My father didn't ............ the house early. (a. leaves, b. left, c. leave)",
+      "answer": "c. leave"
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "problem": "Yesterday, the teacher ............ us a video about Kuwait. (a. shows, b. showed, c. showing)",
+      "answer": "b. showed"
+    },
+    {
+      "id": 12,
+      "type": "guided_writing",
+      "problem": "Write about 'Last Weekend' using guide words: visited-grandmother, told-memories, wonderful-time",
+      "answer": "Last weekend, I visited my grandmother. She told us wonderful memories. We had a wonderful time together."
+    },
+    {
+      "id": 13,
+      "type": "fill_in_blank",
+      "problem": "Complete: 1. We slept in the __________ near the beach. 2. He likes travelling by __________. 3. It's a beautiful __________.",
+      "answer": "1. caravan; 2. cruise; 3. wave (or pearl)"
+    }
+  ],
+  "images": {
+    "pages": [],
+    "figures": []
+  },
+  "teaching_notes": "Final progress test covers both grammar points: going to (future) and did not + base verb (past negative). The reading passage about Sara's family beach trip integrates vocabulary from multiple units (cruise, diver, sandcastle, coins). Grammar section tests three structures: going to + base verb, didn't + base verb, and past simple affirmative."
+}

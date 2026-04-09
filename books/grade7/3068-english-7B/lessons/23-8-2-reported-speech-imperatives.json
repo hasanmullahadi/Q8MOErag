@@ -1,0 +1,30 @@
+{
+  "code": "8-2",
+  "title": "Reported Speech with Imperatives",
+  "title_en": "Reported Speech with Imperatives",
+  "page_start": 57, "page_end": 57,
+  "skill": "Grammar",
+  "objectives": [
+    "Apply the structure of reported speech with imperatives using to / not to accurately",
+    "Produce reported speech sentences correctly when transforming direct commands",
+    "Demonstrate accuracy when rewriting commands in reported speech"
+  ],
+  "vocabulary": [],
+  "key_concepts": [
+    {"concept": "Reported Speech with Imperatives", "explanation": "We use reported speech when we want to tell someone what another person said. Form: subject + reporting verb + object + (to / not to) + base verb. Use 'to + verb' for positive commands. Use 'not to + verb' for negative commands."},
+    {"concept": "Reporting Verbs", "explanation": "told → to give a direct instruction. asked → to make a polite request. advised → to give helpful advice. warned → to give a strong warning."},
+    {"concept": "Examples of Transformation", "explanation": "Direct: 'Drink water before you start running,' said the coach. → Reported: The coach told the players to drink water before they started running. Direct: 'Don't stay up too late,' said my father. → Reported: My father warned me not to stay up too late. Direct: 'Take your jacket. It's cold outside,' said my friend. → Reported: My friend advised me to take my jacket because it was cold outside. Direct: 'Please carry this box for me,' asked my mother. → Reported: My mother asked me to carry that box for her."},
+    {"concept": "Important Tip", "explanation": "Don't change the tense in the reported imperatives. The base verb stays the same."}
+  ],
+  "examples": [
+    {"problem": "'Use your phone for learning.' (mother → son)", "solution_steps": ["Positive command → use 'to + verb'", "The mother told her son to use his phone for learning."], "answer": "The mother told her son to use his phone for learning.", "visual_description": ""},
+    {"problem": "'Don't share your password.' (teacher → students)", "solution_steps": ["Negative command → use 'not to + verb'", "The teacher told them not to share their passwords."], "answer": "The teacher told them not to share their passwords.", "visual_description": ""}
+  ],
+  "exercises": [
+    {"id": 1, "type": "complete", "problem": "Complete: 1. 'Please close the door quietly,' asked my brother. → My brother ___ my sister ___ the door quietly. 2. 'Plan your time before exams,' said the teacher. → The teacher ___ the students ___ their time before exams.", "answer": "1. asked, to close. 2. told, to plan."},
+    {"id": 2, "type": "rewrite", "problem": "Rewrite the commands using reported speech: 1. 'Don't forget to feed the cat.' → My mother asked me ___. 2. 'Pass the ball to your teammate.' → The coach ___. 3. 'Don't eat a lot of sweets,' said the doctor. → ___.", "answer": "1. My mother asked me not to forget to feed the cat. 2. The coach told me/him to pass the ball to my/his teammate. 3. The doctor advised me/him not to eat a lot of sweets."},
+    {"id": 3, "type": "pair_practice", "problem": "Say it Again: Work in pairs. Think of commands from daily life (home/school). Give the commands to your partner. Your partner reports them back. Switch turns. Example: A: 'Bring your book.' B: My friend told me to bring my book.", "answer": "Open-ended pair practice"}
+  ],
+  "images": {"pages": [57], "figures": []},
+  "teaching_notes": "Grammar lesson on reported speech with imperatives. Form: subject + reporting verb + object + to/not to + base verb. Four reporting verbs: told, asked, advised, warned. Grammar Box table with direct → reported examples. Key tip: don't change tense in reported imperatives. Matching activity with pictures (mother, father, IT expert, teacher). Practice: controlled completion → rewriting → free pair practice. 1 page."
+}

@@ -1,0 +1,28 @@
+{
+  "code": "6-7",
+  "title": "Climate Change: Impacts and Solutions",
+  "title_en": "Climate Change: Impacts and Solutions",
+  "page_start": 39, "page_end": 40,
+  "skill": "Writing",
+  "objectives": [
+    "Match ideas to headings accurately in a graphic organiser from a written model about climate change problems and solutions",
+    "Compose a clearly structured two-paragraph report explaining environmental problems and solutions using a clear structure and suitable linkers"
+  ],
+  "vocabulary": [],
+  "key_concepts": [
+    {"concept": "Cause, Effect, and Action in Writing", "explanation": "Tip for Causes: Look for why something happened (because of…). Tip for Effects: Ask 'what happened as a result?' (so / therefore …). Tip for Actions: Find phrases like 'People can…' or 'to help…'. Linkers: because, so, therefore, and as a result."},
+    {"concept": "Two-Paragraph Report: Problems and Solutions", "explanation": "Paragraph 1: How Climate Change Has Affected the Environment — hotter weather and longer summers, melting ice at the poles, endangered animals losing their homes, polluted air in big cities, floods after heavy rain. Paragraph 2: How We Can Protect the Environment — people plant trees and garden more, save water at home, clean beaches and recycle, use solar and wind energy, protect wildlife reserves."},
+    {"concept": "Model Paragraph Structure", "explanation": "A model paragraph has: topic sentence (main idea), supporting details (causes, effects, examples), and concluding sentence. Example: 'Climate change has affected our planet in many ways. Hotter weather and longer summers have caused floods, droughts, and stronger storms. However, people are working together to protect the Earth by planting trees, saving water, and using clean energy. As a result, small actions are making a real difference in protecting the environment.'"}
+  ],
+  "examples": [
+    {"problem": "Write a sentence showing both effect (problem) and solution (action).", "solution_steps": ["Identify a problem from Paragraph 1", "Match it with a solution from Paragraph 2", "Connect with a linker (so, therefore, as a result)"], "answer": "Melting ice at the poles causes sea levels to rise, so people use clean energy to protect the Earth.", "visual_description": ""}
+  ],
+  "exercises": [
+    {"id": 1, "type": "model_analysis", "problem": "Read the model paragraph about climate change. Underline the topic sentence and the concluding sentence. Then write one new topic sentence and one new concluding sentence.", "answer": "Topic: 'Climate change has affected our planet in many ways.' Concluding: 'As a result, small actions are making a real difference in protecting the environment.'"},
+    {"id": 2, "type": "cause_effect_action", "problem": "Read the sentences and write C for cause, E for effect, and A for action: 1. The Earth is becoming warmer because of pollution. 2. Cars use fuel that releases gases, so the air becomes polluted. 3. People can save electricity by using solar energy at home. 4. Farmers plant trees to help stop the soil from drying out. 5. Many animals have lost their homes; therefore, they move to new areas.", "answer": "1. C (because of pollution), 2. E (so the air becomes polluted), 3. A (People can save), 4. A (Farmers plant), 5. E (therefore they move)"},
+    {"id": 3, "type": "classify", "problem": "Classify Ideas Bank items into Paragraph 1 (How Climate Change Has Affected the Environment) or Paragraph 2 (How We Can Protect the Environment). Ideas: Melting ice at the poles, Endangered animals losing their homes, Polluted air in big cities, Floods after heavy rain, Save water at home, Clean beaches and recycle, Use solar and wind energy, Protect wildlife reserves, People plant trees and garden more.", "answer": "P1: Melting ice at the poles, Endangered animals losing homes, Polluted air in big cities, Floods after heavy rain. P2: People plant trees, Save water at home, Clean beaches and recycle, Use solar and wind energy, Protect wildlife reserves."},
+    {"id": 4, "type": "writing", "problem": "Write meaningful sentences from the table showing both the effect (problem) and the solution (action). Use linkers: because, so, therefore, and as a result. Example: Melting ice at the poles causes sea levels to rise, so people use clean energy to protect the Earth.", "answer": "Open-ended sentence writing combining problems and solutions with linkers"}
+  ],
+  "images": {"pages": [39, 40], "figures": []},
+  "teaching_notes": "Writing lesson on two-paragraph report about climate change impacts and solutions. Think-Pair-Share with pictures (melting ice, dry land, stormy flood, tree planting, solar panels, wild animals). Model paragraph provided for analysis. Cause/Effect/Action identification exercise. Ideas Bank for classifying into two paragraphs. Tip: Each sentence should include one problem and one solution, connected with linkers (because, so, therefore, as a result). Page 40 contains the planning template and final writing task. 2 pages."
+}

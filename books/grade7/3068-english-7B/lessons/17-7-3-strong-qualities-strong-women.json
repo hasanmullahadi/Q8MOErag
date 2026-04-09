@@ -1,0 +1,26 @@
+{
+  "code": "7-3",
+  "title": "Strong Qualities, Strong Women",
+  "title_en": "Strong Qualities, Strong Women",
+  "page_start": 46, "page_end": 46,
+  "skill": "Listening",
+  "objectives": [
+    "Identify main points and supporting details from a spoken text about inspiring women and their qualities",
+    "Cooperate positively with classmates during group listening tasks when discussing qualities shown in the audio"
+  ],
+  "vocabulary": [],
+  "key_concepts": [
+    {"concept": "Women as Role Models", "explanation": "Three role models discussed by students in a school radio report: Khadija (may Allah be pleased with her) — Islamic figure, admired by Lara. Mama Anisa — educator, admired by Ahmed. Dr. Sara — scientist, admired by Reem. Each woman showed specific qualities through her actions."},
+    {"concept": "Appreciation Cards", "explanation": "Expressing appreciation for someone's qualities and actions. Each card includes: the woman's name, one action she did, one quality she showed, why her action helped others, one linker (because, so, as a result). Expressions: Thank you for…, We appreciate your…, Your kindness helped…, Your actions made people feel…, You supported others by…"}
+  ],
+  "examples": [],
+  "exercises": [
+    {"id": 1, "type": "before_you_listen", "problem": "Look at the pictures and discuss: What important jobs and roles do women have in society? What qualities make a woman a strong and inspiring role model? How can women help and influence their families and society?", "answer": "Open discussion"},
+    {"id": 2, "type": "listening_table", "problem": "Listen to the school radio report. Complete the table: Student → Role Model → Job/Role → Quality Shown → Why the Student Admires Her. Lara → Khadija → Islamic figure → ___ → ___. Ahmed → Mama Anisa → educator → ___ → ___. Reem → Dr. Sara → scientist → ___ → ___.", "answer": "Based on listening — qualities and reasons for admiration"},
+    {"id": 3, "type": "comprehension", "problem": "1. Why do kindness and patience make an educator a strong role model? 2. Why are the women in the radio report strong role models for others? Explain using their actions.", "answer": "Open discussion based on listening"},
+    {"id": 4, "type": "appreciation_cards", "problem": "In groups, design three small appreciation cards, one for each woman in the radio programme. Each card must include: the woman's name, one action she did, one quality she showed, why her action helped others, one linker (because, so, as a result). Choose three students to present cards to the class.", "answer": "Open-ended group activity"},
+    {"id": 5, "type": "reflection", "problem": "Reflect together: Which appreciation card expresses the message most clearly? Why? Which card shows the strongest link between the action and the quality?", "answer": "Class discussion and reflection"}
+  ],
+  "images": {"pages": [46], "figures": []},
+  "teaching_notes": "Listening lesson — school radio report about three inspiring women: Khadija (Islamic figure), Mama Anisa (educator), Dr. Sara (scientist). Audio track 7.1. Focus on identifying qualities and their impact. Post-listening: appreciation card design activity. Expressions of Appreciation provided. Linker Bank continues. QR code for audio. 1 page."
+}

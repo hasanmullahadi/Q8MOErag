@@ -1,0 +1,30 @@
+{
+  "code": "6-6",
+  "title": "Present Perfect (since / for)",
+  "title_en": "Present Perfect (since / for)",
+  "page_start": 38, "page_end": 38,
+  "skill": "Grammar",
+  "objectives": [
+    "Structure short sentences using the present perfect to describe actions and changes that began in the past and continue now",
+    "Produce clear present perfect sentences when writing answers and transforming statements"
+  ],
+  "vocabulary": [],
+  "key_concepts": [
+    {"concept": "Present Perfect: Form", "explanation": "Form: have/has + past participle. Use for actions that started in the past and continue in the present. Subjects I/You/We/They use 'have'. He/She/It uses 'has'. Negative: haven't/hasn't + past participle. Question: Have/Has + subject + past participle?"},
+    {"concept": "Since vs For", "explanation": "Use 'since' to show when the action started (a point in time): since 2020, since last month, since 2010. Use 'for' to show how long the action has continued (a duration): for five years, for twelve years, for many years."},
+    {"concept": "Present Perfect Keywords", "explanation": "Keywords often used with present perfect: ever, never, just, already, yet, today, since, for."},
+    {"concept": "Present Perfect Examples", "explanation": "Affirmative: Saleh has studied English since 2020. Dalal has played the piano for five years. The ice has melted in many polar areas since 2000. Negative: The students haven't finished the science project. Question: Have the animals moved to a cooler place? Where has the water gone?"}
+  ],
+  "examples": [
+    {"problem": "Saleh has studied English since 2020.", "solution_steps": ["Subject (Saleh) + has + past participle (studied) + since + point in time (2020)"], "answer": "Saleh has studied English since 2020.", "visual_description": ""},
+    {"problem": "Dalal has played the piano for five years.", "solution_steps": ["Subject + has + past participle + for + duration"], "answer": "Dalal has played the piano for five years.", "visual_description": ""}
+  ],
+  "exercises": [
+    {"id": 1, "type": "correct_and_circle", "problem": "Correct the verbs in brackets and circle since or for: 1. Amal ___ (live) in Oman (since/for) 2014. 2. My teacher ___ (teach) here (since/for) twelve years. 3. I ___ (not see) my best friend (since/for) last month. 4. People ___ (build) cleaner cities (since/for) many years. 5. What have scientists ___ (discover) (since/for) 2010?", "answer": "1. has lived, since. 2. has taught, for. 3. haven't seen, since. 4. have built, for. 5. discovered, since."},
+    {"id": 2, "type": "form_question", "problem": "I have visited the new science museum this year. (Form a question)", "answer": "Have you visited the new science museum this year?"},
+    {"id": 3, "type": "make_negative", "problem": "He has finished his English homework. (Change into negative)", "answer": "He hasn't finished his English homework."},
+    {"id": 4, "type": "writing", "problem": "My World Has Changed: Write 3-4 sentences about any changes that have happened in your life (school, home, weather, etc.). Use the present perfect. Sentence starters: I have started ___ since ___. My ___ has changed because ___. People have ___ for many years. The weather has ___.", "answer": "Open-ended personal writing using present perfect"}
+  ],
+  "images": {"pages": [38], "figures": []},
+  "teaching_notes": "Grammar lesson on present perfect with since/for. Grammar Box table shows subject-auxiliary-participle-example for affirmative, negative, and question forms. Tip: Use 'have not/has not + past participle' to show an action has not happened up to now. Linker Bank continues. Practice: controlled (correct verb + circle since/for) → transformation (question/negative) → free writing about personal changes. 1 page."
+}

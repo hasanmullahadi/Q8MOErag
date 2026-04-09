@@ -1,0 +1,30 @@
+{
+  "code": "8-6",
+  "title": "Future Simple",
+  "title_en": "Future Simple",
+  "page_start": 62, "page_end": 62,
+  "skill": "Grammar",
+  "objectives": [
+    "Use the future simple tense (will/won't) correctly in sentences about technology",
+    "Produce short future predictions about technology and daily life using correct structure",
+    "Demonstrate understanding of future simple by completing grammar exercises accurately"
+  ],
+  "vocabulary": [],
+  "key_concepts": [
+    {"concept": "Future Simple", "explanation": "We use the future simple to describe things that will happen in the future (we know) and to make predictions (we think). Form: Subject + will + base verb."},
+    {"concept": "Future Simple Forms", "explanation": "Affirmative: Subject + will + base verb. Example: Fahad will live in a smart city in the future. Negative: Subject + will not (won't) + base verb. Example: We won't forget our traditions. Yes/No Question: Will + subject + base verb? Example: Will people use robots at home? Answer: Yes, they will. / No, they won't. Wh-Question: WH-word + will + subject + base verb? Example: What will students learn next week? Where will people travel in the future?"},
+    {"concept": "Time Expressions and Prediction Signals", "explanation": "Time expressions: tomorrow, soon, in the future, one day, in 2050, next (week, month, year). Prediction signals: I think, maybe, probably."}
+  ],
+  "examples": [
+    {"problem": "In the future, people ___ travel in flying buses.", "solution_steps": ["Future prediction → will + base verb"], "answer": "In the future, people will travel in flying buses.", "visual_description": ""},
+    {"problem": "One day robots ___ help students in schools.", "solution_steps": ["Future prediction → will + base verb"], "answer": "One day robots will help students in schools.", "visual_description": ""},
+    {"problem": "Maybe families ___ grow plants in space.", "solution_steps": ["Prediction with 'maybe' → will + base verb"], "answer": "Maybe families will grow plants in space.", "visual_description": ""}
+  ],
+  "exercises": [
+    {"id": 1, "type": "fill_in_blank", "problem": "Complete using will or will not and the verbs in brackets: 1. We ___ (not forget) to use technology wisely. 2. Noura and Maha ___ (travel) to London next summer. 3. Haya ___ (not be) late tomorrow. Her school starts at 7 a.m. 4. In the future, people ___ (use) flying buses to travel between cities.", "answer": "1. won't forget, 2. will travel, 3. won't be, 4. will use"},
+    {"id": 2, "type": "transformation", "problem": "Do as shown: 1. Farmers will grow plants in the desert. (Form a question) 2. Ali will work as a doctor when he grows up. (Make negative)", "answer": "1. Will farmers grow plants in the desert? 2. Ali won't work as a doctor when he grows up."},
+    {"id": 3, "type": "creative_writing", "problem": "Future Vision Statement: Write 3-4 sentences starting with 'In the future…' using the future simple tense. Explain how people will use technology wisely to make life better for everyone. Sentence starters: In the future, people will…, We will use technology to…, This will help us to…, We won't forget to…", "answer": "Open-ended creative writing with Checklist: I used will/won't correctly, My sentences show responsible use of technology."}
+  ],
+  "images": {"pages": [62], "figures": []},
+  "teaching_notes": "Grammar lesson on Future Simple (will/won't). Grammar Box table with affirmative, negative, yes/no question, wh-question forms and examples. Time expressions and prediction signals listed. Think-Pair-Share with three futuristic pictures (flying bus, school robot, space farming). Practice: fill-in → transformation → creative Future Vision Statement. 1 page."
+}

@@ -1,0 +1,41 @@
+{
+  "code": "7-PJ",
+  "title": "Project: Taste Without Tasting Menu",
+  "title_en": "Project: Taste Without Tasting Menu",
+  "page_start": 55,
+  "page_end": 55,
+  "objectives": [
+    "Research traditional dishes from a chosen country",
+    "Create a visual food menu with descriptions and taste categories",
+    "Present the menu to the class"
+  ],
+  "vocabulary": [],
+  "key_concepts": [
+    {
+      "concept": "Cultural Food Menu",
+      "explanation": "Students choose a country and create a menu showing two traditional dishes. For each dish: draw or paste a picture, name the dish, identify the taste (sweet or salty). Write facts about the country. Present to class."
+    }
+  ],
+  "examples": [
+    {
+      "problem": "Create a Taste Without Tasting Menu",
+      "solution_steps": [
+        "Choose a country",
+        "Complete its menu with Dish One and Dish Two",
+        "Draw or paste pictures of each dish",
+        "Mark taste: sweet or salty",
+        "Write facts about the country",
+        "Make your work neat and colourful",
+        "Present it to your class"
+      ],
+      "answer": "A completed food menu with two dishes, pictures, taste labels, and country facts",
+      "visual_description": "Menu template with two dish areas, taste checkboxes (sweet/salty), and a facts section"
+    }
+  ],
+  "exercises": [],
+  "images": {
+    "pages": [],
+    "figures": []
+  },
+  "teaching_notes": "This project combines cultural awareness with descriptive writing about food. Students can research authentic dishes from Gulf countries, Asian countries, or beyond. Good for class 'food fair' presentations. Encourage using imperatives for recipe-style descriptions."
+}

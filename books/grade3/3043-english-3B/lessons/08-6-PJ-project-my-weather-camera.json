@@ -1,0 +1,38 @@
+{
+  "code": "6-PJ",
+  "title": "Project: My Weather Camera",
+  "title_en": "Project: My Weather Camera",
+  "page_start": 32,
+  "page_end": 32,
+  "objectives": [
+    "Record and observe weather conditions over a week",
+    "Draw and colour different weather types (sunny, windy, cloudy, rainy)",
+    "Present weather observations to the class"
+  ],
+  "vocabulary": [],
+  "key_concepts": [
+    {
+      "concept": "Weather Observation Project",
+      "explanation": "Students create a 'weather camera' by recording daily weather observations for a school week (Sunday-Thursday). They colour-in a camera drawing, illustrate different weather types on a film strip, and fill in a weekly weather table. Then they present their findings to the class."
+    }
+  ],
+  "examples": [
+    {
+      "problem": "My Weather Camera",
+      "solution_steps": [
+        "Record your observations of the weather during the week",
+        "Colour-in the camera",
+        "Draw and colour in different weather (sunny/windy/cloudy/rainy)",
+        "Use your film strip to show the weather you recorded in the table for your class"
+      ],
+      "answer": "A completed weather camera with film strip showing daily weather observations and a filled-in weekly table (Sunday through Thursday)",
+      "visual_description": "A camera illustration with a film strip showing weather icons, and a weekly table with columns for Sunday-Thursday"
+    }
+  ],
+  "exercises": [],
+  "images": {
+    "pages": [],
+    "figures": []
+  },
+  "teaching_notes": "This project develops observation and data recording skills. Students track weather for 5 school days. The 'camera' format is engaging — they draw weather on film strip frames. Presentation component practises speaking: 'On Sunday, the weather was sunny. On Monday, it was cloudy.' Links to science (observation) and maths (data collection)."
+}

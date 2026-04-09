@@ -1,0 +1,27 @@
+{
+  "code": "5-7",
+  "title": "Live Well, Feel Strong",
+  "title_en": "Live Well, Feel Strong",
+  "page_start": 27, "page_end": 28,
+  "skill": "Writing",
+  "objectives": [
+    "Outline a two-paragraph report plan about healthy habits and sports benefits, using topic sentences, details, and linkers",
+    "Produce a clear expository report about healthy living, using appropriate vocabulary and cohesive devices"
+  ],
+  "vocabulary": [],
+  "key_concepts": [
+    {"concept": "Two-Paragraph Report Structure", "explanation": "A report has four parts: Introduction (opens the topic, must have a general topic sentence), Paragraph 1 (specific topic sentence about the body — sleep, food, water — with supporting details and a concluding idea), Paragraph 2 (specific topic sentence about the mind — helping, staying calm — with supporting details and a concluding idea), Conclusion (summary of paragraph 1 and paragraph 2 main ideas)."},
+    {"concept": "Topic Sentences and Supporting Details", "explanation": "Each body paragraph starts with one main idea (topic sentence), adds details or examples, and ends with a short concluding thought. Example introduction: 'A healthy life helps people feel happy.' Example conclusion: 'In conclusion, healthy habits and sports keep our bodies and minds strong.'"},
+    {"concept": "Paragraph A — Healthy Body", "explanation": "Sleeping early and eating well help the body stay strong. Drinking enough water keeps us active and ready to learn."},
+    {"concept": "Paragraph B — Healthy Mind", "explanation": "Helping others and staying calm make life happier. Smiling, listening, and speaking kindly build good relationships and reduce stress."}
+  ],
+  "examples": [],
+  "exercises": [
+    {"id": 1, "type": "matching", "problem": "Match each healthy habit/sport to what it improves: a. Eating fruits and vegetables → Mind, b. Spending time with family → Teamwork, c. Playing football → Relationships, d. Mental sports → Energy", "answer": "a → Energy (body nourishment), b → Relationships, c → Teamwork, d → Mind"},
+    {"id": 2, "type": "reading_comprehension", "problem": "Read Paragraph A (Healthy Body) and Paragraph B (Healthy Mind). Answer: What do these two paragraphs talk about? Write one sentence that can introduce both paragraphs. Write one sentence that can summarise both paragraphs.", "answer": "Both talk about ways to stay healthy in body and mind. Introduction: A healthy life helps people feel happy. Summary: In conclusion, healthy habits and sports keep our bodies and minds strong."},
+    {"id": 3, "type": "report_planning", "problem": "Fill in the table with your own sentence starters for each part: Introduction (opens topic), Paragraph 1 (body — sleep, food, water), Paragraph 2 (mind — helping, staying calm), Conclusion (summary).", "answer": "Open-ended planning table"},
+    {"id": 4, "type": "writing", "problem": "Write a full two-paragraph report about healthy living. Use the report structure: introduction, paragraph 1 (healthy body), paragraph 2 (healthy mind), conclusion.", "answer": "Open-ended expository report"}
+  ],
+  "images": {"pages": [27, 28], "figures": []},
+  "teaching_notes": "Writing lesson teaching two-paragraph expository report structure. Scaffolded approach: Match and Talk warm-up → read model paragraphs → plan with table → write full report. Writing Tip: Each body paragraph starts with one main idea, adds details or examples, and ends with a short concluding thought. Introduction starts the report, conclusion ends it. Page 28 contains the planning table and final draft space. 2 pages."
+}

@@ -1,0 +1,36 @@
+{
+  "code": "7-PJ",
+  "title": "Project: My Favourite Hobby",
+  "title_en": "Project: My Favourite Hobby",
+  "page_start": 48,
+  "page_end": 48,
+  "objectives": [
+    "Classify activities as indoor or outdoor",
+    "Present a favourite hobby orally using 'I like...' or 'My favourite hobby is...'"
+  ],
+  "vocabulary": [],
+  "key_concepts": [
+    {
+      "concept": "Indoor vs Outdoor Activities",
+      "explanation": "Students sort activity pictures into two categories: INDOORS (chess, building blocks, writing, crafts) and OUTDOORS (football, cycling, diving, skating). They paste pictures under the correct heading and present their favourite activity to the class."
+    }
+  ],
+  "examples": [
+    {
+      "problem": "My Favourite Hobby — classify and present",
+      "solution_steps": [
+        "Teacher provides pictures of activities",
+        "Paste each activity under INDOORS or OUTDOORS heading",
+        "Talk about favourite indoor or outdoor activity using 'I like...' or 'My favourite hobby is...'"
+      ],
+      "answer": "Indoors: building blocks, chess, writing, crafts. Outdoors: football, diving, skateboarding, cycling",
+      "visual_description": "Two-column chart (INDOORS | OUTDOORS) with activity pictures: building blocks, diving goggles, skateboard, football, bicycle, chess set, writing"
+    }
+  ],
+  "exercises": [],
+  "images": {
+    "pages": [],
+    "figures": []
+  },
+  "teaching_notes": "Simple sorting activity that reinforces indoor/outdoor vocabulary. The speaking component lets students practise 'I like + verb-ing' in a real context. Encourage students to explain why they like their hobby."
+}

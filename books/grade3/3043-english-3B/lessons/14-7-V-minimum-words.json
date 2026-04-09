@@ -1,0 +1,43 @@
+{
+  "code": "7-V",
+  "title": "Minimum Words to be Taught",
+  "title_en": "Minimum Words to be Taught - Unit 7",
+  "page_start": 49,
+  "page_end": 49,
+  "objectives": [
+    "Master the 22 target vocabulary words from Unit 7",
+    "Identify the part of speech for each word"
+  ],
+  "vocabulary": [
+    {"term": "hobby", "term_en": "hobby", "definition": "noun — free-time activity (Lesson 1)"},
+    {"term": "use", "term_en": "use", "definition": "verb — to do something with (Lesson 1)"},
+    {"term": "agree", "term_en": "agree", "definition": "verb — to have same opinion (Lesson 1)"},
+    {"term": "collect", "term_en": "collect", "definition": "verb — to gather items (Lesson 1)"},
+    {"term": "coin", "term_en": "coin", "definition": "noun — metal money (Lesson 1)"},
+    {"term": "time", "term_en": "time", "definition": "noun — hours/minutes; a period (Lesson 1)"},
+    {"term": "weekend", "term_en": "weekend", "definition": "noun — days off (Lesson 1)"},
+    {"term": "indoor", "term_en": "indoor", "definition": "adjective — inside (Lesson 3)"},
+    {"term": "build", "term_en": "build", "definition": "verb — to construct (Lesson 3)"},
+    {"term": "chess", "term_en": "chess", "definition": "noun — board game (Lesson 3)"},
+    {"term": "craft", "term_en": "craft", "definition": "noun — handmade activity (Lesson 3)"},
+    {"term": "create", "term_en": "create", "definition": "verb — to make something new (Lesson 3)"},
+    {"term": "wonderful", "term_en": "wonderful", "definition": "adjective — amazing (Lesson 5)"},
+    {"term": "active", "term_en": "active", "definition": "adjective — energetic (Lesson 5)"},
+    {"term": "sail", "term_en": "sail", "definition": "verb — to travel by boat (Lesson 5)"},
+    {"term": "outdoor", "term_en": "outdoor", "definition": "adjective — outside (Lesson 5)"},
+    {"term": "sandcastle", "term_en": "sandcastle", "definition": "noun — sand model of castle (Lesson 7)"},
+    {"term": "dive", "term_en": "dive", "definition": "verb — to go underwater (Lesson 7)"},
+    {"term": "little", "term_en": "little", "definition": "adjective — small, young (Lesson 7)"},
+    {"term": "track", "term_en": "track", "definition": "noun — path for walking/cycling (Lesson 7)"},
+    {"term": "kayak", "term_en": "kayak", "definition": "noun — small paddle boat (Lesson 7)"},
+    {"term": "spend", "term_en": "spend", "definition": "verb — to use time (Lesson 7)"}
+  ],
+  "key_concepts": [],
+  "examples": [],
+  "exercises": [],
+  "images": {
+    "pages": [],
+    "figures": []
+  },
+  "teaching_notes": "22 words for Unit 7. Natural groupings: hobby-related (hobby, collect, coin, craft, create, build), indoor/outdoor pair, water activities (sail, dive, kayak), and beach (sandcastle, track). Good for sorting games."
+}

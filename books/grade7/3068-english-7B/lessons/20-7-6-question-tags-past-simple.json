@@ -1,0 +1,30 @@
+{
+  "code": "7-6",
+  "title": "Question Tags (Past Simple)",
+  "title_en": "Question Tags (Past Simple)",
+  "page_start": 50, "page_end": 50,
+  "skill": "Grammar",
+  "objectives": [
+    "Apply question tags appropriately in pair dialogues about past actions and qualities",
+    "Distinguish between affirmative and negative statements when choosing correct tags",
+    "Show care for others' feelings by using polite intonation when asking tag questions in short dialogues with classmates"
+  ],
+  "vocabulary": [],
+  "key_concepts": [
+    {"concept": "Question Tags", "explanation": "We use question tags to check information, confirm something we believe is true, and show polite agreement. The tag goes at the end of a statement and turns it into a question."},
+    {"concept": "Rules for Question Tags (Past Simple)", "explanation": "Positive past → Negative tag: She helped her neighbour, didn't she? (Tag pattern: did + not + pronoun). Negative past → Positive tag: They didn't leave the classroom, did they? (Tag pattern: did + pronoun). Past 'to be' (was/were): She was calm, wasn't she? They weren't confused, were they?"},
+    {"concept": "Tag Tips", "explanation": "Use a pronoun in the tag (he, she, it, we, they). Positive sentence → negative tag. Negative sentence → positive tag. Repeat the correct helping verb (did/didn't, was/wasn't, were/weren't)."}
+  ],
+  "examples": [
+    {"problem": "Ali was not hungry, ___ he?", "solution_steps": ["Negative sentence with 'was not' → positive tag with 'was'"], "answer": "Ali was not hungry, was he?", "visual_description": ""},
+    {"problem": "Mariam finished her homework, ___ she?", "solution_steps": ["Positive past simple → negative tag with 'didn't'"], "answer": "Mariam finished her homework, didn't she?", "visual_description": ""},
+    {"problem": "The boys cleaned the school garden, ___ they?", "solution_steps": ["Positive past simple → negative tag with 'didn't'"], "answer": "The boys cleaned the school garden, didn't they?", "visual_description": ""}
+  ],
+  "exercises": [
+    {"id": 1, "type": "fill_in_blank", "problem": "Complete with the correct question tags: 1. Huda's family wasn't ready, ___? 2. Prophet Yusuf (peace be upon him) was patient, ___? 3. They didn't study yesterday, ___? 4. You weren't upset this morning, ___? 5. Prophet Musa (peace be upon him) acted with courage, ___?", "answer": "1. were they? 2. wasn't he? 3. did they? 4. were you? 5. didn't he?"},
+    {"id": 2, "type": "pair_dialogue", "problem": "Work with a partner. Choose any two actions from the Action Box (met a relative, spoke politely to someone, didn't come late, were patient during a problem, didn't waste time). Ask your partner two tag questions about what they did yesterday. Write the questions and answers.", "answer": "Example: A: You wrote your homework yesterday, didn't you? B: Yes, I did. / No, I didn't."},
+    {"id": 3, "type": "writing", "problem": "Write the two questions you asked and your partner's answers: A. My question: ___, My partner's answer: ___. B. My question: ___, My partner's answer: ___.", "answer": "Open-ended pair writing"}
+  ],
+  "images": {"pages": [50], "figures": []},
+  "teaching_notes": "Grammar lesson on question tags in Past Simple. Grammar Box table with three patterns: positive past → negative tag (didn't), negative past → positive tag (did), past 'to be' (was/wasn't, were/weren't). Think-Pair-Share with example sentences A-D. Tag Tips sidebar. Action Box for pair practice includes actions related to the unit's quality theme. Practice: controlled fill-in → pair dialogue → written record. 1 page."
+}

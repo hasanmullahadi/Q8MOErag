@@ -1,0 +1,31 @@
+{
+  "code": "6-4",
+  "title": "Kuwait's Weather Forecast",
+  "title_en": "Kuwait's Weather Forecast",
+  "page_start": 35, "page_end": 35,
+  "skill": "Speaking",
+  "objectives": [
+    "Conduct a short dialogue about weather conditions by giving simple advice using weather forecasts",
+    "Deliver a short weather forecast with clear pronunciation correctly and confidently",
+    "Display cooperative attitudes when planning and presenting a group weather forecast"
+  ],
+  "vocabulary": [
+    {"term": "forecaster", "term_en": "forecaster", "definition": "A person who tells people what the weather will be like and gives advice or warnings to keep everyone safe"}
+  ],
+  "key_concepts": [
+    {"concept": "Weather Forecast", "explanation": "A weather forecast tells people what the weather will be like. It includes temperature, wind conditions, sky conditions, and advice. Example forecast by Essa Ramadan: 'Today the weather will be very hot and dry. Temperatures will reach 47°C, and strong winds may cause dust in open areas. You should stay indoors during midday and drink plenty of water.'"},
+    {"concept": "Weather Vocabulary", "explanation": "Weather types: dusty, rain, sunny, melting ice. Advice phrases: You should…, You shouldn't…, Don't forget to…, It's better to…, Make sure to…"},
+    {"concept": "Comparative in Weather", "explanation": "Use comparatives to compare today's weather with yesterday's or tomorrow's. Example: 'Today is hotter than yesterday.' 'Tomorrow will be cooler with light winds and clear skies.'"}
+  ],
+  "examples": [
+    {"problem": "Weather dialogue example", "solution_steps": ["A: The weather is very hot today.", "B: Yes, I feel tired. You should drink more water.", "A: I will wear white clothes.", "B: Good idea! Tomorrow will be cooler so we can play outside."], "answer": "Complete dialogue about weather", "visual_description": ""}
+  ],
+  "exercises": [
+    {"id": 1, "type": "discussion", "problem": "Before You Listen: 1. What do you usually do on extremely hot or cold days? 2. Who usually gives advice and warnings about weather conditions? 3. Why do people listen to the weather forecast?", "answer": "Open discussion"},
+    {"id": 2, "type": "reading_discussion", "problem": "Read the forecast by Essa Ramadan. Discuss: What kind of clothes would you wear? What should people avoid? What advice would you give on a hot and windy day? If tomorrow is cooler, what activities can people do?", "answer": "Light/white clothes, avoid direct sunlight at midday, drink water, stay in shade. Cooler day: outdoor activities, sports."},
+    {"id": 3, "type": "dialogue_writing", "problem": "Use the forecast to write a short dialogue about today's weather. Include: how you feel, what you should/shouldn't do, what you will wear, one activity for today or tomorrow.", "answer": "Open-ended dialogue"},
+    {"id": 4, "type": "presentation", "problem": "Your Turn to Forecast: Imagine you are weather reporters for Kuwait's Green Channel. In groups, create and present a weather forecast for a city in Kuwait. Include: weather description (temperature, sky, wind), advice or warnings, one comparative statement. Present as a live report to the class.", "answer": "Open-ended group presentation"}
+  ],
+  "images": {"pages": [35], "figures": []},
+  "teaching_notes": "Speaking lesson on weather forecasts in Kuwait context. Model forecast by Essa Ramadan (47°C, dusty, hot). Weather icons provided (dusty, rain, sunny, melting ice). Useful phrases for advice: You should/shouldn't, Don't forget to, It's better to, Make sure to. Integrates comparatives from lesson 6-2. Final task: group weather broadcast presentation. 1 page."
+}

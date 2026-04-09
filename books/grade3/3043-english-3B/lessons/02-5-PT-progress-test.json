@@ -1,0 +1,101 @@
+{
+  "code": "5-PT",
+  "title": "Progress Test",
+  "title_en": "Progress Test - Unit 5",
+  "page_start": 14,
+  "page_end": 15,
+  "objectives": [
+    "Assess vocabulary knowledge from Unit 5 (celebrations, Ramadan, national events)",
+    "Test reading comprehension with a new passage",
+    "Evaluate grammar: present simple negative and prepositions of time",
+    "Assess guided writing about Eid Al-Fitr"
+  ],
+  "vocabulary": [],
+  "key_concepts": [],
+  "examples": [],
+  "exercises": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "problem": "We visit our ............ on Fridays. (a. fireworks, b. grandparents, c. months)",
+      "answer": "b. grandparents"
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "problem": "In Hajj, we stay on ............ Arafat. (a. mount, b. birthday, c. holiday)",
+      "answer": "a. mount"
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "problem": "I usually ............ with my family on Kuwait's National Day. (a. forget, b. invite, c. march)",
+      "answer": "c. march"
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "problem": "You are very ............ to have so many gifts. (a. lucky, b. tired, c. fizzy)",
+      "answer": "a. lucky"
+    },
+    {
+      "id": 5,
+      "type": "reading_comprehension",
+      "problem": "Read the passage about Abrar's first day of school. 1. The best title could be: (a. A Special Day, b. A Smiling Teacher, c. Playing Games)",
+      "answer": "a. A Special Day"
+    },
+    {
+      "id": 6,
+      "type": "reading_comprehension",
+      "problem": "The underlined word 'They' in line 7 refers to: (a. games, b. friends, c. teachers)",
+      "answer": "b. friends"
+    },
+    {
+      "id": 7,
+      "type": "reading_comprehension",
+      "problem": "Abrar feels ............ to have so many friends at school. (a. small, b. lucky, c. new)",
+      "answer": "b. lucky"
+    },
+    {
+      "id": 8,
+      "type": "short_answer",
+      "problem": "What does Abrar prepare for the first day of school?",
+      "answer": "She puts on her new uniform and shoes, then prepares her backpack with pencils, notebooks, and a small snack."
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "problem": "I don't ............ water before iftar. (a. drink, b. drank, c. drinking)",
+      "answer": "a. drink"
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "problem": "She doesn't ............ video games in Ramadan. (a. played, b. play, c. plays)",
+      "answer": "b. play"
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "problem": "Muslims stay on Mount Arafat ............ the 9th day of Dhu Al-Hijjah. (a. at, b. in, c. on)",
+      "answer": "c. on"
+    },
+    {
+      "id": 12,
+      "type": "guided_writing",
+      "problem": "Write a paragraph about 'Eid Al-Fitr' with pictures and guide words: new-clothes, pray-mosque, visit-grandparents",
+      "answer": "On Eid Al-Fitr, we wear new clothes. We pray in the mosque. We visit our grandparents. Eid Al-Fitr is a happy day."
+    },
+    {
+      "id": 13,
+      "type": "fill_in_blank",
+      "problem": "Complete: 1. We __________ every Ramadan. 2. They pray Al-Taraweeh __________ in the mosque. 3. __________ Arafat is in Makkah.",
+      "answer": "1. fast; 2. prayer; 3. Mount"
+    }
+  ],
+  "images": {
+    "pages": [],
+    "figures": []
+  },
+  "teaching_notes": "This progress test assesses all four skills from Unit 5. The reading section uses a new passage (Abrar's first day of school) to test comprehension strategies learned in the unit. Grammar tests present simple negative (don't/doesn't + base verb) and prepositions of time (in/on/at). Writing requires a guided paragraph about Eid Al-Fitr."
+}

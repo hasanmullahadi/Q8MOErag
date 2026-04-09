@@ -1,0 +1,27 @@
+{
+  "code": "8-3",
+  "title": "Discoveries Behind Today's Technology",
+  "title_en": "Discoveries Behind Today's Technology",
+  "page_start": 58, "page_end": 58,
+  "skill": "Listening",
+  "objectives": [
+    "Identify the main idea and details from a spoken text about Islamic scientists and their discoveries",
+    "Summarise key information from a listening text about scientific contributions",
+    "Produce a brief description of an invention inspired by a listening text"
+  ],
+  "vocabulary": [],
+  "key_concepts": [
+    {"concept": "Islamic Scientists and Their Contributions", "explanation": "Four Islamic scientists who made discoveries that influence modern technology: Al-Khwarizmi (780-850 CE) — Mathematics. Al-Biruni (973-1050 CE) — Astronomy and Geography. Ibn al-Haytham (965-1040 CE) — Light and Vision. Ismail al-Jazari (1136-1206 CE) — Machines and Engineering."},
+    {"concept": "Areas of Study", "explanation": "Mathematics (Al-Khwarizmi): algorithms and algebra that underpin modern computing. Astronomy and Geography (Al-Biruni): measuring the Earth, understanding celestial bodies. Light and Vision (Ibn al-Haytham): optics, how light works — basis for cameras and lenses. Machines and Engineering (Al-Jazari): mechanical devices, automata — early robotics and engineering."}
+  ],
+  "examples": [],
+  "exercises": [
+    {"id": 1, "type": "before_you_listen", "problem": "Look at the pictures of inventions (camera, compass, calculator, robot). Which do you use most in your daily life? How do these inventions make life easier? Do you think people imagined similar ideas long ago?", "answer": "Open discussion"},
+    {"id": 2, "type": "matching", "problem": "Look at the pictures of four scientists. Guess which area of study each scientist worked in: Mathematics, Light and Vision, Machines and Engineering, Astronomy and Geography.", "answer": "Al-Khwarizmi → Mathematics, Al-Biruni → Astronomy and Geography, Ibn al-Haytham → Light and Vision, Ismail al-Jazari → Machines and Engineering"},
+    {"id": 3, "type": "listening_table", "problem": "Listen to the audio clip (8.1). Complete the table: Scientist → Key Discovery → Modern Use Today.", "answer": "Based on listening — key discoveries and their modern applications"},
+    {"id": 4, "type": "discussion", "problem": "Think, Pair, Share: 1. Which scientist do you think had the biggest effect on modern technology? Why? 2. Why do you think the scientists were able to make such important discoveries?", "answer": "Open discussion"},
+    {"id": 5, "type": "invention", "problem": "Invent and Share: In groups, create an idea for an invention that could make life easier for people today. It can be related to school, home, safety, health, or the environment. Write 3-4 simple sentences: What is it? What does it do? How does it help people? Share with the class.", "answer": "Example: 'Our invention is a backpack that charges itself using sunlight. It helps students keep their devices on during the day.'"}
+  ],
+  "images": {"pages": [58], "figures": []},
+  "teaching_notes": "Listening lesson on Islamic scientists and their contributions to modern technology. Audio track 8.1. Four scientists: Al-Khwarizmi (mathematics/algorithms), Al-Biruni (astronomy/geography), Ibn al-Haytham (optics/light), Al-Jazari (machines/engineering). Pre-listening: matching scientists to areas. During listening: complete discovery/modern use table. Post-listening: discussion on impact, group invention activity. QR code for audio. 1 page."
+}

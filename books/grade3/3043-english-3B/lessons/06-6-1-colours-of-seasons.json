@@ -1,0 +1,186 @@
+{
+  "code": "6-1",
+  "title": "Colours Of Seasons",
+  "title_en": "Colours Of Seasons",
+  "page_start": 22,
+  "page_end": 29,
+  "objectives": [
+    "Identify weather and season vocabulary in listening and reading tasks",
+    "Use past simple (was/were) to describe past weather and events",
+    "Use comparative adjectives (-er + than / more + adjective + than) to compare two things",
+    "Read and comprehend passages about a rainy day and seasonal fashion in Kuwait",
+    "Write guided paragraphs about a day at the beach and favourite seasons"
+  ],
+  "vocabulary": [
+    {"term": "camping", "term_en": "camping", "definition": "Staying in a tent outdoors, usually in the desert or countryside"},
+    {"term": "desert", "term_en": "desert", "definition": "A large area of dry land with very little rain and few plants"},
+    {"term": "weather", "term_en": "weather", "definition": "The conditions outside — hot, cold, rainy, sunny, etc."},
+    {"term": "cool", "term_en": "cool", "definition": "A little cold; not warm"},
+    {"term": "winter", "term_en": "winter", "definition": "The coldest season of the year"},
+    {"term": "set up", "term_en": "set up", "definition": "To put together or prepare something (e.g. set up a tent)"},
+    {"term": "photographer", "term_en": "photographer", "definition": "A person who takes photos"},
+    {"term": "windy", "term_en": "windy", "definition": "When there is a lot of wind blowing"},
+    {"term": "cloudy", "term_en": "cloudy", "definition": "When the sky is covered with clouds"},
+    {"term": "rainy", "term_en": "rainy", "definition": "When rain is falling from the sky"},
+    {"term": "diary", "term_en": "diary", "definition": "A book where you write about what happens each day"},
+    {"term": "season", "term_en": "season", "definition": "One of the four parts of the year: winter, spring, summer, autumn"},
+    {"term": "summer", "term_en": "summer", "definition": "The hottest season of the year"},
+    {"term": "different", "term_en": "different", "definition": "Not the same as something else"},
+    {"term": "new", "term_en": "new", "definition": "Not existing before; recently made or learned"},
+    {"term": "spring", "term_en": "spring", "definition": "The season between winter and summer when flowers bloom"},
+    {"term": "autumn", "term_en": "autumn", "definition": "The season between summer and winter when leaves fall"},
+    {"term": "bloom", "term_en": "bloom", "definition": "When flowers open and grow"},
+    {"term": "beauty", "term_en": "beauty", "definition": "The quality of being beautiful or pleasing"},
+    {"term": "tailor", "term_en": "tailor", "definition": "A person who makes or repairs clothes"},
+    {"term": "fashion", "term_en": "fashion", "definition": "A popular style of clothes or appearance"},
+    {"term": "nice", "term_en": "nice", "definition": "Pleasant; good; attractive"}
+  ],
+  "key_concepts": [
+    {
+      "concept": "Past Simple with was/were",
+      "explanation": "Use 'was' with I/he/she/it and 'were' with you/we/they to talk about the past. Time expressions: yesterday, last night, last month, last weekend, this morning. Examples: 'It was windy this morning.' 'They were at the park.' Questions: 'How was the weather yesterday?' 'Where were they last weekend?'"
+    },
+    {
+      "concept": "Comparative Adjectives",
+      "explanation": "To compare two things: For short adjectives, add -er + than (tall → taller than, fast → faster than, cool → cooler than). For long adjectives, use more + adjective + than (beautiful → more beautiful than, colourful → more colourful than, expensive → more expensive than). Example: 'The car is faster than the bicycle.' 'Spring is more colourful than winter.'"
+    },
+    {
+      "concept": "Four Seasons",
+      "explanation": "There are four seasons: winter (cold, camping in desert in Kuwait), spring (flowers bloom, windy, colourful), summer (hot, swimming, beach), autumn (leaves fall, cooler). In Kuwait, families enjoy camping in the desert in winter because the air is fresh and nights are long."
+    },
+    {
+      "concept": "A Rainy Day in Kuwait",
+      "explanation": "Reading passage: Fahad stayed at home during a cloudy and rainy day. He watched rain from the window, wrote in his diary, helped make hot soup, and learned that days are longer in summer. Fun fact: The sun sets early in winter and later in summer."
+    },
+    {
+      "concept": "Seasonal Fashion in Kuwait",
+      "explanation": "Reading passage (interview): A Kuwaiti tailor designs clothes for each season. Summer: lighter clothes because it's hot. Winter: heavy coats to keep warm. Spring: more colourful and prettier dresses. Autumn: darker and simpler clothes. The tailor thinks about the weather in each season when designing."
+    }
+  ],
+  "examples": [
+    {
+      "problem": "Lesson 2 Grammar: Choose was or were",
+      "solution_steps": [
+        "Rule: I/he/she/it → was; you/we/they → were",
+        "1. It ............ windy this morning. (a. has, b. was, c. were)",
+        "2. We ............ at the cinema last night. (a. have, b. are, c. were)"
+      ],
+      "answer": "1. b. was (It = singular); 2. c. were (We = plural)",
+      "visual_description": "Grammar chart showing was/were with pronouns, weather icons, and children at a park"
+    },
+    {
+      "problem": "Lesson 6 Grammar: Comparative adjectives",
+      "solution_steps": [
+        "Short adjective: add -er + than (long→longer, tall→taller, fast→faster, cool→cooler)",
+        "Long adjective: more + adjective + than (more beautiful than, more expensive than)",
+        "1. The tea is ............ the water. (a. hot, b. hotter, c. hotter than)",
+        "2. Spring is ............ than winter. (a. the colourful, b. colourful, c. more colourful)"
+      ],
+      "answer": "1. c. hotter than; 2. c. more colourful",
+      "visual_description": "Comparison images: mouse vs elephant, car vs bicycle, red apple vs green apple, winter tree vs spring tree"
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "problem": "Listening: 1. Noura went camping with her friends. 2. The photographer was friendly. 3. Noura's family stayed in the desert for one night.",
+      "answer": "Listen to the recording about Noura's camping trip and determine true or false for each statement"
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "problem": "It ............ windy this morning. (a. has, b. was, c. were)",
+      "answer": "b. was"
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "problem": "We ............ at the cinema last night. (a. have, b. are, c. were)",
+      "answer": "c. were"
+    },
+    {
+      "id": 4,
+      "type": "reading_comprehension",
+      "problem": "The best title for the passage about Fahad's rainy day could be: (a. A Rainy Day, b. The New Book, c. The Hot Soup)",
+      "answer": "a. A Rainy Day"
+    },
+    {
+      "id": 5,
+      "type": "reading_comprehension",
+      "problem": "The underlined word 'It' in line 4 refers to: (a. soup, b. weather, c. diary)",
+      "answer": "a. soup"
+    },
+    {
+      "id": 6,
+      "type": "emotion_identification",
+      "problem": "How did Fahad feel at the end of the day?",
+      "answer": "Happy (smiling emoji) — he said 'Today was different, but I learned something new.'"
+    },
+    {
+      "id": 7,
+      "type": "spelling",
+      "problem": "Write the missing words: 1. We went camping in the __________. 2. It was __________ in the morning.",
+      "answer": "1. desert; 2. cloudy (or rainy/windy)"
+    },
+    {
+      "id": 8,
+      "type": "guided_writing",
+      "problem": "Write a paragraph about 'A Day At The Beach' using guide words: weather-sunny, went-beach, swam-cool. Start with 'Last summer,'",
+      "answer": "Last summer, the weather was sunny. We went to the beach. We swam in the cool water. It was a fun day."
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "problem": "Children love swimming to stay ............ (a. cool, b. warm, c. hot)",
+      "answer": "a. cool"
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "problem": "............ is windier than summer. (a. Spring, b. Autumn, c. Winter)",
+      "answer": "Listen to determine the answer from the recording about seasons"
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "problem": "The tea is ............ the water. (a. hot, b. hotter, c. hotter than)",
+      "answer": "c. hotter than"
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "problem": "Spring is ............ than winter. (a. the colourful, b. colourful, c. more colourful)",
+      "answer": "c. more colourful"
+    },
+    {
+      "id": 13,
+      "type": "short_answer",
+      "problem": "What does the tailor design for winter?",
+      "answer": "Heavy coats that keep people warm."
+    },
+    {
+      "id": 14,
+      "type": "short_answer",
+      "problem": "When does the tailor design more colourful dresses?",
+      "answer": "In spring."
+    },
+    {
+      "id": 15,
+      "type": "spelling",
+      "problem": "Write the missing words: 1. Flowers __________ in spring. 2. The __________ makes beautiful clothes.",
+      "answer": "1. bloom; 2. tailor"
+    },
+    {
+      "id": 16,
+      "type": "guided_writing",
+      "problem": "Write a paragraph about 'My Favourite Season' using guide words: weather-sunny, colder-summer, go-camping",
+      "answer": "My favourite season is winter. The weather is sunny and cool. It is colder than summer. We go camping in the desert. I love winter."
+    }
+  ],
+  "images": {
+    "pages": [],
+    "figures": []
+  },
+  "teaching_notes": "This unit connects to students' daily life in Kuwait — camping in winter is a beloved family activity. Grammar has two main structures: past simple (was/were) for describing past events and comparative adjectives (-er than / more...than) for comparing. The reading passages feature Kuwaiti characters (Fahad, Reem) and settings. The fashion interview reading is creative — it links seasons to clothing design. Fun fact to share: 'The sun sets early in winter and later in summer.' Use real weather data or weather apps to compare seasons. 22 vocabulary words across 8 sub-lessons. Song 'Colours of Seasons' uses comparatives and past simple."
+}

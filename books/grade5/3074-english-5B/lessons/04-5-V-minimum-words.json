@@ -1,0 +1,49 @@
+{
+  "code": "5-V",
+  "title": "Minimum Words",
+  "title_en": "Minimum Words to be Taught - Unit 5",
+  "page_start": 20,
+  "page_end": 20,
+  "objectives": [
+    "Master the 28 target vocabulary words from Unit 5",
+    "Identify the part of speech for each word"
+  ],
+  "vocabulary": [
+    {"term": "airport", "term_en": "airport", "definition": "noun (Lesson 1)"},
+    {"term": "worry", "term_en": "worry", "definition": "verb (Lesson 1)"},
+    {"term": "check-in counter", "term_en": "check-in counter", "definition": "noun (Lesson 1)"},
+    {"term": "passport", "term_en": "passport", "definition": "noun (Lesson 1)"},
+    {"term": "boarding pass", "term_en": "boarding pass", "definition": "noun (Lesson 1)"},
+    {"term": "flight", "term_en": "flight", "definition": "noun (Lesson 1)"},
+    {"term": "seat", "term_en": "seat", "definition": "noun (Lesson 1)"},
+    {"term": "departure lounge", "term_en": "departure lounge", "definition": "noun (Lesson 1)"},
+    {"term": "land", "term_en": "land", "definition": "verb (Lesson 2)"},
+    {"term": "Air Traffic Controller", "term_en": "Air Traffic Controller", "definition": "noun (Lesson 3)"},
+    {"term": "instruction", "term_en": "instruction", "definition": "noun (Lesson 3)"},
+    {"term": "take off", "term_en": "take off", "definition": "phrasal verb (Lesson 3)"},
+    {"term": "continent", "term_en": "continent", "definition": "noun (Lesson 3)"},
+    {"term": "arrival lounge", "term_en": "arrival lounge", "definition": "noun (Lesson 3)"},
+    {"term": "confidently", "term_en": "confidently", "definition": "adverb (Lesson 3)"},
+    {"term": "baggage hall", "term_en": "baggage hall", "definition": "noun (Lesson 3)"},
+    {"term": "destination", "term_en": "destination", "definition": "noun (Lesson 3)"},
+    {"term": "wrap", "term_en": "wrap", "definition": "verb (Lesson 4)"},
+    {"term": "agency", "term_en": "agency", "definition": "noun (Lesson 6)"},
+    {"term": "screen", "term_en": "screen", "definition": "noun (Lesson 6)"},
+    {"term": "monsoon", "term_en": "monsoon", "definition": "adjective (Lesson 6)"},
+    {"term": "few / fewer", "term_en": "few / fewer", "definition": "adjective (Lesson 6)"},
+    {"term": "list", "term_en": "list", "definition": "noun (Lesson 8)"},
+    {"term": "freely", "term_en": "freely", "definition": "adverb (Lesson 8)"},
+    {"term": "realise", "term_en": "realise", "definition": "verb (Lesson 8)"},
+    {"term": "tropical", "term_en": "tropical", "definition": "adjective (Lesson 8)"},
+    {"term": "greet", "term_en": "greet", "definition": "verb (Lesson 8)"},
+    {"term": "skill", "term_en": "skill", "definition": "noun (Lesson 8)"}
+  ],
+  "key_concepts": [],
+  "examples": [],
+  "exercises": [],
+  "images": {
+    "pages": [],
+    "figures": []
+  },
+  "teaching_notes": "28 vocabulary words for Unit 5. Airport vocabulary dominates Lessons 1 and 3 (8 airport-specific terms). The reading vocabulary from Lesson 8 (list, freely, realise, tropical, greet, skill) connects to the world exploration theme. Group by theme: airport journey (check-in counter → departure lounge → flight → landing → arrival lounge → baggage hall) for sequential teaching."
+}

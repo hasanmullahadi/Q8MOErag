@@ -1,0 +1,42 @@
+{
+  "code": "5-PJ",
+  "title": "Project: My Invitation",
+  "title_en": "Project: My Invitation",
+  "page_start": 16,
+  "page_end": 16,
+  "objectives": [
+    "Create a simple invitation card for a celebration",
+    "Practice writing a short message including greeting, date, place, and purpose",
+    "Develop creativity through drawing and decorating"
+  ],
+  "vocabulary": [],
+  "key_concepts": [
+    {
+      "concept": "Writing an Invitation",
+      "explanation": "An invitation card includes: a greeting to the person, the event details (what, when, where), and the sender's name. Example: 'Dear Sara, please come to my celebration!' signed 'From, Noura.'"
+    }
+  ],
+  "examples": [
+    {
+      "problem": "Make an invitation card",
+      "solution_steps": [
+        "1. Fold a piece of paper to make a card",
+        "2. Draw and colour Eid decorations on your card",
+        "3. Write a short message to your friend",
+        "4. Example: 'Dear Sara, please come to my celebration!'",
+        "5. Add your name at the end",
+        "6. Example: 'From, Noura.'",
+        "7. Decorate your card with stars or stickers",
+        "8. Show your card and read your message aloud"
+      ],
+      "answer": "A completed invitation card with Eid decorations, a written message, and the student's name",
+      "visual_description": "An envelope with blue balloons around it, showing a card with handwritten instructions"
+    }
+  ],
+  "exercises": [],
+  "images": {
+    "pages": [],
+    "figures": []
+  },
+  "teaching_notes": "This project reinforces writing skills from the unit. Students create a real invitation card, practising the format: greeting + message + name. Encourage creativity in decorating. Have students present their cards to the class to practise speaking."
+}

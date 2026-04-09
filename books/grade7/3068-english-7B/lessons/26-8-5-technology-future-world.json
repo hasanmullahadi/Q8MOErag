@@ -1,0 +1,49 @@
+{
+  "code": "8-5",
+  "title": "Technology in the Future World",
+  "title_en": "Technology in the Future World",
+  "page_start": 60, "page_end": 61,
+  "skill": "Reading",
+  "objectives": [
+    "Identify explicit and implicit information from a written text about future technologies and their benefits",
+    "Evaluate future inventions by deciding whether I would use them and explaining reasons"
+  ],
+  "vocabulary": [
+    {"term": "artificial intelligence", "term_en": "artificial intelligence", "definition": "Computer systems that can perform tasks normally requiring human intelligence"},
+    {"term": "advance", "term_en": "advance", "definition": "To move forward; to develop or improve"},
+    {"term": "dome", "term_en": "dome", "definition": "A large, curved roof that covers a building or area"},
+    {"term": "generate", "term_en": "generate", "definition": "To produce or create something"},
+    {"term": "safe", "term_en": "safe", "definition": "Protected from danger or risk"},
+    {"term": "crack", "term_en": "crack", "definition": "A thin line that appears when something is broken"},
+    {"term": "impressive", "term_en": "impressive", "definition": "Making a strong positive effect; remarkable"},
+    {"term": "drone", "term_en": "drone", "definition": "A small flying machine that can carry items or take photos"},
+    {"term": "underground", "term_en": "underground", "definition": "Below the surface of the ground"},
+    {"term": "upgraded", "term_en": "upgraded", "definition": "Improved to a higher standard or newer version"},
+    {"term": "advanced", "term_en": "advanced", "definition": "Highly developed; far ahead in progress"},
+    {"term": "hologram", "term_en": "hologram", "definition": "A 3D image of a person or object that appears in the air"},
+    {"term": "virtual", "term_en": "virtual", "definition": "Created by computer; not physically real but feels real"},
+    {"term": "interact", "term_en": "interact", "definition": "To communicate and work with others"},
+    {"term": "digitally", "term_en": "digitally", "definition": "Using electronic technology or computers"},
+    {"term": "instantly", "term_en": "instantly", "definition": "Immediately; without delay"},
+    {"term": "possibility", "term_en": "possibility", "definition": "Something that might happen or be true"}
+  ],
+  "key_concepts": [
+    {"concept": "Future Technology Overview", "explanation": "Technology is developing faster than ever. Scientists believe new inventions, supported by artificial intelligence, will help people live more comfortably, protect the environment, and save time and energy. Technology will continue to advance, offering smarter tools for daily life."},
+    {"concept": "Future Cities", "explanation": "Weather-control domes to keep air cool and collect clean water. Desert-cleaning robots to remove plastic waste, plant trees, and generate fresh air. Smart homes made from future materials that repair small cracks by themselves and track energy use wisely."},
+    {"concept": "Future Travel", "explanation": "Flying buses that move quietly above traffic. Delivery drones that carry shopping orders and ship packages quickly. Hyper-speed underground trains that travel long distances in minutes. These inventions will be upgraded often to improve speed and safety."},
+    {"concept": "Future Education and Health", "explanation": "Education: hologram teachers who appear at home, virtual classrooms that feel completely real where learners can interact with lessons in new ways. Health: health mirrors that check heart rate, sleep, and stress, delivering information digitally. Underwater malls built inside clear domes under the sea. Memory-recording glasses that connect friends instantly."},
+    {"concept": "Beyond Earth", "explanation": "Scientists are exploring how humans might live on the Moon or Mars. Future farms that grow food using blue light and no soil. Technology will continue to open new possibilities, but the future depends on how wisely people choose to use it."}
+  ],
+  "examples": [],
+  "exercises": [
+    {"id": 1, "type": "multiple_choice", "problem": "1. What is the main idea of the passage? a) Future technology will change how people travel around the world b) Scientists will design new machines to protect the environment c) Education will become more advanced with artificial intelligence d) Technology in the future will make life easier and more exciting", "answer": "d) Technology in the future will make life easier and more exciting"},
+    {"id": 2, "type": "reference", "problem": "2. The underlined word 'that' in the 2nd paragraph refers to: a) new trees b) outdoor areas c) fresh air d) future materials", "answer": "d) future materials"},
+    {"id": 3, "type": "multiple_choice", "problem": "3. Why might hyper-speed underground trains be useful? a) They help robots plant new trees b) They can travel long distances very quickly c) They check people's health every morning d) They collect plastic from the desert", "answer": "b) They can travel long distances very quickly"},
+    {"id": 4, "type": "comprehension", "problem": "1. How will weather-control domes help people in the future? 2. In what way will friends contact each other in the future? 3. Which invention do you think is the most useful? Why? 4. How does the writer of the passage feel about the future of technology?", "answer": "1. Keep the air cool and collect clean water for daily use. 2. Using memory-recording glasses that connect friends instantly. 3. Open-ended. 4. Optimistic but cautious — the future depends on how wisely people use technology."},
+    {"id": 5, "type": "guess_the_word", "problem": "Let's Play — Guess the Word! Read each clue: A 3D image of a person/object that appears in the air (___). A large, curved roof that covers an area or building (___). A small flying machine that can carry items or take photos (___). A thin line that appears when something is broken (___). Use any two words in your own sentences.", "answer": "hologram, dome, drone, crack"},
+    {"id": 6, "type": "evaluation", "problem": "Your Future Choices: For each invention, choose Yes or No — would you use it? Explain why. Inventions: Flying buses, Memory-recording glasses, Health mirrors, Underwater malls.", "answer": "Open-ended evaluation with reasons"},
+    {"id": 7, "type": "ai_design", "problem": "AI Future Designer: Use AI or any approved tool to design a new future invention not in the passage. Write 3-4 sentences: What is it? What does it do? How does it help people? One possible problem. Share with classmates.", "answer": "Open-ended creative design activity"}
+  ],
+  "images": {"pages": [60, 61], "figures": []},
+  "teaching_notes": "Second reading lesson in Unit 8 — 5-paragraph futuristic text about technology. Covers: AI and smart tools, future cities (domes, robots, smart homes), future travel (flying buses, drones, hyper-speed trains), future education/health (holograms, virtual classrooms, health mirrors, memory glasses, underwater malls), beyond Earth (Moon/Mars farming). Rich vocabulary (17 words). Exercises: MCQ, reference, comprehension, word guessing game, evaluation table, AI design activity. 2 pages."
+}

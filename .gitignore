@@ -1,0 +1,18 @@
+# PDFs are large and can be re-downloaded from https://elibrary.moe.edu.kw/pages/digitallibrary
+# We only track the extracted knowledge (outlines, lessons, images).
+*.pdf
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+.obsidian/
+*.swp

@@ -1,0 +1,169 @@
+{
+  "code": "8-1",
+  "title": "Healthy Habits, Better Life",
+  "title_en": "Healthy Habits, Better Life",
+  "page_start": 60,
+  "page_end": 68,
+  "objectives": [
+    "Identify vocabulary related to health, diet, hygiene, and the five senses",
+    "Use present simple tense for daily routines and habits",
+    "Use first conditional (If + present simple, will + base verb) to show consequences",
+    "Read passages about dietitians and a cave adventure story",
+    "Recognise silent 'gh' and apply rules for adding s/es/ies to verbs",
+    "Write structured paragraphs about healthy teeth and healthy facts"
+  ],
+  "vocabulary": [
+    {"term": "dentist", "term_en": "dentist", "definition": "A doctor who takes care of teeth"},
+    {"term": "teeth / tooth", "term_en": "teeth / tooth", "definition": "The hard white parts in your mouth used for biting and chewing"},
+    {"term": "pain", "term_en": "pain", "definition": "An unpleasant feeling in your body when something hurts"},
+    {"term": "twice", "term_en": "twice", "definition": "Two times"},
+    {"term": "toothbrush", "term_en": "toothbrush", "definition": "A small brush used to clean your teeth"},
+    {"term": "taste", "term_en": "taste", "definition": "The sense that tells you the flavour of food"},
+    {"term": "tool", "term_en": "tool", "definition": "A device or instrument used to do a job"},
+    {"term": "toothache", "term_en": "toothache", "definition": "A pain in or around a tooth"},
+    {"term": "cross", "term_en": "cross", "definition": "To go from one side to another"},
+    {"term": "dietitian", "term_en": "dietitian", "definition": "A person who gives advice about food and healthy eating"},
+    {"term": "balanced", "term_en": "balanced", "definition": "Having the right amounts of different things (e.g. balanced meal)"},
+    {"term": "diet", "term_en": "diet", "definition": "The food that a person regularly eats"},
+    {"term": "choice", "term_en": "choice", "definition": "The act of choosing; a decision between options"},
+    {"term": "avoid", "term_en": "avoid", "definition": "To stay away from something; to not do something"},
+    {"term": "adult", "term_en": "adult", "definition": "A fully grown person; not a child"},
+    {"term": "difficult", "term_en": "difficult", "definition": "Not easy; hard to do"},
+    {"term": "especially", "term_en": "especially", "definition": "More than usual; particularly"},
+    {"term": "during", "term_en": "during", "definition": "Throughout the time of; while something is happening"},
+    {"term": "headache", "term_en": "headache", "definition": "A pain in your head"},
+    {"term": "second", "term_en": "second", "definition": "A very short unit of time (60 seconds = 1 minute)"},
+    {"term": "germ", "term_en": "germ", "definition": "A tiny organism that can cause illness"},
+    {"term": "exactly", "term_en": "exactly", "definition": "Precisely; not more and not less"},
+    {"term": "remove", "term_en": "remove", "definition": "To take something away"},
+    {"term": "decide", "term_en": "decide", "definition": "To make a choice about something"},
+    {"term": "echo", "term_en": "echo", "definition": "A sound that bounces off walls and is heard again"},
+    {"term": "shock", "term_en": "shock", "definition": "A sudden feeling of surprise or fear"},
+    {"term": "deep", "term_en": "deep", "definition": "Going far down from the top or surface"},
+    {"term": "exit", "term_en": "exit", "definition": "A way out of a place"},
+    {"term": "footstep", "term_en": "footstep", "definition": "The sound made by a foot when walking"}
+  ],
+  "key_concepts": [
+    {
+      "concept": "Present Simple Tense",
+      "explanation": "Use for daily routines and habits. I/We/You/They + base verb (eat, play, read). He/She/It + verb+s (eats, plays, reads). Negative: don't/doesn't + base verb. Questions: Do/Does + subject + base verb? Frequency adverbs: always, usually, sometimes, every. Examples: 'They eat breakfast at six o'clock every morning.' 'Where does he usually ride his bike?'"
+    },
+    {
+      "concept": "First Conditional (If)",
+      "explanation": "Structure: If + present simple, will + base verb. Used to show what will happen as a result of an action. Examples: 'If you drive carefully, you will arrive safely.' 'If he eats his breakfast, he will get energy.' 'If it rains, we will stay home.' 'If we don't find another way out, we will not leave the cave!' 'If you sleep well, you will be strong.'"
+    },
+    {
+      "concept": "Dietitians and Healthy Eating",
+      "explanation": "Reading passage: A healthy life starts with smart choices. Dietitians help people prepare balanced meals with proteins, healthy fats, fruit, and vegetables. A good diet gives energy to stay active. They guide people to avoid fast food and fizzy drinks, suggest healthy snacks (apples, carrots, nuts), and remind people to drink water, especially on hot days. Sleeping and eating well help people work, study better, and enjoy life."
+    },
+    {
+      "concept": "Cave Adventure — Staying Calm and Working Together",
+      "explanation": "Reading story: Nawaf, Ali, and Salem were hiking in the mountains. They entered an old cave. Suddenly, a large rock fell and covered the entrance. They felt shock but stayed calm. Nawaf said 'If we breathe slowly, we will stay calm.' Ali used his flashlight and found a small path. He said 'If we follow this path, we will find another exit.' They walked carefully and found the exit. Salem said 'If we stay together and help each other, we will always be safe.' Fun fact: There are caves where trees grow upside-down."
+    },
+    {
+      "concept": "Silent Letters and Verb Spelling Rules",
+      "explanation": "Silent 'gh': through, bright, night, bought — don't pronounce 'gh'. Adding s to verbs (3rd person): (1) Just add s: speak→speaks, play→plays. (2) Add es to verbs ending in ss/ch/sh: watch→watches, cross→crosses. (3) Change y to ies (consonant+y): study→studies, carry→carries."
+    }
+  ],
+  "examples": [
+    {
+      "problem": "Lesson 2: Present simple",
+      "solution_steps": [
+        "I/We/You/They + base verb; He/She/It + verb+s",
+        "1. Where ............ he usually ride his bike? (a. do, b. does, c. doing)",
+        "2. They ............ breakfast at six o'clock every morning. (a. eat, b. eating, c. eats)"
+      ],
+      "answer": "1. b. does; 2. a. eat",
+      "visual_description": "Grammar chart with subject groups, base verb/verb+s, question and negative forms"
+    },
+    {
+      "problem": "Lesson 7: First conditional",
+      "solution_steps": [
+        "If + present simple, will + base verb",
+        "1. If you go to the park, you ............. (will have fun / had fun)",
+        "2. If he ............. an umbrella, he will keep his clothes dry. (takes / took)"
+      ],
+      "answer": "1. will have fun; 2. takes",
+      "visual_description": "Examples with weather icons and activity pictures showing cause and effect"
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "problem": "Listening: 1. Hamad feels pain in his tooth when he eats or drinks. 2. Hamad brushes his teeth twice every day. 3. The dentist tells Hamad to eat more sweets. 4. Hamad should visit the dentist once a year.",
+      "answer": "Listen and determine true/false. Then write advice for healthy teeth."
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "problem": "Where ............ he usually ride his bike? (a. do, b. does, c. doing)",
+      "answer": "b. does"
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "problem": "They ............ breakfast at six o'clock every morning. (a. eat, b. eating, c. eats)",
+      "answer": "a. eat"
+    },
+    {
+      "id": 4,
+      "type": "reading_comprehension",
+      "problem": "Main idea of second paragraph about dietitians: (a. stay hydrated, b. eat fast food, c. have a good diet, d. avoid snacks)",
+      "answer": "c. have a good diet"
+    },
+    {
+      "id": 5,
+      "type": "reading_comprehension",
+      "problem": "The opposite of 'difficult' in line 15: (a. clever, b. easy, c. healthy, d. smart)",
+      "answer": "b. easy"
+    },
+    {
+      "id": 6,
+      "type": "short_answer",
+      "problem": "What does a dietitian do?",
+      "answer": "A dietitian helps people make smart food choices, prepare balanced meals, avoid fast food and fizzy drinks, and understand that healthy habits keep the brain active."
+    },
+    {
+      "id": 7,
+      "type": "completion",
+      "problem": "If you go to the park, you .............",
+      "answer": "will have fun (or: will play with your friends)"
+    },
+    {
+      "id": 8,
+      "type": "completion",
+      "problem": "If he ............ an umbrella, he will keep his clothes dry.",
+      "answer": "takes"
+    },
+    {
+      "id": 9,
+      "type": "reading_comprehension",
+      "problem": "In the cave story, what did Salem say at the end?",
+      "answer": "'If we stay together and help each other, we will always be safe.'"
+    },
+    {
+      "id": 10,
+      "type": "spelling",
+      "problem": "Add s: carry + s = ___; wash + s = ___; touch + s = ___; give + s = ___",
+      "answer": "carries; washes; touches; gives"
+    },
+    {
+      "id": 11,
+      "type": "guided_writing",
+      "problem": "Graphic organiser 'My Healthy Teeth': 1. How keep healthy? 2. What do you use? 3. How brush? 4. How often? 5. Where every 6 months? Guide words: care-soft-toothbrush-gently-twice-dentist",
+      "answer": "I care for my teeth by brushing them. I use a soft toothbrush. I brush gently up and down. I do it twice a day. I visit the dentist every six months."
+    },
+    {
+      "id": 12,
+      "type": "guided_writing",
+      "problem": "Graphic organiser 'Healthy Facts': 1. Why healthy habits? 2. Why wash hands? 3. Why is sleeping good? 4. Where do we get vitamins? 5. What happens if too much sugar? Guide words: strong-remove-germs-grow-vegetables-tired",
+      "answer": "We have healthy habits to stay strong. We wash our hands to remove germs. Sleeping helps our bodies grow. We get vitamins from vegetables and fruits. If we eat too much sugar, we will feel tired."
+    }
+  ],
+  "images": {
+    "pages": [],
+    "figures": []
+  },
+  "teaching_notes": "This unit focuses on health and wellbeing with two grammar points: present simple (for routines) and first conditional (for consequences). The dietitian reading is practical — connect to school meals. The cave adventure story is exciting and uses first conditional in dialogue naturally. Five senses are reviewed (sight, hearing, smell, taste, touch). Fun fact: caves where trees grow upside-down. Values: health awareness, self-care, responsibility, emotional intelligence. Silent 'gh' and verb +s/es/ies rules. 29 vocabulary words."
+}

@@ -1,0 +1,31 @@
+{
+  "code": "6-2",
+  "title": "Comparatives and Superlatives",
+  "title_en": "Comparatives and Superlatives",
+  "page_start": 33, "page_end": 33,
+  "skill": "Grammar",
+  "objectives": [
+    "Structure short sentences using comparative and superlative forms to describe cities and environments",
+    "Write short sentences using comparative and superlative forms to describe cities and environments"
+  ],
+  "vocabulary": [],
+  "key_concepts": [
+    {"concept": "Comparatives and Superlatives", "explanation": "We use the comparative to compare two things, and the superlative to compare three or more. Three rules based on adjective type:"},
+    {"concept": "Short adjectives (1 syllable)", "explanation": "Add -er (comparative) / -est (superlative). Examples: tall → taller → tallest, smart → smarter → smartest."},
+    {"concept": "Adjectives ending in -y (usually 2 syllables)", "explanation": "Change y → i and add -er / -est. Examples: happy → happier → happiest."},
+    {"concept": "Long adjectives (2+ syllables)", "explanation": "Use more (comparative) / most (superlative). Examples: crowded → more crowded → most crowded, beautiful → more beautiful → most beautiful."},
+    {"concept": "Syllable Guide", "explanation": "A syllable has one vowel sound. smart = 1 syllable, crow/ded = 2 syllables, beau/ti/ful = 3 syllables. Vowel reminder: a, e, i, o, u."}
+  ],
+  "examples": [
+    {"problem": "tall (1 syllable)", "solution_steps": ["Short adjective → add -er/-est"], "answer": "taller / tallest", "visual_description": ""},
+    {"problem": "happy (ends in -y)", "solution_steps": ["Change y → i, add -er/-est"], "answer": "happier / happiest", "visual_description": ""},
+    {"problem": "beautiful (3 syllables)", "solution_steps": ["Long adjective → use more/most"], "answer": "more beautiful / most beautiful", "visual_description": ""}
+  ],
+  "exercises": [
+    {"id": 1, "type": "fill_in_blank", "problem": "Complete with the correct comparative or superlative: 1. A whale is ___ (large) than a dolphin. 2. Sarah's room is ___ (clean) in the house. 3. The new bag is ___ (heavy) than my old one. 4. Pollution is one of the ___ (serious) problems on Earth. 5. This building is ___ (modern) than the one across the street.", "answer": "1. larger, 2. the cleanest, 3. heavier, 4. most serious, 5. more modern"},
+    {"id": 2, "type": "cloze", "problem": "Read about Hamad's City and complete with adjectives (busy, quiet, dangerous, fast): Hamad lives in Kuwait City. He thinks his city is becoming ___ than before. The streets are more dangerous now because there are more cars. The new park near his house is one of the ___ places to visit. The new buses are ___ and more modern than the old ones. He sometimes misses how quiet the city used to be, but he likes the new changes.", "answer": "busier, quietest, faster"},
+    {"id": 3, "type": "writing", "problem": "Write About Your Place: Write three sentences about your city, school, or environment. Use comparatives and superlatives to describe how things are changing or improving. Share with a partner.", "answer": "Open-ended using words like beautiful, safe, clean, big, warm"}
+  ],
+  "images": {"pages": [33], "figures": []},
+  "teaching_notes": "Grammar lesson on comparatives and superlatives. Grammar Box table with three rules (short/y-ending/long adjectives). Syllable guide included. Think-Pair-Share with three city pictures (A, B, C). Practice: controlled fill-in → cloze passage about Kuwait City → free writing about own place. 1 page."
+}

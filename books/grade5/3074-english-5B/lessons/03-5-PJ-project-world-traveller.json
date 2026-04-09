@@ -1,0 +1,37 @@
+{
+  "code": "5-PJ",
+  "title": "Project: World Traveller",
+  "title_en": "Project: World Traveller",
+  "page_start": 19,
+  "page_end": 19,
+  "objectives": [
+    "Research and present information about a chosen country",
+    "Practise travel vocabulary in a meaningful project context"
+  ],
+  "vocabulary": [],
+  "key_concepts": [
+    {
+      "concept": "World Traveller Country Profile",
+      "explanation": "Students choose a destination and create a country profile poster including: Country's Name, Official Language, Capital, Landmark, a drawing or picture representing the country, a Fun Fact, and Famous Food from the country."
+    }
+  ],
+  "examples": [
+    {
+      "problem": "Choose your destination #1",
+      "solution_steps": [
+        "Fill in: Country's Name, Official Language, Capital, Landmark",
+        "Draw or paste a picture that represents this country",
+        "Write a fun fact about this country",
+        "Write a famous food from this country"
+      ],
+      "answer": "A completed country profile with all fields filled in",
+      "visual_description": "A poster template with passport and airplane graphics, fields for country info, a drawing area, and space for fun fact and food"
+    }
+  ],
+  "exercises": [],
+  "images": {
+    "pages": [],
+    "figures": []
+  },
+  "teaching_notes": "This project develops research skills and global awareness. Students can use books, the internet, or ask family. Encourage choosing countries from different continents. Good for class presentations — students present their 'destination' to the class."
+}

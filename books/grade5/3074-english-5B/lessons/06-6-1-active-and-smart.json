@@ -1,0 +1,157 @@
+{
+  "code": "6-1",
+  "title": "Active And Smart",
+  "title_en": "Active And Smart",
+  "page_start": 24,
+  "page_end": 32,
+  "objectives": [
+    "Identify vocabulary related to sports, technology, and fitness",
+    "Use 'good at / not good at + verb-ing' to describe abilities",
+    "Use relative clauses with 'who' (people) and 'which' (things)",
+    "Read passages about technology past and present, and a robot referee story",
+    "Recognise silent 'b' in -mb words and apply -ing spelling rules",
+    "Write structured paragraphs using graphic organisers"
+  ],
+  "vocabulary": [
+    {"term": "technology", "term_en": "technology", "definition": "The use of science to create machines and devices"},
+    {"term": "smartwatch", "term_en": "smartwatch", "definition": "A digital watch that can track steps, heart rate, and more"},
+    {"term": "calorie", "term_en": "calorie", "definition": "A unit of energy in food; burning calories means using energy"},
+    {"term": "track", "term_en": "track", "definition": "To follow or record something (e.g. track your steps)"},
+    {"term": "step", "term_en": "step", "definition": "One movement of the foot when walking"},
+    {"term": "relay race", "term_en": "relay race", "definition": "A race where team members take turns running parts of the distance"},
+    {"term": "burn", "term_en": "burn", "definition": "To use energy (calories) through exercise"},
+    {"term": "heart rate", "term_en": "heart rate", "definition": "The number of times your heart beats per minute"},
+    {"term": "tablet", "term_en": "tablet", "definition": "A flat portable computer with a touch screen"},
+    {"term": "easily", "term_en": "easily", "definition": "Without difficulty; in an easy way"},
+    {"term": "programme", "term_en": "programme", "definition": "A show on television or radio"},
+    {"term": "channel", "term_en": "channel", "definition": "A TV station that broadcasts programmes"},
+    {"term": "typewriter", "term_en": "typewriter", "definition": "An old machine used to type letters on paper before computers"},
+    {"term": "wire", "term_en": "wire", "definition": "A thin metal thread used to carry electricity or signals"},
+    {"term": "nowadays", "term_en": "nowadays", "definition": "At the present time; these days"},
+    {"term": "type", "term_en": "type", "definition": "To write using a keyboard or machine"},
+    {"term": "scale", "term_en": "scale", "definition": "A device for measuring weight"},
+    {"term": "workout", "term_en": "workout", "definition": "A session of physical exercise"},
+    {"term": "muscle", "term_en": "muscle", "definition": "A part of your body that helps you move and be strong"},
+    {"term": "normal", "term_en": "normal", "definition": "Usual; what is expected"},
+    {"term": "weight", "term_en": "weight", "definition": "How heavy something or someone is"},
+    {"term": "increase", "term_en": "increase", "definition": "To become bigger or more"},
+    {"term": "growth", "term_en": "growth", "definition": "The process of growing bigger or stronger"},
+    {"term": "announce", "term_en": "announce", "definition": "To tell people about something publicly"},
+    {"term": "sensor", "term_en": "sensor", "definition": "A device that detects things like movement, light, or sound"},
+    {"term": "nervous", "term_en": "nervous", "definition": "Feeling worried or anxious about something"},
+    {"term": "suddenly", "term_en": "suddenly", "definition": "Quickly and without warning"},
+    {"term": "referee", "term_en": "referee", "definition": "A person who makes sure players follow the rules in a game"},
+    {"term": "tie", "term_en": "tie", "definition": "When two teams have the same score at the end of a game"}
+  ],
+  "key_concepts": [
+    {
+      "concept": "Good at / Not good at + Verb-ing",
+      "explanation": "Structure: Subject + am/is/are + good at / not good at + verb-ing. Use 'am' with I, 'is' with he/she/it, 'are' with you/we/they. Examples: 'Sara is not good at playing football.' 'Grandfather is good at fixing old cars.' 'Noura is good at drawing and using the computer, but she is not good at swimming.'"
+    },
+    {
+      "concept": "Relative Clauses (who, which)",
+      "explanation": "Use 'who' for people and 'which' for things. Structure: Subject + who/which + rest of clause + return to main clause. Examples: 'The woman who you saw in the car is my mother.' (who = person) 'The letter which I wrote yesterday is for my friend.' (which = thing) 'The boy who lives next door is my friend.' 'The dress which I bought from the mall is for my sister.'"
+    },
+    {
+      "concept": "Technology Now and Then",
+      "explanation": "Reading passage: Technology has changed over the years. Phones: past — big, heavy, attached to wires; now — smart, small, easily carried (photos, movies). TVs: past — black and white, few programmes; now — smart, colourful, big sizes, internet-connected. Writing: past — by hand or typewriters; now — computers help work faster. Conclusion: technology makes life easier, but we should use it wisely."
+    },
+    {
+      "concept": "Robo-Ref and The Big Game",
+      "explanation": "Reading story: In Brightville, Leo (10, loves building robots) and Tom (fastest runner) built Robo-Ref — a friendly white robot referee with blue lights, wheels, whistle, and sensors. It could follow the ball, count goals, and say encouraging things. During the match, wind pushed a plastic bag onto the playground and Robo-Ref followed it thinking it was the ball! Children laughed and helped. The game ended in a tie, but everyone agreed teamwork and fun were the true winners."
+    },
+    {
+      "concept": "Silent Letters and -ing Spelling Rules",
+      "explanation": "Silent 'b' in -mb: lamb, climb, thumb — don't pronounce the 'b'. Adding -ing rules: (1) Short vowel + consonant → double the consonant: run→running, hop→hopping, swim→swimming. (2) Ends in -e → drop e, add -ing: make→making, write→writing, dance→dancing. (3) Just add -ing: jump→jumping, help→helping, walk→walking. (4) Two vowels before consonant → just add -ing: rain→raining, read→reading, clean→cleaning."
+    }
+  ],
+  "examples": [
+    {
+      "problem": "Lesson 2: Good at / Not good at + verb-ing",
+      "solution_steps": [
+        "1. Sara is not good at ............ football. (a. played, b. playing, c. plays)",
+        "2. Grandfather is good at ............ old cars. (a. fixed, b. fixes, c. fixing)"
+      ],
+      "answer": "1. b. playing; 2. c. fixing",
+      "visual_description": "Grammar chart with am/is/are + good at/not good at + verb-ing, activity grid with thumbs up/down"
+    },
+    {
+      "problem": "Lesson 7: Relative clauses (who, which)",
+      "solution_steps": [
+        "who = people, which = things",
+        "1. The boy (who – which) lives next door is my friend.",
+        "2. The dress (who – which) I bought from the mall is for my sister.",
+        "3. The phone (who – which) I lost last Friday is expensive."
+      ],
+      "answer": "1. who (boy = person); 2. which (dress = thing); 3. which (phone = thing)",
+      "visual_description": "Sentence structure diagram: Subject → Relative pronoun → Rest of clause → Return to main clause"
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "problem": "Listening: 1. The students started the day with running exercises. 2. Mr. Adel has 2000 steps on his smartwatch. 3. The school has seven teams. 4. The winning team will get a golden cup.",
+      "answer": "Listen and tick true/false. Then circle what Mr. Adel's smartwatch can track."
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "problem": "Sara is not good at ............ football. (a. played, b. playing, c. plays)",
+      "answer": "b. playing"
+    },
+    {
+      "id": 3,
+      "type": "reading_comprehension",
+      "problem": "Best title for technology passage: (a. The Old Movies, b. Using Typewriters, c. Technology Now and Then, d. Internet Connection)",
+      "answer": "c. Technology Now and Then"
+    },
+    {
+      "id": 4,
+      "type": "reading_comprehension",
+      "problem": "The underlined word 'They' in line 7 refers to: (a. channels, b. programmes, c. sizes, d. televisions)",
+      "answer": "d. televisions"
+    },
+    {
+      "id": 5,
+      "type": "reading_comprehension",
+      "problem": "The meaning of 'attached' in line 2 is: (a. made, b. worked, c. joined, d. wrote)",
+      "answer": "c. joined"
+    },
+    {
+      "id": 6,
+      "type": "short_answer",
+      "problem": "How has technology changed nowadays?",
+      "answer": "Phones are smart and small, TVs are colourful and connected to the internet, computers help people work faster."
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "problem": "The boy (who – which) lives next door is my friend.",
+      "answer": "who"
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "problem": "The dress (who – which) I bought from the mall is for my sister.",
+      "answer": "which"
+    },
+    {
+      "id": 9,
+      "type": "guided_writing",
+      "problem": "Graphic organiser about 'My Tablet': 1. What's your favourite technology? 2. What do you use it for? 3. What's your favourite app? 4. How should you use it? 5. Where can you use it? Guide words: education-play-learn-English-wisely-home",
+      "answer": "My favourite technology is my tablet. I use it for education and learning English. My favourite app is the English learning app. I should use my tablet wisely. I can use it at home."
+    },
+    {
+      "id": 10,
+      "type": "guided_writing",
+      "problem": "Graphic organiser about 'Building Strong Muscles': 1. Where do you go? 2. What do you need to do? 3. How do you track growth? 4. Why do you need strong muscles? 5. How do you feel? Guide words: gym-workout-daily-smart scale-active-healthy",
+      "answer": "I go to the gym to build muscles. I need to do a daily workout. I track my growth using a smart scale. Strong muscles help me stay active and healthy. I feel great when I am strong."
+    }
+  ],
+  "images": {
+    "pages": [],
+    "figures": []
+  },
+  "teaching_notes": "This unit connects sports and technology — relevant to modern kids. Two grammar points: good at/not good at (describing abilities) and relative clauses (who/which). The technology reading compares past and present — good for discussion. Robo-Ref story is fun and teaches teamwork. Fun fact: 'The more you move, the more calories you burn.' Safety tip: 'Always ask an adult for help when using technology.' Pronunciation: silent 'b' in -mb. Spelling: -ing rules with 4 categories. 29 vocabulary words."
+}

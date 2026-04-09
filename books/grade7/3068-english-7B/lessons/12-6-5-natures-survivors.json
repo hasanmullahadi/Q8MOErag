@@ -1,0 +1,52 @@
+{
+  "code": "6-5",
+  "title": "Nature's Survivors",
+  "title_en": "Nature's Survivors",
+  "page_start": 36, "page_end": 37,
+  "skill": "Reading",
+  "objectives": [
+    "Identify explicit and implicit information from a written text about how animals adapt to climate change",
+    "Determine the meaning of unfamiliar words in a written text about animal habitats and survival strategies by using context clues"
+  ],
+  "vocabulary": [
+    {"term": "habitat", "term_en": "habitat", "definition": "The natural home of an animal or plant"},
+    {"term": "adapt", "term_en": "adapt", "definition": "To change something to make it suitable for a new use or situation"},
+    {"term": "store", "term_en": "store", "definition": "To keep or save for future use"},
+    {"term": "distance", "term_en": "distance", "definition": "The amount of space between two places"},
+    {"term": "area", "term_en": "area", "definition": "A particular part of a place or region"},
+    {"term": "cope", "term_en": "cope", "definition": "To deal with something difficult successfully"},
+    {"term": "harsh", "term_en": "harsh", "definition": "Very difficult, severe, or cruel"},
+    {"term": "condition", "term_en": "condition", "definition": "The state or situation that something is in"},
+    {"term": "severely", "term_en": "severely", "definition": "Very seriously or to a great degree"},
+    {"term": "native", "term_en": "native", "definition": "Originally from a particular place"},
+    {"term": "chemical", "term_en": "chemical", "definition": "A substance produced by or used in chemistry (e.g. sprays/pesticides)"},
+    {"term": "population", "term_en": "population", "definition": "The total number of people or animals in an area"},
+    {"term": "recover", "term_en": "recover", "definition": "To return to a normal state after a period of difficulty"},
+    {"term": "polluted", "term_en": "polluted", "definition": "Made dirty or harmful by waste or chemicals"},
+    {"term": "dry up", "term_en": "dry up", "definition": "To become completely dry; to lose all water"},
+    {"term": "lay", "term_en": "lay", "definition": "To produce eggs"},
+    {"term": "disappear", "term_en": "disappear", "definition": "To cease to exist or be visible"},
+    {"term": "further", "term_en": "further", "definition": "To a greater distance"},
+    {"term": "zone", "term_en": "zone", "definition": "An area with a particular feature or use"},
+    {"term": "securely", "term_en": "securely", "definition": "In a way that is safe and protected"}
+  ],
+  "key_concepts": [
+    {"concept": "Animal Adaptation to Climate Change", "explanation": "Animals worldwide are adapting to survive climate changes. Different habitats (deserts, gardens, ponds, poles) present different challenges. Animals adapt their behaviour, and humans help by protecting habitats."},
+    {"concept": "Desert Animals: Camels", "explanation": "Camels face long dry seasons with fewer green plants. Their humps store fat for energy, and they travel great distances without water. Farmers protect natural desert plants and manage water sources so camels and other animals can cope with harsh desert conditions."},
+    {"concept": "Garden Animals: Bees", "explanation": "Bees have become endangered as heat reduces flowers. With fewer plants, bees make less honey. Bees adapted by flying early in the morning and visiting more flowers to find nectar. People help by planting native plants and using fewer chemical sprays, helping bee populations recover."},
+    {"concept": "Pond/River Animals: Frogs", "explanation": "Frogs are affected by rising temperatures and polluted water. Ponds have dried up, leaving fewer safe places for frogs to lay eggs. Community groups help by cleaning rivers, removing rubbish, digging small ponds, and adding clean water."},
+    {"concept": "Polar Animals: Penguins and Polar Bears", "explanation": "At the poles, ice melts causing natural homes to disappear. Penguins travel further to find food; polar bears swim longer distances to hunt. Scientists and wildlife teams protect these animals by looking after habitats, reducing pollution, and creating safe zones."},
+    {"concept": "Survival Adaptation Fact File", "explanation": "Elephants: travel far to find water, stay in groups, cover bodies with mud to stay cool. Foxes: hide extra food for later, hunt at cooler times of day to save energy."}
+  ],
+  "examples": [],
+  "exercises": [
+    {"id": 1, "type": "multiple_choice", "problem": "1. The underlined pronoun 'them' in the 1st paragraph refers to: a) ponds b) animals c) forests d) people", "answer": "b) animals"},
+    {"id": 2, "type": "antonym", "problem": "2. The opposite of the underlined word 'melts' in the 5th paragraph is: a) changes b) freezes c) increases d) helps", "answer": "b) freezes"},
+    {"id": 3, "type": "not_true", "problem": "3. According to the passage, which is NOT TRUE? a) Bees are making less honey because there are fewer flowers b) Some ponds have dried up, and frogs lost places to lay eggs c) Penguins travel shorter distances now to find food d) Scientists and wildlife teams are working to protect animals", "answer": "c) Penguins travel shorter distances now to find food (they travel further)"},
+    {"id": 4, "type": "comprehension", "problem": "1. How has climate change made life harder for animals? 2. Why do some animals move to new places or adapt their behaviour? 3. How do people's actions help protect animals as the climate changes? 4. What lesson can we learn from the way animals adapt to change?", "answer": "1. Hotter summers, colder winters, unpredictable rainfall affect every habitat. 2. To survive — find food, water, safe places. 3. By planting native plants, cleaning rivers, creating safe zones, reducing pollution. 4. Resilience, adaptation, and the importance of protecting nature."},
+    {"id": 5, "type": "synonym_matching", "problem": "Find words in the passage matching: natural home of an animal or plant → ___. To change something for a new situation → ___. Containing harmful substances → ___. In a safe and protected way → ___. Identify the part of speech.", "answer": "habitat (noun), adapt (verb), chemical (adjective), securely (adverb)"},
+    {"id": 6, "type": "riddle_writing", "problem": "Who Am I? Riddle Writing: Write a short riddle about an animal that has adapted to climate change. Don't say the animal's name — let classmates guess! Example: 'I used to live near the ice, but now I swim further for food. I survive the cold, but my home is melting. Who am I?' (polar bear)", "answer": "Open-ended creative writing"}
+  ],
+  "images": {"pages": [36, 37], "figures": []},
+  "teaching_notes": "Second reading lesson in Unit 6 — 6-paragraph passage about animal adaptation to climate change. Covers 4 habitats: desert (camels), gardens (bees), ponds (frogs), poles (penguins/polar bears). Rich vocabulary (20 words). Fact File sidebar with elephants and foxes. Exercises: MCQ, antonyms, NOT TRUE, comprehension, synonym matching with parts of speech, riddle writing. Encourages AI use for further research. 2 pages."
+}

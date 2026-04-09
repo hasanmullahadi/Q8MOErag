@@ -1,0 +1,49 @@
+{
+  "code": "5-5",
+  "title": "The Power of Sports: Lessons for Body and Mind",
+  "title_en": "The Power of Sports: Lessons for Body and Mind",
+  "page_start": 24, "page_end": 25,
+  "skill": "Reading",
+  "objectives": [
+    "Identify main ideas and supporting details from a written text about the physical, mental, and social benefits of sports",
+    "Determine the meaning of key vocabulary from a written text about sports and wellness using context clues"
+  ],
+  "vocabulary": [
+    {"term": "control", "term_en": "control", "definition": "To manage or direct; to have power over"},
+    {"term": "emotion", "term_en": "emotion", "definition": "A strong feeling such as love, fear, anger, or joy"},
+    {"term": "unfair", "term_en": "unfair", "definition": "Not based on principles of equality and justice"},
+    {"term": "dynamic", "term_en": "dynamic", "definition": "Full of energy and new ideas; active"},
+    {"term": "decision", "term_en": "decision", "definition": "A choice that you make after thinking"},
+    {"term": "individual", "term_en": "individual", "definition": "Done by one person; relating to a single person"},
+    {"term": "courage", "term_en": "courage", "definition": "The ability to do something that frightens you; bravery"},
+    {"term": "depend on", "term_en": "depend on", "definition": "To rely on; to need someone or something"},
+    {"term": "achieve", "term_en": "achieve", "definition": "To successfully reach a goal"},
+    {"term": "physically", "term_en": "physically", "definition": "In a way that relates to the body"},
+    {"term": "mentally", "term_en": "mentally", "definition": "In a way that relates to the mind"},
+    {"term": "movement", "term_en": "movement", "definition": "The act of moving the body"},
+    {"term": "train", "term_en": "train", "definition": "To teach or practice a skill"},
+    {"term": "strategically", "term_en": "strategically", "definition": "In a planned and clever way"},
+    {"term": "leadership", "term_en": "leadership", "definition": "The ability to lead a group of people"},
+    {"term": "teammate", "term_en": "teammate", "definition": "A fellow member of a team"},
+    {"term": "rise", "term_en": "rise", "definition": "To get up; to recover after a setback"},
+    {"term": "failure", "term_en": "failure", "definition": "Lack of success"},
+    {"term": "victory", "term_en": "victory", "definition": "An act of defeating an opponent; winning"}
+  ],
+  "key_concepts": [
+    {"concept": "Sports Build Character", "explanation": "Sports teach focus, staying calm, and never giving up. Players learn to control their thoughts and emotions. Every match is a chance to practise teamwork, respect, and patience even when a situation feels unfair."},
+    {"concept": "Types of Sports", "explanation": "Dynamic team sports (football, volleyball) help players work together and make decisions quickly. Individual sports (swimming, running) require self-control and courage because the player must depend on personal effort. Mental sports (chess) train the brain to plan, concentrate, and think strategically."},
+    {"concept": "Sports Build Community", "explanation": "Sports connect schools, families, and even countries through friendship and fair play. When players leave the field and shake hands with opponents, they show that respect matters more than victory. Sports strengthen both body and spirit."}
+  ],
+  "examples": [],
+  "exercises": [
+    {"id": 1, "type": "table_completion", "problem": "Fill in the table with information from the passage: Type of Sport → Examples → Benefits. Team Sports: football and volleyball → make decisions quickly as a team. Individual Sports: ___ → ___. Mental Sports: ___ → ___. All Sports: ___ → ___.", "answer": "Individual Sports: swimming and running → self-control and courage. Mental Sports: chess → plan, concentrate, think strategically. All Sports: all types → grow stronger inside and out."},
+    {"id": 2, "type": "multiple_choice", "problem": "1. The main idea of the 2nd paragraph is: a) sports teach people how to focus b) losing a game teaches us to rise after failure c) sports connect schools, families, and even countries d) playing physical or mental sports helps people grow stronger", "answer": "d) playing physical or mental sports helps people grow stronger"},
+    {"id": 3, "type": "reference", "problem": "The underlined word 'They' in the 4th paragraph refers to: a) countries b) players c) sports d) opponents", "answer": "c) sports"},
+    {"id": 4, "type": "comprehension", "problem": "1. How do sports help people manage their emotions? 2. How do individual sports like swimming or running build courage? 3. Why is teamwork important for players and for the community?", "answer": "1. Players learn to control their thoughts and emotions, practising patience even when situations feel unfair. 2. They require self-control because the player must depend on personal effort to achieve their goal. 3. Playing together builds teamwork; sports connect schools, families, and countries through friendship and fair play."},
+    {"id": 5, "type": "antonyms", "problem": "Find the new words in the passage that mean the opposite: inactive (para 2) → ___, fear (para 3) → ___, success (para 2) → ___, defeat (para 2) → ___", "answer": "inactive → dynamic/active, fear → courage, success → failure, defeat → victory"},
+    {"id": 6, "type": "creative_writing", "problem": "Imagine your body could talk after a fun day of sports! In pairs, write 4 sentences. Explain how sports can keep your body strong and active. Use 2-3 linkers.", "answer": "Open-ended creative writing"},
+    {"id": 7, "type": "voting", "problem": "Listen to each pair's sentences. Vote for one pair in each category: Most Creative Sentence, Best Use of Linkers, Most Positive Message.", "answer": "Class voting activity"}
+  ],
+  "images": {"pages": [24, 25], "figures": []},
+  "teaching_notes": "Second reading lesson in Unit 5 — longer passage about the power of sports. Four paragraphs: character building, types of sports (team/individual/mental), character from losing, community connection. Rich vocabulary (19 words). Exercises include table completion, MCQ, reference questions, antonyms, and creative pair writing with voting. Linker Bank continues. 2 pages."
+}

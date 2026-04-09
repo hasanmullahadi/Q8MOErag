@@ -1,0 +1,50 @@
+{
+  "code": "7-5",
+  "title": "Stories of Strength and Faith",
+  "title_en": "Stories of Strength and Faith",
+  "page_start": 48, "page_end": 49,
+  "skill": "Reading",
+  "objectives": [
+    "Identify explicit and implicit information from a written text about noble qualities and actions of Prophets Musa and Yusuf (peace be upon them)",
+    "Respect the values and lessons in prophetic stories by explaining how qualities such as patience, honesty, and forgiveness guide behaviour in real situations"
+  ],
+  "vocabulary": [
+    {"term": "reveal", "term_en": "reveal", "definition": "To make known; to show something previously hidden"},
+    {"term": "true", "term_en": "true", "definition": "Real; genuine; in accordance with fact"},
+    {"term": "forgiveness", "term_en": "forgiveness", "definition": "The act of pardoning someone for a mistake or wrongdoing"},
+    {"term": "noble", "term_en": "noble", "definition": "Having high moral qualities; honourable"},
+    {"term": "interfere", "term_en": "interfere", "definition": "To get involved in something that is not your concern"},
+    {"term": "ignore", "term_en": "ignore", "definition": "To refuse to pay attention to something"},
+    {"term": "injustice", "term_en": "injustice", "definition": "Lack of fairness; wrong treatment"},
+    {"term": "defend", "term_en": "defend", "definition": "To protect someone from harm or danger"},
+    {"term": "incident", "term_en": "incident", "definition": "An event or occurrence, especially one of importance"},
+    {"term": "journey", "term_en": "journey", "definition": "A long trip from one place to another"},
+    {"term": "honestly", "term_en": "honestly", "definition": "In a truthful and sincere way"},
+    {"term": "sudden", "term_en": "sudden", "definition": "Happening quickly and unexpectedly"},
+    {"term": "sincere", "term_en": "sincere", "definition": "Genuine; truly meant; not pretending"},
+    {"term": "jealous", "term_en": "jealous", "definition": "Feeling envious of someone's achievements or advantages"},
+    {"term": "hardship", "term_en": "hardship", "definition": "Severe suffering or difficulty"},
+    {"term": "truthful", "term_en": "truthful", "definition": "Always telling the truth; honest"},
+    {"term": "treat", "term_en": "treat", "definition": "To behave towards someone in a certain way"},
+    {"term": "wrongly", "term_en": "wrongly", "definition": "In an unfair or unjust manner"},
+    {"term": "mercy", "term_en": "mercy", "definition": "Compassion or forgiveness shown to someone"},
+    {"term": "difficulty", "term_en": "difficulty", "definition": "A problem or challenge that is hard to deal with"}
+  ],
+  "key_concepts": [
+    {"concept": "Stories of Prophets Reveal Character Lessons", "explanation": "Stories about prophets reveal important lessons about character. They show how a person can have true strength by practising qualities such as honesty, forgiveness, and other noble values. These qualities can guide our behaviour and help us follow the good example of the prophets' lives."},
+    {"concept": "Prophet Musa (peace be upon him)", "explanation": "Prophet Musa faced a moment of danger when he heard a man calling for help. Others did not want to interfere and tried to ignore the situation because they were afraid. Prophet Musa understood there was injustice, so he chose to defend the weak man — showing great courage. He then began a long journey to a new land, worked hard, behaved honestly, helped women at a well in a sudden situation, and acted with sincere care. People learned to trust him."},
+    {"concept": "Prophet Yusuf (peace be upon him)", "explanation": "Prophet Yusuf faced a different test — his brothers felt jealous of him. Although he lived far from home and faced many hardships, he stayed truthful and worked hard. People who did not treat him well and behaved wrongly towards him were later forgiven by him. Prophet Yusuf chose mercy and stayed calm during every difficulty he faced."},
+    {"concept": "Lessons from Both Prophets", "explanation": "Strong character grows through courage, patience, honesty, and forgiveness. These qualities can guide our lives and help us act wisely within our families and communities."}
+  ],
+  "examples": [],
+  "exercises": [
+    {"id": 1, "type": "comparison_table", "problem": "Compare the two prophets: Prophet → Quality Shown → Action from the Passage → Result. Musa: ___ → ___ → ___. Yusuf: ___ → ___ → ___.", "answer": "Musa: courage/honesty → defended the weak man, worked honestly → people learned to trust him. Yusuf: truthfulness/mercy/forgiveness → stayed truthful despite hardships, forgave those who wronged him → showed that strong character grows through patience and forgiveness."},
+    {"id": 2, "type": "multiple_choice", "problem": "1. What is the main idea of the passage? a) Prophets Musa and Yusuf travelled to new lands and cities b) Both prophets showed strong qualities through their actions and behaviour c) Both prophets met different people in many events and situations d) The prophets lived with communities as part of their normal lives", "answer": "b) Both prophets showed strong qualities through their actions and behaviour"},
+    {"id": 3, "type": "reference", "problem": "2. The underlined pronoun 'They' in the 1st paragraph refers to: a) stories b) lessons c) values d) qualities", "answer": "a) stories"},
+    {"id": 4, "type": "inference", "problem": "3. How does the writer feel about the prophets and their good qualities in this passage? a) Surprised b) Curious c) Creative d) Respectful", "answer": "d) Respectful"},
+    {"id": 5, "type": "comprehension", "problem": "1. What qualities does the passage say can guide our behaviour? 2. Why did the author write this passage about Prophets Musa and Yusuf (peace be upon them)?", "answer": "1. Courage, patience, honesty, and forgiveness. 2. To show that strong character grows through these noble qualities, and these stories can guide us to act wisely in our families and communities."},
+    {"id": 6, "type": "situation_to_solution", "problem": "From Situation to Solution: Pick one real-life situation (e.g. a classmate feels upset, someone loses their temper, two friends argue). Select one quality (patience, kindness, honesty, courage, cooperation, responsibility). Complete: Situation → Quality → Action (what the person does) → Result (what happens next).", "answer": "Example: Situation: Someone gets angry → Quality: Patience → Action: The person can stay calm and speak gently → Result: As a result, the problem is solved peacefully."}
+  ],
+  "images": {"pages": [48, 49], "figures": []},
+  "teaching_notes": "Second reading lesson in Unit 7 — Islamic values text about Prophets Musa and Yusuf (peace be upon them). Six paragraphs: intro about prophets revealing character lessons, Musa's courage and honesty (two paragraphs), Yusuf's truthfulness and forgiveness (one paragraph), conclusion. Rich vocabulary (20 words). Comparison table between the two prophets. 'From Situation to Solution' activity connects prophetic qualities to real-life scenarios. Examples of situations provided: classmate upset, someone loses temper, friends argue, person feels shy, student forgets homework. 2 pages."
+}

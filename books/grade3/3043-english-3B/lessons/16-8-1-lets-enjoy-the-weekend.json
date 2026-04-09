@@ -1,0 +1,184 @@
+{
+  "code": "8-1",
+  "title": "Let's Enjoy The Weekend",
+  "title_en": "Let's Enjoy The Weekend",
+  "page_start": 54,
+  "page_end": 61,
+  "objectives": [
+    "Identify vocabulary related to weekend plans and family activities",
+    "Use future simple (going to) to talk about plans",
+    "Use past simple (did not + base verb) for negative past sentences",
+    "Read passages about a camping trip and grandma's pearl diving memories",
+    "Write guided paragraphs about a lovely day and a day in the kitchen"
+  ],
+  "vocabulary": [
+    {"term": "parent", "term_en": "parent", "definition": "Your mother or father"},
+    {"term": "drive / drove", "term_en": "drive / drove", "definition": "To control and move a car; past tense: drove"},
+    {"term": "perfect", "term_en": "perfect", "definition": "Having no mistakes; the best possible"},
+    {"term": "idea", "term_en": "idea", "definition": "A thought or plan in your mind"},
+    {"term": "cruise", "term_en": "cruise", "definition": "A holiday trip on a large ship"},
+    {"term": "leave", "term_en": "leave", "definition": "To go away from a place"},
+    {"term": "pack", "term_en": "pack", "definition": "To put things into a bag or box for a trip"},
+    {"term": "caravan", "term_en": "caravan", "definition": "A large vehicle you can sleep in, pulled by a car; a big van for camping"},
+    {"term": "calm", "term_en": "calm", "definition": "Quiet and peaceful; not excited or worried"},
+    {"term": "gas stove", "term_en": "gas stove", "definition": "A small cooking device that uses gas, used for camping"},
+    {"term": "blanket", "term_en": "blanket", "definition": "A large warm cover used on a bed or for warmth"},
+    {"term": "funny", "term_en": "funny", "definition": "Making you laugh; amusing"},
+    {"term": "laugh / laughed", "term_en": "laugh / laughed", "definition": "To make sounds because something is amusing; past: laughed"},
+    {"term": "tell / told", "term_en": "tell / told", "definition": "To say something to someone; past: told"},
+    {"term": "smile / smiled", "term_en": "smile / smiled", "definition": "To make a happy expression with your face; past: smiled"},
+    {"term": "check / checked", "term_en": "check / checked", "definition": "To look at something carefully; past: checked"},
+    {"term": "grateful", "term_en": "grateful", "definition": "Feeling thankful for something good"},
+    {"term": "pearl", "term_en": "pearl", "definition": "A small round white gem found inside an oyster shell"},
+    {"term": "diver", "term_en": "diver", "definition": "A person who goes underwater, especially to find things"},
+    {"term": "begin / began", "term_en": "begin / began", "definition": "To start; past: began"},
+    {"term": "memories", "term_en": "memories", "definition": "Things you remember from the past"},
+    {"term": "wave", "term_en": "wave", "definition": "A raised line of water moving across the sea"},
+    {"term": "quietly", "term_en": "quietly", "definition": "In a way that makes little or no noise"},
+    {"term": "imagine / imagined", "term_en": "imagine / imagined", "definition": "To make a picture in your mind; past: imagined"}
+  ],
+  "key_concepts": [
+    {
+      "concept": "Future Simple (going to)",
+      "explanation": "Use 'am/is/are + going to + base verb' to talk about future plans. I am going to... He/She/It is going to... You/We/They are going to... Time expressions: soon, tonight, next week. Examples: 'We are going to live in a new neighbourhood soon.' 'Mr. Ali is going to teach in a new school next year.' Questions: 'What are they going to do?' 'When are they going to do it?'"
+    },
+    {
+      "concept": "Past Simple (did not + base verb)",
+      "explanation": "Use 'did not' (didn't) + base verb for all subjects to make negative past sentences. Examples: 'He did not run fast last night.' 'My grandfather did not tell us a story last weekend.' Important: after 'did not', use the base form (not past tense). Affirmative: 'Jassim checked his homework.' → Negative: 'Jassim did not check his homework.' Time expressions: yesterday, last night, last weekend."
+    },
+    {
+      "concept": "Camping Trip in the Desert",
+      "explanation": "Reading passage: Noura's family is going to camp in the desert next weekend. They plan to leave early, pack food, water, and warm clothes. Noura will bring games, Hamad will bring his blanket. They'll stay in their caravan near the camp area. Hamad will help set up the camping area, Noura will help put down the rug. They'll cook lunch on a small gas stove, play games in the afternoon, watch the sunset, and take photos."
+    },
+    {
+      "concept": "Grandma's Pearl Diving Memories",
+      "explanation": "Reading passage: Noura and Hamad visit their grandmother on Saturday. After lunch, Grandma tells them stories about old Kuwait. Her grandfather was a strong pearl diver who sailed for four months in summer, diving to find shiny pearls. Life was hard but people helped each other. They celebrated the pearl-diving festival with music and dancing. Noura and Hamad listened quietly and imagined the blue sea and big waves."
+    }
+  ],
+  "examples": [
+    {
+      "problem": "Lesson 2 Grammar: Future simple (going to)",
+      "solution_steps": [
+        "Rule: I → am, He/She/It → is, You/We/They → are + going to + base verb",
+        "1. We are going to ............ in a new neighbourhood soon. (a. live, b. living, c. lived)",
+        "2. Mr. Ali ............ going to teach in a new school next year. (a. am, b. are, c. is)"
+      ],
+      "answer": "1. a. live (going to + base verb); 2. c. is (Mr. Ali = he → is)",
+      "visual_description": "Grammar chart showing pronoun groups with am/is/are + going to + base verb, with time expressions: soon, tonight, next week"
+    },
+    {
+      "problem": "Lesson 6 Grammar: Past simple negative (did not)",
+      "solution_steps": [
+        "Rule: Subject + did not + base verb (for ALL subjects)",
+        "Affirmative: 'He ran fast.' → Negative: 'He did not run fast.'",
+        "1. Jassim ............ his homework yesterday. (a. checked, b. checks, c. checking)",
+        "2. My grandfather did not ............ us a story last weekend. (a. told, b. tell, c. tells)"
+      ],
+      "answer": "1. a. checked (past simple affirmative); 2. b. tell (did not + base form)",
+      "visual_description": "Chart showing 'did not' with base verb for all pronouns, with examples and time expressions"
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "problem": "Listening: 1. Reem is going to go to the beach with her family. 2. Fahad is going to bring his football. 3. Noura's Mum is going to prepare an orange cake.",
+      "answer": "Listen and determine true/false. Then tick what Noura and Reem are going to do: Go to the park, Ride a bike, Have a picnic, Collect coins."
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "problem": "We are going to ............ in a new neighbourhood soon. (a. live, b. living, c. lived)",
+      "answer": "a. live"
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "problem": "Mr. Ali ............ going to teach in a new school next year. (a. am, b. are, c. is)",
+      "answer": "c. is"
+    },
+    {
+      "id": 4,
+      "type": "reading_comprehension",
+      "problem": "The best title for the camping passage: (a. A Day in the City, b. A Day in the Desert, c. A Lovely Sunset)",
+      "answer": "b. A Day in the Desert"
+    },
+    {
+      "id": 5,
+      "type": "reading_comprehension",
+      "problem": "The underlined word 'It' in line 6 refers to: (a. caravan, b. blanket, c. camp)",
+      "answer": "a. caravan"
+    },
+    {
+      "id": 6,
+      "type": "spelling",
+      "problem": "Write the missing words: 1. My father __________ his car. 2. We have a big __________.",
+      "answer": "1. drives; 2. caravan"
+    },
+    {
+      "id": 7,
+      "type": "guided_writing",
+      "problem": "Write about 'A Lovely Day' using guide words: go-park, family-car, take-photos",
+      "answer": "Last weekend, we went to the park. My family drove the car. We took photos together. It was a lovely day."
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "problem": "Last weekend Fahad ............ at home. (a. checked, b. visited, c. stayed)",
+      "answer": "c. stayed"
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "problem": "Hamad didn't ............ to water the plants last weekend. (a. feel, b. need, c. forget)",
+      "answer": "c. forget"
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "problem": "Jassim ............ his homework yesterday. (a. checked, b. checks, c. checking)",
+      "answer": "a. checked"
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "problem": "My grandfather did not ............ us a story last weekend. (a. told, b. tell, c. tells)",
+      "answer": "b. tell"
+    },
+    {
+      "id": 12,
+      "type": "short_answer",
+      "problem": "Who did Noura and Hamad visit on Saturday?",
+      "answer": "They visited their grandmother at her house."
+    },
+    {
+      "id": 13,
+      "type": "short_answer",
+      "problem": "How did people celebrate the pearl-diving festival?",
+      "answer": "They celebrated with music and dancing."
+    },
+    {
+      "id": 14,
+      "type": "sequencing",
+      "problem": "Reorder the events from the pearl diving story: Celebration time, Hard work at sea, Story telling today, Pearl diving began, Returned home",
+      "answer": "1. Pearl diving began → 2. Hard work at sea → 3. Returned home → 4. Celebration time → 5. Story telling today"
+    },
+    {
+      "id": 15,
+      "type": "spelling",
+      "problem": "Write the missing words: 1. The __________ dived into the sea. 2. This bag is made of __________.",
+      "answer": "1. diver; 2. pearls"
+    },
+    {
+      "id": 16,
+      "type": "guided_writing",
+      "problem": "Write about 'A Day in the Kitchen' using guide words: Last-baked, made-cookies, tasted-yummy",
+      "answer": "Last weekend, I baked with my mother. We made cookies together. They tasted yummy. It was a wonderful day."
+    }
+  ],
+  "images": {
+    "pages": [],
+    "figures": []
+  },
+  "teaching_notes": "This unit has two grammar points: future (going to) and past simple negative (did not). The camping reading uses 'going to' throughout — good for noticing the pattern. The pearl diving story connects to Kuwait's heritage — an important cultural topic. The pearl diving sequence activity develops narrative skills. Values: gratitude ('Be grateful to your parents'), family bonding, helping family. 24 vocabulary words including several irregular past forms (drove, told, began, imagined). Song 'Our Family Weekend' uses 'going to' repeatedly."
+}

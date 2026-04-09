@@ -1,0 +1,29 @@
+{
+  "code": "5-6",
+  "title": "Prepositions of Movement",
+  "title_en": "Prepositions of Movement",
+  "page_start": 26, "page_end": 26,
+  "skill": "Grammar",
+  "objectives": [
+    "Apply prepositions of movement accurately when writing short descriptions about movement in a park or playground",
+    "Show enthusiasm during collaborative sharing of mini stories about movement actions"
+  ],
+  "vocabulary": [],
+  "key_concepts": [
+    {"concept": "Prepositions of Movement", "explanation": "Use prepositions of movement to show direction or how someone/something moves from one place to another. Six prepositions: across (from one side to the other, over a surface) — Layla is walking across the bridge. towards (in the direction of something/someone) — Saleh kicked the ball towards the goal. through (from one side to the other, inside a space) — She is walking through the tunnel. into (from outside to inside) — The swimmer jumped into the pool. over (above or higher than) — The ball went over the net. around (in a circular way) — They are running around the cones."}
+  ],
+  "examples": [
+    {"problem": "Layla is walking ___ the bridge.", "solution_steps": ["Movement is from one side to the other, over a surface → across"], "answer": "Layla is walking across the bridge.", "visual_description": ""},
+    {"problem": "Saleh kicked the ball ___ the goal.", "solution_steps": ["Movement is in the direction of something → towards"], "answer": "Saleh kicked the ball towards the goal.", "visual_description": ""},
+    {"problem": "She is walking ___ the tunnel.", "solution_steps": ["Movement from one side to the other, inside a space → through"], "answer": "She is walking through the tunnel.", "visual_description": ""},
+    {"problem": "The swimmer jumped ___ the pool.", "solution_steps": ["Movement from outside to inside → into"], "answer": "The swimmer jumped into the pool.", "visual_description": ""},
+    {"problem": "The ball went ___ the net.", "solution_steps": ["Movement above or higher than → over"], "answer": "The ball went over the net.", "visual_description": ""},
+    {"problem": "They are running ___ the cones.", "solution_steps": ["Movement in a circular way → around"], "answer": "They are running around the cones.", "visual_description": ""}
+  ],
+  "exercises": [
+    {"id": 1, "type": "underline_correct", "problem": "Underline the correct answer: 1. The ball flies (at / over) the net. 2. The player runs (under / across) the field. 3. The runner goes (around / into) the cones. 4. The boy moves (between / towards) the goal.", "answer": "1. over, 2. across, 3. around, 4. towards"},
+    {"id": 2, "type": "mini_story", "problem": "Write a short story of 4-5 sentences about a fun day in a park or playground. Use each preposition of movement at least once: across, towards, through, into, over, around. Underline the prepositions in your story.", "answer": "Example: Yesterday, I walked towards the park near my house. I ran across the field and jumped over a small bench. Then, I walked through the trees and climbed into the slide. At the end, I ran around the playground and had a great time."}
+  ],
+  "images": {"pages": [26], "figures": []},
+  "teaching_notes": "Grammar lesson on 6 prepositions of movement: across, towards, through, into, over, around. Grammar Box with table showing preposition, meaning, and example sentence. Think-Pair-Share with movement pictures. Practice: controlled (underline correct) then freer (mini story using all 6 prepositions). Pictures show sports scenarios matching each preposition. 1 page."
+}

@@ -1,0 +1,40 @@
+{
+  "code": "6-PJ",
+  "title": "Project: Healthy Me App",
+  "title_en": "Project: Healthy Me App",
+  "page_start": 37,
+  "page_end": 37,
+  "objectives": [
+    "Design an app that tracks food intake, sleeping hours, and workouts",
+    "Write sentences using 'good at', 'who', and 'which'",
+    "Present the app design to classmates"
+  ],
+  "vocabulary": [],
+  "key_concepts": [
+    {
+      "concept": "Healthy Me App Design",
+      "explanation": "Students design a health-tracking app with: app name, app icon, and 3 screens. They draw each screen's layout and describe what each screen does. The app should track food intake, sleeping hours, and workouts. Students write descriptions using grammar from the unit (good at, who, which) and present to class."
+    }
+  ],
+  "examples": [
+    {
+      "problem": "Design your Healthy Me App",
+      "solution_steps": [
+        "Write the name of the app",
+        "Draw your app icon",
+        "Design First Screen, Second Screen, Third Screen",
+        "Write a description for each screen",
+        "Show and tell your classmates",
+        "Rate your friend's project"
+      ],
+      "answer": "A completed app design with 3 screens tracking food, sleep, and exercise",
+      "visual_description": "Three phone outlines with app icon spaces and lines for descriptions"
+    }
+  ],
+  "exercises": [],
+  "images": {
+    "pages": [],
+    "figures": []
+  },
+  "teaching_notes": "This project combines digital literacy with health awareness — very relevant for Grade 5. Encourages creative thinking about app design. The writing component uses unit grammar naturally. Good for class presentations and peer rating."
+}

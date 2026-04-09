@@ -1,0 +1,46 @@
+{
+  "code": "8-V",
+  "title": "Minimum Words to be Taught",
+  "title_en": "Minimum Words to be Taught - Unit 8",
+  "page_start": 65,
+  "page_end": 65,
+  "objectives": [
+    "Master the 24 target vocabulary words from Unit 8",
+    "Identify the part of speech for each word",
+    "Know past tense forms for irregular verbs"
+  ],
+  "vocabulary": [
+    {"term": "parent", "term_en": "parent", "definition": "noun — mother or father (Lesson 1)"},
+    {"term": "drive / drove", "term_en": "drive / drove", "definition": "verb — to control a car (Lesson 1)"},
+    {"term": "perfect", "term_en": "perfect", "definition": "adjective — without mistakes (Lesson 1)"},
+    {"term": "idea", "term_en": "idea", "definition": "noun — a thought or plan (Lesson 1)"},
+    {"term": "cruise", "term_en": "cruise", "definition": "noun — a ship holiday (Lesson 2)"},
+    {"term": "leave", "term_en": "leave", "definition": "verb — to go away (Lesson 3)"},
+    {"term": "pack", "term_en": "pack", "definition": "verb — to put in bags (Lesson 3)"},
+    {"term": "caravan", "term_en": "caravan", "definition": "noun — large camping vehicle (Lesson 3)"},
+    {"term": "calm", "term_en": "calm", "definition": "adjective — quiet, peaceful (Lesson 3)"},
+    {"term": "gas stove", "term_en": "gas stove", "definition": "noun — camping cooker (Lesson 3)"},
+    {"term": "blanket", "term_en": "blanket", "definition": "noun — warm cover (Lesson 3)"},
+    {"term": "funny", "term_en": "funny", "definition": "adjective — amusing (Lesson 5)"},
+    {"term": "laugh / laughed", "term_en": "laugh / laughed", "definition": "verb — to make sounds of amusement (Lesson 5)"},
+    {"term": "tell / told", "term_en": "tell / told", "definition": "verb — to say to someone (Lesson 5)"},
+    {"term": "smile / smiled", "term_en": "smile / smiled", "definition": "verb — happy face expression (Lesson 5)"},
+    {"term": "check / checked", "term_en": "check / checked", "definition": "verb — to look carefully (Lesson 5)"},
+    {"term": "grateful", "term_en": "grateful", "definition": "adjective — thankful (Lesson 5)"},
+    {"term": "pearl", "term_en": "pearl", "definition": "noun — gem from oyster (Lesson 7)"},
+    {"term": "diver", "term_en": "diver", "definition": "noun — person who goes underwater (Lesson 7)"},
+    {"term": "begin / began", "term_en": "begin / began", "definition": "verb — to start (Lesson 7)"},
+    {"term": "memories", "term_en": "memories", "definition": "noun — things remembered (Lesson 7)"},
+    {"term": "wave", "term_en": "wave", "definition": "noun — moving water on sea (Lesson 7)"},
+    {"term": "quietly", "term_en": "quietly", "definition": "adverb — without noise (Lesson 7)"},
+    {"term": "imagine / imagined", "term_en": "imagine / imagined", "definition": "verb — to picture in mind (Lesson 7)"}
+  ],
+  "key_concepts": [],
+  "examples": [],
+  "exercises": [],
+  "images": {
+    "pages": [],
+    "figures": []
+  },
+  "teaching_notes": "24 words for Unit 8 — the largest word list in the book. Several words include past tense forms (drove, laughed, told, smiled, checked, began, imagined). This is important for the grammar focus on past simple. The pearl diving vocabulary (pearl, diver, wave) connects to Kuwait's heritage. Group irregular verbs together for practice: drive→drove, tell→told, begin→began."
+}

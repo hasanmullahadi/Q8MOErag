@@ -1,0 +1,47 @@
+{
+  "code": "5-V",
+  "title": "Minimum Words to be Taught",
+  "title_en": "Minimum Words to be Taught - Unit 5",
+  "page_start": 17,
+  "page_end": 17,
+  "objectives": [
+    "Master the 26 target vocabulary words from Unit 5",
+    "Identify the part of speech for each word"
+  ],
+  "vocabulary": [
+    {"term": "date", "term_en": "date", "definition": "noun — a specific day (Lesson 1)"},
+    {"term": "fast", "term_en": "fast", "definition": "verb — to not eat or drink (Lesson 1)"},
+    {"term": "before", "term_en": "before", "definition": "preposition — earlier than (Lesson 1)"},
+    {"term": "dawn", "term_en": "dawn", "definition": "noun — early morning before sunrise (Lesson 1)"},
+    {"term": "after", "term_en": "after", "definition": "preposition — later than (Lesson 1)"},
+    {"term": "sunset", "term_en": "sunset", "definition": "noun — when the sun goes down (Lesson 1)"},
+    {"term": "special", "term_en": "special", "definition": "adjective — not ordinary, important (Lesson 1)"},
+    {"term": "month", "term_en": "month", "definition": "noun — one of 12 parts of a year (Lesson 2)"},
+    {"term": "forget", "term_en": "forget", "definition": "verb — to not remember (Lesson 2)"},
+    {"term": "celebrate", "term_en": "celebrate", "definition": "verb — to enjoy a special occasion (Lesson 3)"},
+    {"term": "prayer", "term_en": "prayer", "definition": "noun — words spoken to God (Lesson 3)"},
+    {"term": "grandparent", "term_en": "grandparent", "definition": "noun — parent of your parent (Lesson 3)"},
+    {"term": "mount", "term_en": "mount", "definition": "noun — a mountain (Lesson 3)"},
+    {"term": "poor", "term_en": "poor", "definition": "adjective — having little money (Lesson 3)"},
+    {"term": "celebration", "term_en": "celebration", "definition": "noun — a special event or party (Lesson 5)"},
+    {"term": "national", "term_en": "national", "definition": "noun — relating to a country (Lesson 5)"},
+    {"term": "year", "term_en": "year", "definition": "noun — 365 days (Lesson 5)"},
+    {"term": "march", "term_en": "march", "definition": "verb — to walk in a parade (Lesson 5)"},
+    {"term": "fireworks", "term_en": "fireworks", "definition": "noun — colourful explosions in the sky (Lesson 5)"},
+    {"term": "lucky", "term_en": "lucky", "definition": "adjective — having good fortune (Lesson 5)"},
+    {"term": "birthday", "term_en": "birthday", "definition": "noun — the day you were born (Lesson 6)"},
+    {"term": "birth", "term_en": "birth", "definition": "noun — when a baby is born (Lesson 7)"},
+    {"term": "invite", "term_en": "invite", "definition": "verb — to ask someone to come (Lesson 7)"},
+    {"term": "hold", "term_en": "hold", "definition": "verb — to organise an event (Lesson 7)"},
+    {"term": "holiday", "term_en": "holiday", "definition": "noun — a day off school/work (Lesson 7)"},
+    {"term": "later", "term_en": "later", "definition": "adverb — after some time (Lesson 7)"}
+  ],
+  "key_concepts": [],
+  "examples": [],
+  "exercises": [],
+  "images": {
+    "pages": [],
+    "figures": []
+  },
+  "teaching_notes": "This is the complete vocabulary reference for Unit 5. All 26 words are organized by lesson number (1-7) with parts of speech. Use flashcards, word walls, or vocabulary games to reinforce. The words span Ramadan/fasting vocabulary (Lessons 1-2), Eid/celebrations (Lesson 3), Kuwait National Day (Lesson 5), ordinal/time (Lesson 6), and Prophet's birthday (Lesson 7)."
+}

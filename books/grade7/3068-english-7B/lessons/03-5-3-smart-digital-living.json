@@ -1,0 +1,28 @@
+{
+  "code": "5-3",
+  "title": "Smart Digital Living",
+  "title_en": "Smart Digital Living",
+  "page_start": 22, "page_end": 22,
+  "skill": "Listening",
+  "objectives": [
+    "Record key points in short phrases from a spoken text about healthy digital behaviours",
+    "Cooperate positively in group discussions by sharing supportive ideas based on a spoken text about digital wellness"
+  ],
+  "vocabulary": [
+    {"term": "linker", "term_en": "linker", "definition": "A word or phrase that connects ideas (because, also, first, finally, therefore, in addition, for example, next)"}
+  ],
+  "key_concepts": [
+    {"concept": "Healthy Digital Habits", "explanation": "Using technology wisely to support health. Examples: Using a sleep-tracking app helps people rest better and wake up with more energy. Using a fitness app tracks exercise. A health reminder app sends reminders to stand, walk, or drink water during the day. Balance is key — technology can help health when used wisely."},
+    {"concept": "The Habit Swap Challenge", "explanation": "Replacing unhealthy digital habits with healthier actions. Examples: Instead of posting online without thinking → think before posting. Instead of watching videos for hours before sleep → read a book. Instead of texting or using apps during lunch → talk with friends."}
+  ],
+  "examples": [],
+  "exercises": [
+    {"id": 1, "type": "before_you_listen", "problem": "Discuss the digital habits of each person in the pictures. Tick the ones you are used to doing every day.", "answer": "Open discussion about daily digital habits"},
+    {"id": 2, "type": "listening_table", "problem": "Listen to the E-Book chapter 'Healthy Digital Habits'. Complete the table: Digital Habit → How It Helps You. Given: Using a sleep-tracking app → Helps people rest better and wake up with more energy.", "answer": "Using a fitness app → tracks exercise and activity. Health reminder app → sends reminders to stand, walk, or drink water during the day."},
+    {"id": 3, "type": "discussion", "problem": "1. What problem can happen when people use technology without balance? 2. How can people use technology to support their health? 3. What does the speaker mean by using technology wisely? 4. What lesson can we learn from the speaker's message?", "answer": "Open discussion based on listening text"},
+    {"id": 4, "type": "habit_swap", "problem": "In pairs, write a healthier action for each digital habit: 1. Posting online without thinking 2. Watching videos for hours before sleep 3. Texting or using apps during lunch", "answer": "Open-ended: e.g., Think before posting, Read a book before bed, Talk with friends at lunch"},
+    {"id": 5, "type": "speaking", "problem": "Act as a Digital Coach: Give advice to a classmate who uses screens too much. Use linkers from the linker bank to connect your ideas.", "answer": "Example: After school, go for a short walk because it helps your body relax. In addition, try reading a book before bed. Finally, don't watch video games all the time."}
+  ],
+  "images": {"pages": [22], "figures": []},
+  "teaching_notes": "Listening lesson on smart/healthy digital habits. E-Book chapter audio (track 5.1). Linker Bank: because, also, first, finally, therefore, in addition, for example, next. Practice includes listening comprehension, habit swap challenge, and digital coach role-play. Tip: When giving advice, smile, use a calm voice, and show you care about helping, not judging. 1 page."
+}

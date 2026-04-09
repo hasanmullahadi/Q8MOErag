@@ -1,0 +1,126 @@
+{
+  "code": "5-PT",
+  "title": "Progress Test",
+  "title_en": "Progress Test - Unit 5",
+  "page_start": 15,
+  "page_end": 18,
+  "objectives": [
+    "Assess travel and world vocabulary from Unit 5",
+    "Test reading comprehension about holiday planning",
+    "Evaluate grammar: present perfect with just and prepositions of time",
+    "Assess spelling: -tion suffix and travel vocabulary",
+    "Write a structured paragraph using a graphic organiser"
+  ],
+  "vocabulary": [],
+  "key_concepts": [],
+  "examples": [],
+  "exercises": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "problem": "The plane will ............ in Kuwait in ten minutes. (a. land, b. greet, c. discuss, d. realise)",
+      "answer": "a. land"
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "problem": "I followed the ............ to finish my homework. (a. continents, b. seats, c. flights, d. instructions)",
+      "answer": "d. instructions"
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "problem": "There are ............ tasty cupcakes on the table. (a. monsoon, b. historical, c. few, d. dangerous)",
+      "answer": "c. few"
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "problem": "The children can play ............ in the park. (a. fluently, b. freely, c. indoors, d. tightly)",
+      "answer": "b. freely"
+    },
+    {
+      "id": 5,
+      "type": "reading_comprehension",
+      "problem": "Read about Omar's family discussing holiday ideas. The best title: (a. The Museum, b. Library Time, c. The Nature, d. Holiday Ideas)",
+      "answer": "d. Holiday Ideas"
+    },
+    {
+      "id": 6,
+      "type": "reading_comprehension",
+      "problem": "The underlined word 'quiet' in line 3 means: (a. calm, b. happy, c. new, d. funny)",
+      "answer": "a. calm"
+    },
+    {
+      "id": 7,
+      "type": "reading_comprehension",
+      "problem": "The underlined word 'he' in line 8 refers to: (a. Omar, b. Ali, c. father, d. grandfather)",
+      "answer": "d. grandfather"
+    },
+    {
+      "id": 8,
+      "type": "reading_comprehension",
+      "problem": "Omar wants to read a book about: (a. science, b. museum, c. library, d. history)",
+      "answer": "a. science"
+    },
+    {
+      "id": 9,
+      "type": "short_answer",
+      "problem": "What did Ali want to read about?",
+      "answer": "Ali wanted to visit the museum and read about history."
+    },
+    {
+      "id": 10,
+      "type": "short_answer",
+      "problem": "Why do you think Omar felt happy at the end of the passage?",
+      "answer": "Because everyone shared something interesting and he was glad to hear new ideas."
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "problem": "We have an English class ............ Wednesday. (a. at, b. on, c. in)",
+      "answer": "b. on"
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "problem": "She has just ............ her project. (a. finished, b. finish, c. finishing)",
+      "answer": "b. finish (has just + base form of past participle, but 'finished' is the past participle — answer is a. finished)"
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "problem": "The match starts ............ eight o'clock. (a. in, b. at, c. on)",
+      "answer": "b. at"
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "problem": "They ............ just built a new museum. (a. has, b. are, c. have)",
+      "answer": "c. have"
+    },
+    {
+      "id": 15,
+      "type": "fill_in_blank",
+      "problem": "1. The computer's ............ is bright. 2. The ............ season is full of heavy rains.",
+      "answer": "1. screen; 2. monsoon"
+    },
+    {
+      "id": 16,
+      "type": "word_formation",
+      "problem": "Combine: 1. act + tion = ............ 2. celebrate + tion = ............",
+      "answer": "1. action; 2. celebration"
+    },
+    {
+      "id": 17,
+      "type": "guided_writing",
+      "problem": "Fill in graphic organiser about 'Grandfather's Arrival' using guide words: airport-family-wait-few-shops-late. Answer: Where? Who? What? What did you see? When back? Then write a paragraph.",
+      "answer": "Yesterday, I went to the airport with my family. We waited for grandfather's flight. We saw a few shops. The plane was late. We went back home in the evening."
+    }
+  ],
+  "images": {
+    "pages": [],
+    "figures": []
+  },
+  "teaching_notes": "This progress test is 4 pages — more comprehensive than Grade 3 tests. Vocabulary section uses 4 options (a-d). Reading passage is about family discussion — tests inference ('Why do you think Omar felt happy?'). Grammar tests both present perfect and prepositions. Writing uses a graphic organiser with 5 guiding questions — more structured than Grade 3."
+}

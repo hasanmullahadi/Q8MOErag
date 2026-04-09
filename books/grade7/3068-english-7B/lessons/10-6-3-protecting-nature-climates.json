@@ -1,0 +1,26 @@
+{
+  "code": "6-3",
+  "title": "Breaking News: Protecting Nature in Different Climates",
+  "title_en": "Breaking News: Protecting Nature in Different Climates",
+  "page_start": 34, "page_end": 34,
+  "skill": "Listening",
+  "objectives": [
+    "Identify the main idea and key details from a listening report about protecting nature in different climates",
+    "Cooperate positively during group listening tasks when discussing environmental protection ideas"
+  ],
+  "vocabulary": [],
+  "key_concepts": [
+    {"concept": "Three Climate Regions", "explanation": "Desert (Kuwait): hot, dry climate with dust storms. Coastal (Oman): near the sea, affected by floods and pollution. Polar (Greenland): cold climate with melting ice affecting polar bears and wildlife."},
+    {"concept": "Environmental Protection by Region", "explanation": "Each region has different environmental problems (heat, floods, melting ice, dust storms, pollution) and communities take different actions to protect nature. Schools in all regions help protect the environment."}
+  ],
+  "examples": [],
+  "exercises": [
+    {"id": 1, "type": "before_you_listen", "problem": "Discuss: What environmental problems do we have in Kuwait? How do people help protect nature? Look at three types of regions (desert, coastal, polar) and tick which problems each might have: Heat, Floods, Melting Ice, Dust Storms, Pollution.", "answer": "Kuwait (desert): Heat ✓, Dust Storms ✓, Pollution ✓. Oman (coastal): Floods ✓, Pollution ✓. Greenland (polar): Melting Ice ✓."},
+    {"id": 2, "type": "multiple_choice", "problem": "The main idea of the listening is to: a) describe schools cleaning beaches and reducing rubbish b) explain how communities are protecting the environment c) show families collecting rainwater in different countries d) focus on animals finding food in difficult weather", "answer": "b) explain how communities are protecting the environment"},
+    {"id": 3, "type": "true_false", "problem": "Write T or F: 1. In Kuwait, people plant trees to cool the air. 2. In Oman, families waste rainwater during winter. 3. In Greenland, melting ice affects polar bears. 4. Schools in all regions help protect the environment.", "answer": "1. T, 2. F (they collect/save rainwater), 3. T, 4. T"},
+    {"id": 4, "type": "sentence_completion", "problem": "Complete: Kuwait protects the desert by ___. Oman protects the coast by ___. Greenland protects the Arctic by ___.", "answer": "Based on listening reports — community actions in each region"},
+    {"id": 5, "type": "poster_project", "problem": "In groups, create a small poster to encourage people to protect the environment. Include: a clear title (e.g. Save Our Coast!), one problem from the reports, two simple solutions people can do. Share with the class.", "answer": "Example: Title: Protect Our Desert! Problem: Too much heat and dust storms. Solutions: Plant more trees around schools, Use water carefully."}
+  ],
+  "images": {"pages": [34], "figures": []},
+  "teaching_notes": "Listening lesson — 'Breaking News' format with three reporters covering different climate regions (desert/coastal/polar). Audio track 6.1. Pre-listening: predict problems for each region. During listening: MCQ for main idea, T/F statements. Post-listening: sentence completion comparing regions, group poster project. 1 page."
+}

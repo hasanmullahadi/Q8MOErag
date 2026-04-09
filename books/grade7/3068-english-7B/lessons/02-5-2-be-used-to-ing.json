@@ -1,0 +1,30 @@
+{
+  "code": "5-2",
+  "title": "Be + used to + ing",
+  "title_en": "Be + used to + ing",
+  "page_start": 21, "page_end": 21,
+  "skill": "Grammar",
+  "objectives": [
+    "Structure short, clear sentences using 'be + used to + -ing' to describe familiar healthy habits",
+    "Outline short written responses using 'be + used to + -ing' in sentences about personal wellness routines"
+  ],
+  "vocabulary": [],
+  "key_concepts": [
+    {"concept": "Be + used to + verb + ing", "explanation": "We use 'be + used to + verb + ing' to talk about something that feels normal or familiar now. 'Be' = am / is / are. Affirmative: I am used to waking up early. She is used to walking every day. Negative: He is not used to drinking coffee. They are not used to sleeping early."},
+    {"concept": "Yes/No Questions with be used to", "explanation": "Form: Am/Is/Are + subject + used to + verb(-ing)? Example: Is Hamad used to studying at night? Are your brothers used to going to the gym? Answer: Yes, he is. / No, he isn't."},
+    {"concept": "Wh- Questions with be used to", "explanation": "Form: Wh- + am/is/are + subject + used to + verb(-ing)? Example: What are you used to doing after school? Who is she used to helping at home? Answer: I am used to doing my homework after school."}
+  ],
+  "examples": [
+    {"problem": "Salma is used to waking up early.", "solution_steps": ["Subject (Salma) + is + used to + verb-ing (waking) + rest of sentence"], "answer": "Salma is used to waking up early.", "visual_description": ""},
+    {"problem": "Hamad is not used to drinking fizzy drinks.", "solution_steps": ["Subject + is not + used to + verb-ing"], "answer": "Hamad is not used to drinking fizzy drinks.", "visual_description": ""}
+  ],
+  "exercises": [
+    {"id": 1, "type": "correct_the_verb", "problem": "Huda is used to (read) before sleeping.", "answer": "Huda is used to reading before sleeping."},
+    {"id": 2, "type": "make_negative", "problem": "The twins are used to taking the bus to school.", "answer": "The twins are not used to taking the bus to school."},
+    {"id": 3, "type": "form_question", "problem": "Ahmed is used to drinking eight glasses of water a day.", "answer": "Is Ahmed used to drinking eight glasses of water a day?"},
+    {"id": 4, "type": "interview", "problem": "Work in pairs. Ask and answer questions about personal habits using 'be used to + -ing'. Use starters: 1. Are you used to ___? 2. Is your friend/brother used to ___?", "answer": "Example: A: Are you used to waking up early? B: Yes, I am. I usually wake up at 6:30."},
+    {"id": 5, "type": "writing", "problem": "Write 3-4 sentences about what you are used to doing to stay healthy. Example: I'm used to… / I'm not used to…", "answer": "Open-ended personal writing"}
+  ],
+  "images": {"pages": [21], "figures": []},
+  "teaching_notes": "Grammar lesson on 'be + used to + -ing' structure. Covers affirmative, negative, yes/no questions, and wh-questions. Think-Pair-Share warm-up with pictures. Practice moves from controlled (correct/negate/question) to freer (interview partner, personal writing). 1 page."
+}

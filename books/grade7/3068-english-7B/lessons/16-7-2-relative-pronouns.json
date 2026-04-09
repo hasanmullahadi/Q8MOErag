@@ -1,0 +1,29 @@
+{
+  "code": "7-2",
+  "title": "Relative Pronouns (who - when - where - which - whose)",
+  "title_en": "Relative Pronouns (who - when - where - which - whose)",
+  "page_start": 45, "page_end": 45,
+  "skill": "Grammar",
+  "objectives": [
+    "Apply suitable relative pronouns to connect ideas when completing written tasks about real-life qualities and situations",
+    "Appreciate classmates' ideas by listening respectfully when they share their written clues using relative clauses"
+  ],
+  "vocabulary": [],
+  "key_concepts": [
+    {"concept": "Relative Pronouns", "explanation": "We use relative pronouns to connect ideas in one sentence. Five relative pronouns: who (for people), when (for time), where (for place), which (for things/ideas), whose (for belonging/possession)."},
+    {"concept": "Relative Pronoun Usage", "explanation": "who → people: The nurse who helps children is very kind. when → time: Evening is the time when I sit with my family. where → place: This is the room where we eat lunch. which → things/ideas: This is the book which tells my favourite story. whose → belonging: She is the girl whose project won the prize."},
+    {"concept": "Whose Tip", "explanation": "Whose already shows belonging. So when you join two sentences with whose, do not use another word for belonging like his/her/their/my after it."}
+  ],
+  "examples": [
+    {"problem": "A friend ___ helps others is thoughtful.", "solution_steps": ["'A friend' is a person → use 'who'"], "answer": "A friend who helps others is thoughtful.", "visual_description": ""},
+    {"problem": "This is the bag ___ I use every day.", "solution_steps": ["'The bag' is a thing → use 'which'"], "answer": "This is the bag which I use every day.", "visual_description": ""},
+    {"problem": "The café ___ we study is quiet.", "solution_steps": ["'The café' is a place → use 'where'"], "answer": "The café where we study is quiet.", "visual_description": ""}
+  ],
+  "exercises": [
+    {"id": 1, "type": "fill_in_blank", "problem": "Complete with the correct relative pronoun: 1. I know a classmate ___ always arrives on time. 2. Saturday is the day ___ we visit our grandparents. 3. This is the pen ___ I use for my notes. 4. He is the boy ___ backpack is always organised.", "answer": "1. who, 2. when, 3. which, 4. whose"},
+    {"id": 2, "type": "combine_sentences", "problem": "Connect using the correct relative pronoun: 1. I remember a morning. We left home very early. 2. My sister has a friend. Her drawings are amazing. 3. This is the park. We play football there at weekends.", "answer": "1. I remember a morning when we left home very early. 2. My sister has a friend whose drawings are amazing. 3. This is the park where we play football at weekends."},
+    {"id": 3, "type": "creative_writing", "problem": "The Detective Clues: Imagine you are a young detective. Write three short sentences using relative pronouns to describe what you saw. Choose from: I saw a person ___, I stopped at a place ___, I remember a moment ___, I met someone ___. Share with two classmates.", "answer": "Example: 'I met a man who lost his wallet near the park where I usually walk.'"}
+  ],
+  "images": {"pages": [45], "figures": []},
+  "teaching_notes": "Grammar lesson on 5 relative pronouns: who, when, where, which, whose. Grammar Box table with pronoun, usage, and example. Think-Pair-Share with model sentences. Tip about 'whose' not needing extra possessive word. Practice: fill-in → combine sentences → creative detective writing. 1 page."
+}

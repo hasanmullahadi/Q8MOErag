@@ -1,0 +1,108 @@
+{
+  "code": "7-PT",
+  "title": "Progress Test",
+  "title_en": "Progress Test - Unit 7",
+  "page_start": 51,
+  "page_end": 54,
+  "objectives": [
+    "Assess cultural and traditions vocabulary from Unit 7",
+    "Test reading comprehension about a trip to Bahrain",
+    "Evaluate grammar: past continuous with while and imperatives",
+    "Assess spelling: -er/-est rules and cultural vocabulary",
+    "Write a structured paragraph about a holiday in Qatar"
+  ],
+  "vocabulary": [],
+  "key_concepts": [],
+  "examples": [],
+  "exercises": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "problem": "The students listened to the teacher's instructions ............ (a. tightly, b. respectfully, c. suddenly, d. loudly)",
+      "answer": "b. respectfully"
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "problem": "My sister buys a piece of silver ............ from the market. (a. jewellery, b. destination, c. agency, d. librarian)",
+      "answer": "a. jewellery"
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "problem": "He ............ the ball quickly in the game. (a. replied, b. picked, c. landed, d. announced)",
+      "answer": "b. picked"
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "problem": "We use the internet to attend online ............ classes. (a. virtual, b. tropical, c. monsoon, d. nervous)",
+      "answer": "a. virtual"
+    },
+    {
+      "id": 5,
+      "type": "reading_comprehension",
+      "problem": "Read about trip to Bahrain. Best title: (a. A Day at the Beach, b. A Trip to Bahrain, c. A Visit to the Desert, d. A Holiday in Kuwait)",
+      "answer": "b. A Trip to Bahrain"
+    },
+    {
+      "id": 6,
+      "type": "reading_comprehension",
+      "problem": "The opposite of 'oldest' in line 4: (a. newest, b. quietest, c. biggest, d. clearest)",
+      "answer": "a. newest"
+    },
+    {
+      "id": 7,
+      "type": "reading_comprehension",
+      "problem": "The underlined word 'It' in line 7 refers to: (a. Bahrain Fort, b. Manama Souq, c. National Museum, d. Pearl Diving)",
+      "answer": "b. Manama Souq"
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "problem": "While my father ............ planting, my mother gave him the gloves. (a. has, b. was, c. is)",
+      "answer": "b. was"
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "problem": "While they were ............ board game, their friend felt hungry. (a. played, b. plays, c. playing)",
+      "answer": "c. playing"
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "problem": "Don't ............ to do your homework. (a. forget, b. forgot, c. forgotten)",
+      "answer": "a. forget"
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "problem": "If you want to get to the market, ............ left then walk straight. (a. turned, b. turn, c. turning)",
+      "answer": "b. turn"
+    },
+    {
+      "id": 12,
+      "type": "fill_in_blank",
+      "problem": "1. I have gold ............ 2. They like ............ food.",
+      "answer": "1. jewellery; 2. local"
+    },
+    {
+      "id": 13,
+      "type": "word_formation",
+      "problem": "Combine: 1. happy + er = ............ 2. big + est = ............",
+      "answer": "1. happier; 2. biggest"
+    },
+    {
+      "id": 14,
+      "type": "guided_writing",
+      "problem": "Graphic organiser about 'A Holiday in Qatar': 1. Where? 2. How? 3. Who with? 4. What did you do? 5. How was the weather? Guide words: plane-family-visited-cultural places-enjoyed-cool",
+      "answer": "Last holiday, I went to Qatar. We went by plane. I went with my family. We visited cultural places and enjoyed the sights. The weather was cool. It was a great holiday."
+    }
+  ],
+  "images": {
+    "pages": [],
+    "figures": []
+  },
+  "teaching_notes": "Reading about Bahrain tests cultural knowledge — Bahrain Fort, National Museum, Manama Souq, pearl diving heritage. Grammar tests both past continuous with while and imperatives (including negative). The Qatar writing task connects to Gulf cultural awareness."
+}

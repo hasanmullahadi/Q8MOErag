@@ -1,0 +1,26 @@
+{
+  "code": "7-4",
+  "title": "Everyday Role Models",
+  "title_en": "Everyday Role Models",
+  "page_start": 47, "page_end": 47,
+  "skill": "Speaking",
+  "objectives": [
+    "Conduct short spoken interviews about role models, asking and answering clarification questions about actions and qualities",
+    "Express personal viewpoints clearly when describing an admired person and why their qualities matter"
+  ],
+  "vocabulary": [],
+  "key_concepts": [
+    {"concept": "Admiration, Personal Quality, and Clarification", "explanation": "Three types of sentences in conversations about role models: Admiration — a sentence showing praise (e.g. 'I really admire my neighbour'). Personal Quality — a sentence describing what someone is like (e.g. 'She is so kind'). Clarification Question — a question asking for information (e.g. 'Do you mean she organised a campaign?')."},
+    {"concept": "Model Dialogue", "explanation": "Salma and Fatma discuss a neighbour who helped a family that lost their home. Salma: 'I really admire my neighbour. She helped a family who lost their home.' Fatma: 'That's amazing! What did she do exactly?' Salma: 'She collected clothes and food for them.' Fatma: 'That's so kind. I respect people who care about others.' Salma: 'Yes, and she encouraged others to join the project.' Fatma: 'Do you mean she organised a small community campaign?' Salma: 'Yes, exactly. She worked with the school team too.'"},
+    {"concept": "Interview Structure", "explanation": "Interview includes: one person from daily life (parent, teacher, coach, neighbour), description of their personal qualities, admiration phrases, one clarification question. Sentence starters: I admire my … because…, He/She shows the quality of…, This action helped by… when…"}
+  ],
+  "examples": [],
+  "exercises": [
+    {"id": 1, "type": "discussion", "problem": "Look at pictures (athlete, teacher, doctor, firefighter). What do people in the pictures do to help others or make things better? Why do you think people admire them?", "answer": "Open discussion about everyday heroes"},
+    {"id": 2, "type": "dialogue_analysis", "problem": "Read the dialogue between Salma and Fatma. Underline and write a sentence that matches each idea: 1. Admiration 2. A personal quality 3. A clarification question", "answer": "1. 'I really admire my neighbour' (admiration). 2. 'That's so kind of her' (personal quality). 3. 'Do you mean she organised a small community campaign?' (clarification question)."},
+    {"id": 3, "type": "interview", "problem": "Interview Your Partner: Prepare your interview including one person from your daily life, description of their personal qualities, admiration phrases, one clarification question ('Can you explain more about…?'). Ask and answer with partner.", "answer": "Open-ended pair interview"},
+    {"id": 4, "type": "partner_interview", "problem": "Take turns interviewing your partner: Who do you admire, and what quality do they show? What action did they do that made you admire them? What quality from this person would you like to practise in your own life?", "answer": "Open-ended speaking activity with Speaking Checklist: Did I use a sentence to show admiration? Did I describe one personal quality? Did I ask a clarification question? Did I speak clearly and confidently?"}
+  ],
+  "images": {"pages": [47], "figures": []},
+  "teaching_notes": "Speaking lesson on everyday role models. Model dialogue between Salma and Fatma demonstrates admiration, describing qualities, and clarification questions. Useful Language sidebar defines the three sentence types. Interview activity requires students to discuss real people they admire. Speaking Checklist for self-assessment. 1 page."
+}

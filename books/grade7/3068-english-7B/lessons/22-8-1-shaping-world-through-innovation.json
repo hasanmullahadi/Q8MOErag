@@ -1,0 +1,47 @@
+{
+  "code": "8-1",
+  "title": "Shaping Our World Through Innovation",
+  "title_en": "Shaping Our World Through Innovation",
+  "page_start": 55, "page_end": 56,
+  "skill": "Reading",
+  "objectives": [
+    "Analyse explicit and implicit information effectively from a reading text about how innovations improve daily life",
+    "Value innovation's role in improving life by sharing supportive ideas after reading the text about technology in community life"
+  ],
+  "vocabulary": [
+    {"term": "innovation", "term_en": "innovation", "definition": "A new method, idea, or product"},
+    {"term": "printing press", "term_en": "printing press", "definition": "A machine for printing text or images on paper"},
+    {"term": "introduce", "term_en": "introduce", "definition": "To bring something new into use for the first time"},
+    {"term": "intelligent", "term_en": "intelligent", "definition": "Having the ability to learn and understand things quickly"},
+    {"term": "practical", "term_en": "practical", "definition": "Useful and suitable for a particular purpose"},
+    {"term": "interactive", "term_en": "interactive", "definition": "Allowing two-way communication between user and device"},
+    {"term": "explore", "term_en": "explore", "definition": "To search and discover; to examine in detail"},
+    {"term": "visually", "term_en": "visually", "definition": "In a way that relates to seeing or sight"},
+    {"term": "skilfully", "term_en": "skilfully", "definition": "In a way that shows skill and expertise"},
+    {"term": "increase", "term_en": "increase", "definition": "To become or make greater in size, amount, or degree"},
+    {"term": "automatically", "term_en": "automatically", "definition": "By itself, without human control"},
+    {"term": "adjust", "term_en": "adjust", "definition": "To change something slightly to make it work better"},
+    {"term": "remotely", "term_en": "remotely", "definition": "From a distance; without being physically present"},
+    {"term": "assistant", "term_en": "assistant", "definition": "A person or device that helps; a digital helper"},
+    {"term": "system", "term_en": "system", "definition": "A set of connected things that work together"},
+    {"term": "advise", "term_en": "advise", "definition": "To recommend; to suggest what should be done"}
+  ],
+  "key_concepts": [
+    {"concept": "Innovation Through History", "explanation": "Technology and innovation have changed how people live, learn, and solve problems. Past inventions — the wheel, the compass, the printing press — helped societies introduce new ideas and support human growth. Today, innovation continues to improve the world with intelligent and practical solutions."},
+    {"concept": "Technology in Education", "explanation": "Smart technology tools help students understand information more clearly. Interactive boards and tablets allow learners to explore pictures and texts visually. Teachers skilfully guide activities and use online resources to make lessons more enjoyable. Students share ideas, practise skills, and learn at their own pace."},
+    {"concept": "Technology in Health and Farming", "explanation": "In hospitals, doctors use advanced machines to check patients' health and perform operations safely. Farmers use smart devices to protect crops, save water, and increase food production."},
+    {"concept": "Technology at Home", "explanation": "Smart technology makes daily routines smoother. Lights turn on automatically, air conditioners adjust temperature. Families control security cameras remotely through a phone. Digital assistants find recipes, control the TV, or answer questions. Each system saves time and helps manage homes easily."},
+    {"concept": "Responsible Technology Use", "explanation": "Technology must be used wisely. Media platforms advise people to protect personal information and behave safely on the internet. Parents remind children to balance screen time with healthy activities. When used responsibly, innovation creates a safer, smarter, and more supportive future."}
+  ],
+  "examples": [],
+  "exercises": [
+    {"id": 1, "type": "multiple_choice", "problem": "1. What is the main idea of the passage? a) Schools use interactive tools to improve lessons b) Technology supports homes, schools, and communities c) Farmers and doctors depend on smart machines d) Families use digital assistants to make life easier", "answer": "b) Technology supports homes, schools, and communities"},
+    {"id": 2, "type": "reference", "problem": "2. The underlined word 'They' in the 4th paragraph refers to: a) cameras b) families c) rooms d) people", "answer": "b) families"},
+    {"id": 3, "type": "comprehension", "problem": "1. Give two examples of how modern innovation helps people in their daily lives. 2. How do teachers and students use technology to support learning in classrooms? 3. In what ways does innovation help communities stay healthy and strong? 4. How can people use technology wisely and responsibly? 5. What's the purpose of the writer in writing this passage?", "answer": "1. Smart home devices (auto lights, digital assistants) and interactive boards in education. 2. Interactive boards/tablets for visual learning, online resources, sharing ideas, learning at own pace. 3. Doctors use advanced machines, farmers use smart devices for crops and water. 4. Protect personal information, balance screen time, behave safely online. 5. To show how innovation improves daily life when used wisely."},
+    {"id": 4, "type": "parts_of_speech", "problem": "Sort words under the correct part of speech (Nouns, Verbs, Adjectives, Adverbs): assistant, adjust, visually, intelligent, practical, explore, skilfully, innovation. Then add more words from the passage.", "answer": "Nouns: assistant, innovation. Verbs: adjust, explore. Adjectives: intelligent, practical. Adverbs: visually, skilfully."},
+    {"id": 5, "type": "fill_in_blank", "problem": "Complete: 1. Teachers use smart boards to present information ___. 2. Many modern machines are the result of ___ in science and technology. 3. Farmers ___ their watering systems to save water and protect crops. 4. Scientists ___ new ideas to understand how technology works in daily life.", "answer": "1. visually/skilfully, 2. innovation, 3. adjust, 4. explore/introduce"},
+    {"id": 6, "type": "tech_talk", "problem": "Tech Talk Challenge: Choose one smart invention from the passage (smart home, interactive board, medical machine). Write 3-4 sentences using new words to describe how it helps people. End with a positive message.", "answer": "Example: Smart homes automatically turn on lights to save energy."}
+  ],
+  "images": {"pages": [55, 56], "figures": []},
+  "teaching_notes": "Reading lesson on innovation and technology in daily life. 5-paragraph article covers: historical inventions, education technology, health/farming tech, smart home tech, responsible use. IoT diagram included. Rich vocabulary (16 words). Exercises: MCQ, reference, comprehension, parts of speech sorting, fill-in-blank, Tech Talk Challenge with voting (clearest explanation, most creative, most positive message). 2 pages."
+}

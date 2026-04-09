@@ -1,0 +1,101 @@
+{
+  "code": "6-PT",
+  "title": "Progress Test",
+  "title_en": "Progress Test - Unit 6",
+  "page_start": 30,
+  "page_end": 31,
+  "objectives": [
+    "Assess vocabulary from Unit 6 (weather, seasons, camping, fashion)",
+    "Test reading comprehension about seasons and weather",
+    "Evaluate grammar: past simple (was/were) and comparative adjectives",
+    "Assess guided writing about going to the park"
+  ],
+  "vocabulary": [],
+  "key_concepts": [],
+  "examples": [],
+  "exercises": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "problem": "The ............ takes nice photos. (a. photographer, b. desert, c. camping)",
+      "answer": "a. photographer"
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "problem": "Flowers usually ............ in spring. (a. fast, b. bloom, c. forget)",
+      "answer": "b. bloom"
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "problem": "In winter, the weather is ............ (a. poor, b. new, c. windy)",
+      "answer": "c. windy"
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "problem": "My favourite ............ is summer. (a. diary, b. season, c. fashion)",
+      "answer": "b. season"
+    },
+    {
+      "id": 5,
+      "type": "reading_comprehension",
+      "problem": "Read: 'There are four seasons in a year: autumn, winter, spring, and summer...' The best title: (a. Kuwait Activities, b. Camping, c. Weather And Seasons)",
+      "answer": "c. Weather And Seasons"
+    },
+    {
+      "id": 6,
+      "type": "reading_comprehension",
+      "problem": "The underlined word 'it' in line 5 refers to: (a. spring, b. winter, c. weather)",
+      "answer": "b. winter"
+    },
+    {
+      "id": 7,
+      "type": "reading_comprehension",
+      "problem": "In spring, people usually go to the: (a. farm, b. beach, c. desert)",
+      "answer": "a. farm"
+    },
+    {
+      "id": 8,
+      "type": "short_answer",
+      "problem": "Why do families in Kuwait like camping in winter?",
+      "answer": "Because the air is fresh and the nights are long."
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "problem": "A giraffe is ............ a sheep. (a. tall, b. taller, c. taller than)",
+      "answer": "c. taller than"
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "problem": "It ............ cloudy yesterday. (a. was, b. has, c. were)",
+      "answer": "a. was"
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "problem": "Hamad and Fahad ............ at the zoo last Monday. (a. are, b. were, c. have)",
+      "answer": "b. were"
+    },
+    {
+      "id": 12,
+      "type": "guided_writing",
+      "problem": "Write a paragraph about 'Going to the Park' with guide words: go-park, ride-bike, weather-sunny",
+      "answer": "Last weekend, we went to the park. We rode our bikes. The weather was sunny. It was a great day."
+    },
+    {
+      "id": 13,
+      "type": "fill_in_blank",
+      "problem": "Complete: 1. The weather was __________ yesterday. 2. There are four __________ in a year. 3. I write in my __________ everyday.",
+      "answer": "1. rainy (or cloudy/windy); 2. seasons; 3. diary"
+    }
+  ],
+  "images": {
+    "pages": [],
+    "figures": []
+  },
+  "teaching_notes": "Progress test covers all Unit 6 skills. Reading passage about four seasons tests comprehension and reference words. Grammar section tests both was/were and comparative adjectives. Writing requires a guided paragraph with past tense."
+}

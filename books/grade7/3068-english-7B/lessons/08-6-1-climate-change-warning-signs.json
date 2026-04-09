@@ -1,0 +1,48 @@
+{
+  "code": "6-1",
+  "title": "Climate Change: The Earth's Warning Signs",
+  "title_en": "Climate Change: The Earth's Warning Signs",
+  "page_start": 31, "page_end": 32,
+  "skill": "Reading",
+  "objectives": [
+    "Identify causes and effects from a written text about climate change and its impact on the environment",
+    "Show cooperative attitudes by discussing climate change solutions during paired reading activities"
+  ],
+  "vocabulary": [
+    {"term": "mainly", "term_en": "mainly", "definition": "For the most part; chiefly"},
+    {"term": "release", "term_en": "release", "definition": "To set free; to allow gases or substances to escape"},
+    {"term": "global", "term_en": "global", "definition": "Relating to the whole world"},
+    {"term": "temperature", "term_en": "temperature", "definition": "The degree of heat or cold measured on a scale"},
+    {"term": "creature", "term_en": "creature", "definition": "A living animal or being"},
+    {"term": "region", "term_en": "region", "definition": "An area of land; a part of a country or the world"},
+    {"term": "flood", "term_en": "flood", "definition": "An overflow of water that covers normally dry land"},
+    {"term": "damage", "term_en": "damage", "definition": "Physical harm that reduces value or usefulness"},
+    {"term": "coastal", "term_en": "coastal", "definition": "Near the coast or sea"},
+    {"term": "drought", "term_en": "drought", "definition": "A long period with very little or no rain"},
+    {"term": "produce", "term_en": "produce", "definition": "To make or grow something"},
+    {"term": "crop", "term_en": "crop", "definition": "A plant grown in large amounts by farmers"},
+    {"term": "expensive", "term_en": "expensive", "definition": "Costing a lot of money"},
+    {"term": "occur", "term_en": "occur", "definition": "To happen; to take place"},
+    {"term": "destroy", "term_en": "destroy", "definition": "To damage something so badly it no longer exists"},
+    {"term": "suffer", "term_en": "suffer", "definition": "To experience pain, difficulty, or loss"},
+    {"term": "deeply", "term_en": "deeply", "definition": "To a great degree; very much"},
+    {"term": "disturb", "term_en": "disturb", "definition": "To interfere with the normal arrangement or functioning"},
+    {"term": "unpredictable", "term_en": "unpredictable", "definition": "Not able to be predicted; changeable"}
+  ],
+  "key_concepts": [
+    {"concept": "Climate Change Causes", "explanation": "Climate change happens mainly because people burn fossil fuels (coal, oil, gas) to make energy. These actions release gases that trap the sun's heat and make global temperatures rise. The Earth is warming faster than ever."},
+    {"concept": "Climate Change Effects", "explanation": "Melting ice: heat melts polar ice, raising sea levels, flooding coastal areas. Droughts: rainfall becomes rare, soil dries, plants fail to grow, farmers produce fewer crops, food becomes expensive. Polluted air: hotter weather traps smoke and harmful gases near the ground, causing health problems like tiredness and breathing difficulties. Storms: heavy rain and strong storms occur more often, destroying forests and washing away soil."},
+    {"concept": "Solutions for a Greener Future", "explanation": "Save energy by turning off lights and using air conditioners wisely. Reduce and recycle materials to cut waste and pollution. Plant trees to clean the air and keep the Earth cool. Work together at home, school, and community. Use clean energy such as solar panels and wind power."},
+    {"concept": "Fact Box: The Earth in Numbers", "explanation": "Earth's average temperature has risen by 1.1°C since 1880. Sea levels have increased by about 20 cm in the past century. Recent years have been some of the warmest ever recorded."}
+  ],
+  "examples": [],
+  "exercises": [
+    {"id": 1, "type": "cause_effect_table", "problem": "Fill in the table: Problem → Cause → Effect → Your Suggested Solutions. Melting Ice: cause = rising global temperature. Droughts: effect = plants fail to grow, farmers produce fewer crops. Polluted Air: solutions = plant trees, use less fuel.", "answer": "Melting Ice: effect = sea levels rise, flooding coastal areas; solutions = protect polar regions, use solar power. Droughts: cause = rainfall becomes very rare. Polluted Air: cause = hotter weather traps smoke and gases."},
+    {"id": 2, "type": "comprehension", "problem": "1. What is the main reason for climate change? 2. How does melting ice affect people near the coast? 3. Why do droughts make food expensive? 4. Why does air become more polluted when weather gets hotter? 5. What is the writer's main purpose? 6. Which problem is common in your country?", "answer": "1. People burning fossil fuels. 2. Sea levels rise, flooding land, roads, and coastal homes. 3. Plants fail to grow, farmers produce fewer crops. 4. Warm air traps smoke and harmful gases near the ground. 5. To inform about climate change causes/effects and encourage solutions. 6. Open-ended."},
+    {"id": 3, "type": "fill_in_blank", "problem": "Complete with (flood, global, crop, unpredictable, temperature): 1. Scientists say that ___ warming is changing the weather everywhere. 2. When rivers overflow after heavy rain, a ___ may damage nearby houses. 3. The ___ in the desert can reach more than 50°C at midday. 4. Weather has become more ___ because seasons are changing faster.", "answer": "1. global, 2. flood, 3. temperature, 4. unpredictable"},
+    {"id": 4, "type": "agree_disagree", "problem": "Smart Earth Talk — agree or disagree with reasons: 1. Turning off lights can really help the Earth. 2. One person's actions can't make a big difference. 3. Planting trees is a mindful choice. 4. Using clean energy protects people and animals. 5. It's too late to change what is happening to our planet.", "answer": "Open discussion using expressions: I agree because…, You're right / That's true, I don't agree because…, I have a different idea."},
+    {"id": 5, "type": "reflection", "problem": "Write one thing you learned about the Earth today and one way you can help protect it. Start with 'I learned that…' then 'I can help by…'", "answer": "Open-ended personal reflection"}
+  ],
+  "images": {"pages": [31, 32], "figures": []},
+  "teaching_notes": "Reading lesson on climate change — 5-paragraph article covering causes (fossil fuels), effects (melting ice, droughts, polluted air, storms), and solutions. Fact Box with real statistics. Smart Tips sidebar for green actions. Rich vocabulary (19 words). Exercises: cause-effect table, comprehension, vocabulary fill-in, agree/disagree discussion, reflection writing. 2 pages."
+}

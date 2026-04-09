@@ -1,0 +1,48 @@
+{
+  "code": "5-1",
+  "title": "Healthy Habits: Taking Care of Your Body and Mind",
+  "title_en": "Healthy Habits: Taking Care of Your Body and Mind",
+  "page_start": 19, "page_end": 20,
+  "skill": "Reading",
+  "objectives": [
+    "Identify main ideas and supporting details from a written text about healthy routines for body and mind",
+    "Construct a simple daily wellness plan by organising key details from a written text about healthy habits"
+  ],
+  "vocabulary": [
+    {"term": "strength", "term_en": "strength", "definition": "The quality of being physically or mentally strong"},
+    {"term": "well-being", "term_en": "well-being", "definition": "The state of being comfortable, healthy, or happy"},
+    {"term": "balance", "term_en": "balance", "definition": "A situation in which different elements are equal or in the correct proportions"},
+    {"term": "calm", "term_en": "calm", "definition": "Not showing or feeling nervousness, anger, or other strong emotions"},
+    {"term": "proper", "term_en": "proper", "definition": "Suitable or appropriate"},
+    {"term": "main", "term_en": "main", "definition": "Most important; principal"},
+    {"term": "growth", "term_en": "growth", "definition": "The process of developing physically or getting bigger"},
+    {"term": "concentration", "term_en": "concentration", "definition": "The ability to direct your attention or mental effort"},
+    {"term": "perform", "term_en": "perform", "definition": "To carry out or do something"},
+    {"term": "nutrient", "term_en": "nutrient", "definition": "A substance that provides nourishment essential for growth and life"},
+    {"term": "function", "term_en": "function", "definition": "To work or operate in a proper way"},
+    {"term": "correctly", "term_en": "correctly", "definition": "In a way that is true, right, or accurate"},
+    {"term": "limit", "term_en": "limit", "definition": "To restrict or reduce"},
+    {"term": "tiredness", "term_en": "tiredness", "definition": "The state of needing rest or sleep"},
+    {"term": "repair", "term_en": "repair", "definition": "To restore to good condition; fix"},
+    {"term": "stress", "term_en": "stress", "definition": "Mental or emotional strain or tension"},
+    {"term": "completely", "term_en": "completely", "definition": "Totally; utterly"},
+    {"term": "steady", "term_en": "steady", "definition": "Firmly fixed, supported, or balanced; regular and even"}
+  ],
+  "key_concepts": [
+    {"concept": "Healthy Habits for Body and Mind", "explanation": "Good health is not just about avoiding illness — it is about living with energy, peace, and balance every day. Healthy eating provides nutrients for growth and concentration. Proper rest repairs the body and mind, reducing stress. Living in balance means making small, steady choices like eating well and sleeping enough."},
+    {"concept": "Food That Fuels Energy and Focus", "explanation": "Food is the body's main source of energy. A balanced diet supports growth and improves concentration. Fruits, vegetables, and whole grains provide vitamins and nutrients. Drinking enough water helps the body function correctly. Limiting sugar and junk food prevents tiredness."},
+    {"concept": "Sleep That Restores Energy", "explanation": "During sleep, the body repairs itself and the mind organises thoughts. Good sleep leads to more energy, better focus, and a calmer mood. A good daily routine includes time to rest, think, and feel thankful. These habits reduce stress and help the body and mind relax completely."}
+  ],
+  "examples": [],
+  "exercises": [
+    {"id": 1, "type": "before_you_read", "problem": "Rate each habit from 1 (not healthy) to 5 (very healthy): Eating vegetables every day, Staying up late on your phone, Doing short stretches at home, Playing video games for hours, Spending time with friends", "answer": "Eating vegetables: 5, Staying up late on phone: 1, Stretches: 4-5, Video games for hours: 1-2, Time with friends: 4-5"},
+    {"id": 2, "type": "multiple_choice", "problem": "What is the main idea of the passage? a) Food is the body's main source of energy. b) Water helps the body function properly. c) Rest is an important part of a healthy lifestyle. d) Healthy habits improve both body and mind.", "answer": "d) Healthy habits improve both body and mind."},
+    {"id": 3, "type": "vocabulary_in_context", "problem": "The meaning of the underlined word 'improves' in the 2nd paragraph is: a) relaxes completely b) makes better c) stops suddenly d) breathes calmly", "answer": "b) makes better"},
+    {"id": 4, "type": "comprehension", "problem": "1. What do fruits, vegetables, and whole grains give our bodies? 2. How does rest help both the body and the mind? 3. In what way do healthy habits help us live a better life?", "answer": "1. Vitamins and nutrients that keep us active. 2. During sleep the body repairs itself and the mind organises thoughts, leading to more energy, better focus, and calmer mood. 3. By making small, steady choices like balanced meals and enough sleep, we take care of our bodies and minds."},
+    {"id": 5, "type": "fill_in_blank", "problem": "Complete with (main, limit, completely, strengthen, stress): 1. Mariam finished her homework ___ before dinner. 2. It is important to ___ how much junk food we eat. 3. Regular exercise helps ___ your muscles. 4. The ___ idea of the lesson is that healthy habits support well-being.", "answer": "1. completely, 2. limit, 3. strengthen, 4. main"},
+    {"id": 6, "type": "project", "problem": "'My Healthy Day Plan': Plan your own healthy day — discuss meals, activities, rest times. Create a simple table or short paragraph. Share and compare with a classmate.", "answer": "Open-ended project using sentence starters: We planned to…, Our plan is similar because we both…, It's different because we…, You could add… to make it healthier."},
+    {"id": 7, "type": "reflection", "problem": "Write 3-4 sentences about the big changes you would like to make to live a healthier life.", "answer": "Open-ended personal reflection"}
+  ],
+  "images": {"pages": [19, 20], "figures": []},
+  "teaching_notes": "Reading comprehension lesson on healthy habits. Magazine-style article by Sarah Al-Harbi covers three topics: food/nutrition, sleep/rest, balanced living. Vocabulary is practical health/wellness terms. Exercises progress from pre-reading rating scale → comprehension → vocabulary → collaborative planning project. 2 pages."
+}

@@ -1,0 +1,26 @@
+{
+  "code": "7-7",
+  "title": "Qualities We Admire in Others",
+  "title_en": "Qualities We Admire in Others",
+  "page_start": 51, "page_end": 52,
+  "skill": "Writing",
+  "objectives": [
+    "Outline a two-paragraph report about personal and social qualities, using a clear plan with topic sentences, supporting details, and concluding sentences",
+    "Compose two well-structured paragraphs that describe chosen qualities and explain their effects on others and the community"
+  ],
+  "vocabulary": [],
+  "key_concepts": [
+    {"concept": "Quality Profiles", "explanation": "Profile 1 — Lana (13), Kindness: She notices when someone feels left out and invites them to join her group. She shares materials, listens politely, and speaks kindly. Why it matters: Her kindness helps others feel safe and supported in the school community. Profile 2 — Ahmad (14), Cooperation: He listens to different ideas during group work. He helps classmates finish tasks and makes sure everyone participates. Why it matters: His cooperation helps groups stay organised and complete tasks successfully."},
+    {"concept": "Describing vs Explaining", "explanation": "Describing (D): what the person does — 'She listens carefully to others.' Explaining (E): why it helps — 'This makes people feel heard and valued.' Both types needed in a good report paragraph."},
+    {"concept": "Build Your Ideas Framework", "explanation": "Qualities: kindness, honesty, patience, courage, responsibility, cooperation. Actions: helping others, listening carefully, sharing, solving problems, working well in groups. Effects: supports others, builds trust, creates peace, makes people feel safe, strengthens the community. Linkers to order ideas: first, also, next, finally. Linkers for reasons/results: because, so, as a result, therefore."}
+  ],
+  "examples": [],
+  "exercises": [
+    {"id": 1, "type": "profile_analysis", "problem": "Read the Quality Profiles (Lana — Kindness, Ahmad — Cooperation). Discuss: Which person shows a quality you admire? Why? How do their actions help the people around them? In each profile, underline one sentence that describes the quality, and circle one sentence that explains why it matters.", "answer": "Lana: describes = 'She notices when someone feels left out…'; explains = 'Her kindness helps others feel safe…'. Ahmad: describes = 'He listens to different ideas…'; explains = 'His cooperation helps groups stay organised…'"},
+    {"id": 2, "type": "classify_sentences", "problem": "Write (D) for describing and (E) for explaining: 1. Helping others creates trust among people. 2. Respectful people listen carefully to others. 3. Responsible people complete tasks on time. 4. Kind behaviour makes people feel safe.", "answer": "1. E, 2. D, 3. D, 4. E"},
+    {"id": 3, "type": "planning", "problem": "Build Your Ideas: 1. Choose two qualities. 2. Describe each: A person with (quality 1) usually ___. A person with (quality 2) often ___. 3. Use linkers to order ideas (first, also, next, finally) and give reasons/results (because, so, as a result, therefore).", "answer": "Open-ended planning"},
+    {"id": 4, "type": "writing", "problem": "Write a two-paragraph report about the qualities you admire in people and how these qualities appear through actions. Use the plan from exercise 3.", "answer": "Open-ended two-paragraph report"}
+  ],
+  "images": {"pages": [51, 52], "figures": []},
+  "teaching_notes": "Writing lesson on qualities we admire. Two model Quality Profiles (Lana/kindness, Ahmad/cooperation) demonstrate the describe-explain structure. Key distinction: Describing (D) = what the person does, Explaining (E) = why it helps others. Build Your Ideas framework provides qualities, actions, effects, and linkers. Page 52 contains planning template (Introduction, Paragraph 1 topic/details/conclusion, Paragraph 2 topic/details/conclusion, Conclusion) and Paragraph Writing Checklist. Linker Bank continues. 2 pages."
+}
