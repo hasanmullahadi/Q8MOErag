@@ -2,7 +2,7 @@
 
 Kuwait Ministry of Education textbook knowledge base — extracted from official PDFs for use by the Autodidactic AI tutor.
 
-**Last updated:** 2026-04-09
+**Last updated:** 2026-04-10
 
 ## Source
 
@@ -11,82 +11,92 @@ https://elibrary.moe.edu.kw/pages/digitallibrary
 
 Navigate by grade and subject to download each book. PDFs are **not tracked in this repo** (too large — see `.gitignore`). The repo stores only the extracted knowledge (outlines, lesson JSONs, and rendered images).
 
+### Known MOE library mislabeling
+
+The MOE digital library serves the wrong content for two file IDs — the filenames and covers do not match the actual book content inside. The repo uses the actual content as the source of truth:
+
+| MOE file ID | Filename label / cover | **Actual content** |
+|---|---|---|
+| **3399** | Math Grade 7 Sem 2 Part 1 | **Arabic Grade 5 Sem 2 Part 1** — stored in `books/grade5/3399-arabic-sem2-part1.pdf` |
+| **3407** | Arabic Grade 5 Sem 2 Part 1 | **Math Grade 7 Sem 2 Part 2** — stored in `books/grade7/3407-math-sem2-part2.pdf` |
+
+**Missing book:** Math Grade 7 Sem 2 **Part 1** is not served by any known MOE file ID — appears unavailable via the digital library.
+
 ## Summary
 
 | Metric | Count |
 |--------|-------|
 | Total books in repo | 15 |
-| Fully extracted | 12 |
-| Pending extraction | 1 |
-| PDF swap issues | 2 |
+| Fully extracted (lessons + images) | 12 |
+| Outlines written (no lessons yet) | 3 |
 | **Total lessons written** | **233** |
 | **Total images extracted** | **3,237** |
-| Total PDF size | 710 MB |
-| Total images size | 824 MB |
 
 ## Books by Grade
 
 ### Grade 3 (6 books)
 
-| ID | Subject | Lessons | Images | PDF | Status |
-|----|---------|---------|--------|-----|--------|
-| 2854 | Arabic Language (Sem 1) | 11/11 | 533 | 92 MB | Complete |
-| 3043 | English (3B) | 20/20 | 302 | 43 MB | Complete |
-| 3124 | Mathematics (Sem 2 Part 1) | — | — | 23 MB | Not started |
-| 3211 | Science (Sem 2 Part 2) | 9/9 | 190 | 47 MB | Complete |
-| 3387 | Mathematics (Sem 2 Part 2) | 21/21 | 118 | 21 MB | Complete |
-| 3390 | Arabic Language (Sem 2 Part 1) | 11/11 | 297 | 194 MB | Complete |
+| ID | Subject | Lessons | Images | Status |
+|----|---------|---------|--------|--------|
+| 2854 | Arabic Language (Sem 1) | 11/11 | 533 | Complete |
+| 3043 | English (3B) | 20/20 | 302 | Complete |
+| **3124** | **Mathematics (Sem 2 Part 1)** | **0/21** | **0** | **Outline ready — lessons pending** |
+| 3211 | Science (Sem 2 Part 2) | 9/9 | 190 | Complete |
+| 3387 | Mathematics (Sem 2 Part 2) | 21/21 | 118 | Complete |
+| 3390 | Arabic Language (Sem 2 Part 1) | 11/11 | 297 | Complete |
 
 ### Grade 5 (6 books)
 
-| ID | Subject | Lessons | Images | PDF | Status |
-|----|---------|---------|--------|-----|--------|
-| 2970 | Science (Sem 2 Part 1) | 12/12 | 384 | 39 MB | Complete |
-| 3074 | English (5B) | 20/20 | 262 | 32 MB | Complete |
-| 3099 | My Country Kuwait (Sem 2) | 24/24 | 220 | 47 MB | Complete |
-| 3212 | Science (Sem 2 Part 2) | 12/12 | 599 | 73 MB | Complete |
-| 3407 | Arabic Language (Sem 2 Part 1) | — | — | 35 MB | PDF swap issue |
-| 3412 | Mathematics (Sem 2 Part 1) | 23/23 | 66 | 38 MB | Complete |
+| ID | Subject | Lessons | Images | Status |
+|----|---------|---------|--------|--------|
+| 2970 | Science (Sem 2 Part 1) | 12/12 | 384 | Complete |
+| 3074 | English (5B) | 20/20 | 262 | Complete |
+| 3099 | My Country Kuwait (Social Studies) | 24/24 | 220 | Complete |
+| 3212 | Science (Sem 2 Part 2) | 12/12 | 599 | Complete |
+| **3399** | **Arabic Language (Sem 2 Part 1)** | **0/~38** | **0** | **Outline ready — lessons pending (file from MOE ID 3399)** |
+| 3412 | Mathematics (Sem 2 Part 1) | 23/23 | 66 | Complete |
 
 ### Grade 7 (3 books)
 
-| ID | Subject | Lessons | Images | PDF | Status |
-|----|---------|---------|--------|-----|--------|
-| 3068 | English (7B) | 28/28 | 160 | 18 MB | Complete |
-| 3349 | Arabic Language (Sem 2 Part 1) | 42/42 | 106 | 4 MB | Complete |
-| 3399 | Mathematics (Sem 2 Part 1) | — | — | 6 MB | PDF swap issue |
+| ID | Subject | Lessons | Images | Status |
+|----|---------|---------|--------|--------|
+| 3068 | English (7B) | 28/28 | 160 | Complete |
+| 3349 | Arabic Language (Sem 2 Part 1) | 42/42 | 106 | Complete |
+| **3407** | **Mathematics (Sem 2 Part 2)** | **0/~40** | **0** | **Outline partial (Units 5-6 done, 7-8 pending) — from MOE ID 3407** |
 
-## Fully Extracted Books (12)
+**Missing:** Math Grade 7 Sem 2 Part 1 — not available from MOE digital library.
 
-Each of these has a complete `outline.json`, all lesson JSONs in `lessons/`, and all page/figure images in `images/`.
+## Pending Work (3 books with outlines ready)
 
-1. **3387 Math G3** — 21 lessons, 118 images. Division, Multiplication, Geometry, Measurement.
-2. **3211 Science G3** — 9 lessons, 190 images. (Units per outline.)
-3. **3043 English G3** — 20 lessons, 302 images. Units 5-8.
-4. **2854 Arabic G3** — 11 lessons, 533 images. Unit 1 (قمراً, طريق النجاح), Unit 2 (حزام الأمان, hadith).
-5. **3390 Arabic G3** — 11 lessons, 297 images. Units 5-6 (رحلة إلى البر, يوم دراسي في رمضان, فرحة وطن, صلة الرحم).
-6. **3074 English G5** — 20 lessons, 262 images. Units 5-8: Our Passport To The World, Active And Smart, The Culture Compass, Healthy Habits Better Life.
-7. **3412 Math G5** — 23 lessons, 66 images. 2 units: Fractions (10), Operations on Fractions (13).
-8. **2970 Science G5** — 12 lessons, 384 images. 3 chapters: Matter Secrets, Electrical Energy, Forces.
-9. **3212 Science G5** — 12 lessons, 599 images. 2 chapters: Earth's Treasures, Astronaut Journey.
-10. **3099 Social Studies G5** — 24 lessons, 220 images. 4 units: History of Renaissance, Population, Regional Organizations, Land of Giving.
-11. **3068 English G7** — 28 lessons, 160 images. 4 units (5-8), 7 lessons per unit. "English Pearls of Kuwait".
-12. **3349 Arabic G7** — 42 lessons, 106 images. 2 units × 2 topics. Grammar: بناء الفعل الماضي/المضارع/الأمر. Rhetoric: النداء (حقيقي/بلاغي). Spelling: الهمزة المتطرفة.
+All three have their directories created and `outline.json` written. Lesson JSON extraction is the next step.
 
-## Pending Work
+### 1. 3124 Math Grade 3 Sem 2 Part 1
 
-### 1. Not yet started (1 book)
+- **21 lessons planned** across 2 units (division, data analysis)
+- Unit 5: Division (12 lessons on division by 1-9)
+- Unit 6: Division with remainders, even/odd, data organization, graphing
+- Total PDF pages: 86
+- Theme: Celebrating Kuwait's National Day (February 25) and Liberation Day (February 26)
 
-- **3124 Math G3 Sem 2 Part 1** — No extraction directory yet. PDF is 22.6 MB. Next book to tackle.
+### 2. 3399 Arabic Grade 5 Sem 2 Part 1
 
-### 2. PDF swap issues (2 books)
+- **~38 lessons planned** across 2 units (2 main reading lessons per unit, each with 8 integrated sub-skills)
+- Unit 5: أنشودة الوطن, أعلام من بلدي
+- Unit 6: رحلة إلى المطاحن الكويتية, السجايا: المشروع الرائد
+- Grammar: المفعول به, حال الفاعل, ظرفي الزمان والمكان
+- Spelling: الهمزة المتوسطة, الألف اللينة
+- Calligraphy: خط الرقعة (ع-غ-ف-ق-ك-ل-م-ن)
+- Total PDF pages: 260
 
-The following PDFs are misfiled and contain the wrong content:
+### 3. 3407 Math Grade 7 Sem 2 Part 2 (Units 5-6 outlined, 7-8 pending)
 
-- `books/grade5/3407-arabic-sem2-part1.pdf` → actually contains **Math Grade 7** (30 lessons, 4 units: Fractions, Geometry, Percentages, Probability).
-- `books/grade7/3399-math-sem2-part1.pdf` → actually contains **Arabic Grade 5**.
-
-**Action needed:** User should swap or rename these PDFs. Once fixed, extraction can proceed normally.
+- **~40 lessons planned** across 4 units (outline written for Units 5-6 only)
+- Unit 5: Fractions and Operations (9 lessons + evaluation)
+- Unit 6: Geometry — Triangles, Parallel Lines, Parallelograms (9 lessons + eval + project)
+- Unit 7: Percentages — *TOC not yet read*
+- Unit 8: Probability — *TOC not yet read*
+- Total PDF pages: 224
+- Theme: Clinical Pharmacy (for Unit 5)
 
 ## Extraction Process
 

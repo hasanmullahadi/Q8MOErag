@@ -1,0 +1,70 @@
+{
+  "book_id": "3399",
+  "subject": "لغتي العربية",
+  "subject_en": "Arabic Language",
+  "grade": 5,
+  "semester": 2,
+  "part": 1,
+  "country": "Kuwait",
+  "publisher": "وزارة التربية - دولة الكويت",
+  "year": "2025-2026",
+  "total_pages": 260,
+  "notes": "MOE library mislabeling: this content is served under file ID 3399 even though the cover says 'Math Grade 7'. Actual content is Arabic Grade 5 Sem 2 Part 1.",
+  "units": [
+    {
+      "unit_number": 5,
+      "unit_title": "الوحدة الخامسة",
+      "unit_title_en": "Unit 5",
+      "page_start": 14,
+      "lessons": [
+        {"code": "5-P", "title": "قصيدة: قدرة الله", "title_en": "Poem: Power of God", "page": 17, "page_end": 20, "skill": "poem"},
+        {"code": "5-L", "title": "الاستماع: قصة شهيد", "title_en": "Listening: Story of a Martyr", "page": 21, "page_end": 24, "skill": "listening"},
+        {"code": "5-1-R", "title": "الدرس الأول: أنشودة الوطن - القراءة والفهم والاستيعاب", "title_en": "Lesson 1: Homeland Anthem - Reading & Comprehension", "page": 25, "page_end": 29, "skill": "reading"},
+        {"code": "5-1-V", "title": "الدرس الأول: الحصيلة اللغوية", "title_en": "Lesson 1: Vocabulary (synonyms, antonyms, plurals, conjugation)", "page": 30, "page_end": 31, "skill": "vocabulary"},
+        {"code": "5-1-B", "title": "الدرس الأول: البلاغة - إكمال الجملة بكلمة تعبر عن الخيال", "title_en": "Lesson 1: Rhetoric - Completing sentences with imaginative words", "page": 32, "page_end": 33, "skill": "rhetoric"},
+        {"code": "5-1-S", "title": "الدرس الأول: الرسم الهجائي - الهمزة المتوسطة", "title_en": "Lesson 1: Spelling - Middle Hamza", "page": 34, "page_end": 36, "skill": "spelling"},
+        {"code": "5-1-C", "title": "الدرس الأول: الخط العربي - خط الرقعة (ع، غ)", "title_en": "Lesson 1: Calligraphy - Ruqʿah Script (ʿ, gh)", "page": 37, "page_end": 37, "skill": "calligraphy"},
+        {"code": "5-1-G", "title": "الدرس الأول: قواعد النحو - المفعول به", "title_en": "Lesson 1: Grammar - Direct Object", "page": 38, "page_end": 40, "skill": "grammar"},
+        {"code": "5-1-SP", "title": "الدرس الأول: التحدث", "title_en": "Lesson 1: Speaking", "page": 41, "page_end": 41, "skill": "speaking"},
+        {"code": "5-1-W", "title": "الدرس الأول: التعبير الكتابي - رسالة شكر", "title_en": "Lesson 1: Writing - Thank You Letter", "page": 42, "page_end": 44, "skill": "writing"},
+        {"code": "5-2-R", "title": "الدرس الثاني: أعلام من بلدي - القراءة والفهم والاستيعاب", "title_en": "Lesson 2: Flags of My Country - Reading & Comprehension", "page": 45, "page_end": 50, "skill": "reading"},
+        {"code": "5-2-V", "title": "الدرس الثاني: الحصيلة اللغوية", "title_en": "Lesson 2: Vocabulary (contextual meaning)", "page": 51, "page_end": 52, "skill": "vocabulary"},
+        {"code": "5-2-B", "title": "الدرس الثاني: البلاغة - المفاضلة", "title_en": "Lesson 2: Rhetoric - Comparison", "page": 53, "page_end": 54, "skill": "rhetoric"},
+        {"code": "5-2-S", "title": "الدرس الثاني: الرسم الهجائي - الألف اللينة (الممدودة - المقصورة)", "title_en": "Lesson 2: Spelling - Soft Alif (Extended / Shortened)", "page": 55, "page_end": 57, "skill": "spelling"},
+        {"code": "5-2-C", "title": "الدرس الثاني: الخط العربي - خط الرقعة (ف، ق)", "title_en": "Lesson 2: Calligraphy - Ruqʿah Script (f, q)", "page": 58, "page_end": 58, "skill": "calligraphy"},
+        {"code": "5-2-G", "title": "الدرس الثاني: قواعد النحو - إعراب الجملة الفعلية", "title_en": "Lesson 2: Grammar - Parsing Verbal Sentences", "page": 59, "page_end": 61, "skill": "grammar"},
+        {"code": "5-2-SP", "title": "الدرس الثاني: التحدث", "title_en": "Lesson 2: Speaking", "page": 62, "page_end": 62, "skill": "speaking"},
+        {"code": "5-2-W", "title": "الدرس الثاني: التعبير الكتابي - رسالة شكر", "title_en": "Lesson 2: Writing - Thank You Letter", "page": 63, "page_end": 66, "skill": "writing"},
+        {"code": "5-A", "title": "ظل السدرة - الوقفة التقويمية الشاملة", "title_en": "Shade of the Lote Tree - Comprehensive Assessment", "page": 67, "page_end": 71, "skill": "assessment"},
+        {"code": "5-F", "title": "ثمرة القراءة الحرة", "title_en": "Fruit of Free Reading", "page": 72, "page_end": 74, "skill": "free_reading"}
+      ]
+    },
+    {
+      "unit_number": 6,
+      "unit_title": "الوحدة السادسة",
+      "unit_title_en": "Unit 6",
+      "page_start": 73,
+      "lessons": [
+        {"code": "6-L", "title": "الاستماع: غراس الخير", "title_en": "Listening: Seeds of Goodness", "page": 75, "page_end": 78, "skill": "listening"},
+        {"code": "6-1-R", "title": "الدرس الأول: رحلة إلى المطاحن الكويتية - القراءة والفهم والاستيعاب", "title_en": "Lesson 1: Trip to the Kuwaiti Mills - Reading & Comprehension", "page": 79, "page_end": 86, "skill": "reading"},
+        {"code": "6-1-V", "title": "الدرس الأول: الحصيلة اللغوية", "title_en": "Lesson 1: Vocabulary (across domains: sea, desert, sports, art, economics, technology, environment)", "page": 87, "page_end": 88, "skill": "vocabulary"},
+        {"code": "6-1-B", "title": "الدرس الأول: البلاغة - التمييز بين الأسلوب الخبري والإنشائي (التمني، النداء)", "title_en": "Lesson 1: Rhetoric - Declarative vs. Performative (Wishing, Calling)", "page": 89, "page_end": 90, "skill": "rhetoric"},
+        {"code": "6-1-S", "title": "الدرس الأول: الرسم الهجائي - الألف اللينة في الأفعال الثلاثية", "title_en": "Lesson 1: Spelling - Soft Alif in Triliteral Verbs", "page": 91, "page_end": 92, "skill": "spelling"},
+        {"code": "6-1-C", "title": "الدرس الأول: الخط العربي - خط الرقعة (ك، ل)", "title_en": "Lesson 1: Calligraphy - Ruqʿah Script (k, l)", "page": 93, "page_end": 93, "skill": "calligraphy"},
+        {"code": "6-1-G", "title": "الدرس الأول: قواعد النحو - حال الفاعل", "title_en": "Lesson 1: Grammar - State (Haal) of the Subject", "page": 94, "page_end": 95, "skill": "grammar"},
+        {"code": "6-1-SP", "title": "الدرس الأول: التحدث - عبارات المجاملة الاجتماعية", "title_en": "Lesson 1: Speaking - Social Courtesy Expressions (Thanks, Congrats)", "page": 96, "page_end": 98, "skill": "speaking"},
+        {"code": "6-1-W", "title": "الدرس الأول: التعبير الكتابي - رسالة تهنئة", "title_en": "Lesson 1: Writing - Congratulations Letter", "page": 99, "page_end": 101, "skill": "writing"},
+        {"code": "6-2-R", "title": "الدرس الثاني: السجايا: المشروع الرائد - القراءة والفهم والاستيعاب", "title_en": "Lesson 2: Traits: The Pioneer Project - Reading & Comprehension", "page": 102, "page_end": 108, "skill": "reading"},
+        {"code": "6-2-V", "title": "الدرس الثاني: الحصيلة اللغوية - مصطلحات من مواد دراسية أخرى", "title_en": "Lesson 2: Vocabulary - Terms from Other Subjects", "page": 109, "page_end": 110, "skill": "vocabulary"},
+        {"code": "6-2-B", "title": "الدرس الثاني: البلاغة - الوصل بين الكلمات المتضادة", "title_en": "Lesson 2: Rhetoric - Linking Antonym Words", "page": 111, "page_end": 112, "skill": "rhetoric"},
+        {"code": "6-2-S", "title": "الدرس الثاني: الرسم الهجائي - الأسماء الثلاثية بالألف اللينة", "title_en": "Lesson 2: Spelling - Triliteral Nouns with Soft Alif", "page": 113, "page_end": 114, "skill": "spelling"},
+        {"code": "6-2-C", "title": "الدرس الثاني: الخط العربي - خط الرقعة (م، ن)", "title_en": "Lesson 2: Calligraphy - Ruqʿah Script (m, n)", "page": 115, "page_end": 115, "skill": "calligraphy"},
+        {"code": "6-2-G", "title": "الدرس الثاني: قواعد النحو - استخدام ظرفي الزمان والمكان", "title_en": "Lesson 2: Grammar - Adverbs of Time and Place", "page": 116, "page_end": 118, "skill": "grammar"},
+        {"code": "6-2-SP", "title": "الدرس الثاني: التحدث", "title_en": "Lesson 2: Speaking - Explain an understood topic", "page": 119, "page_end": 120, "skill": "speaking"},
+        {"code": "6-2-W", "title": "الدرس الثاني: التعبير الكتابي - إعادة كتابة نص معلوماتي", "title_en": "Lesson 2: Writing - Rewrite an informational text from another subject", "page": 121, "page_end": 123, "skill": "writing"},
+        {"code": "6-A", "title": "أهلاً بك - الوقفة التقويمية الشاملة", "title_en": "Welcome - Comprehensive Assessment", "page": 124, "page_end": 127, "skill": "assessment"},
+        {"code": "6-F", "title": "ثمرة القراءة الحرة", "title_en": "Fruit of Free Reading", "page": 128, "page_end": 130, "skill": "free_reading"}
+      ]
+    }
+  ]
+}

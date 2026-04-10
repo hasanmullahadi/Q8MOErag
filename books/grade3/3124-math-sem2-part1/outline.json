@@ -1,0 +1,61 @@
+{
+  "book_id": "3124",
+  "subject": "الرياضيات",
+  "subject_en": "Mathematics",
+  "book_series": "سبورتي",
+  "grade": 3,
+  "semester": 2,
+  "part": 1,
+  "country": "Kuwait",
+  "publisher": "وزارة التربية - دولة الكويت",
+  "year": "2025-2026",
+  "total_pages": 86,
+  "units": [
+    {
+      "unit_number": 5,
+      "unit_title": "الوحدة التعليمية الخامسة",
+      "unit_title_en": "Unit 5 - Division",
+      "theme": "كيف يمكن توزيع الأشياء بالتساوي؟",
+      "theme_en": "How can we distribute things equally?",
+      "community_link": "احتفال الكويت باليوم الوطني (٢٥ فبراير) وذكرى التحرير (٢٦ فبراير)",
+      "standards_page": 14,
+      "page_start": 13,
+      "lessons": [
+        {"code": "5-1", "title": "استكشاف القسمة (التوزيع بالتساوي)", "title_en": "Exploring Division (Equal Distribution)", "page": 17, "page_end": 19},
+        {"code": "5-2", "title": "استكشاف القسمة (الطرح المتكرر)", "title_en": "Exploring Division (Repeated Subtraction)", "page": 20, "page_end": 21},
+        {"code": "5-3", "title": "العلاقة بين عمليتي الضرب والقسمة", "title_en": "Relationship between Multiplication and Division", "page": 22, "page_end": 23},
+        {"code": "5-4", "title": "القسمة على العدد ٢", "title_en": "Division by 2", "page": 24, "page_end": 25},
+        {"code": "5-5", "title": "القسمة على العدد ٥", "title_en": "Division by 5", "page": 26, "page_end": 27},
+        {"code": "5-6", "title": "القسمة على العدد ١ وقسمة العدد على نفسه", "title_en": "Division by 1 and Division by Itself", "page": 28, "page_end": 29},
+        {"code": "5-7", "title": "القسمة على العدد ٣", "title_en": "Division by 3", "page": 30, "page_end": 31},
+        {"code": "5-8", "title": "القسمة على العدد ٤", "title_en": "Division by 4", "page": 32, "page_end": 33},
+        {"code": "5-9", "title": "القسمة على العدد ٦", "title_en": "Division by 6", "page": 34, "page_end": 35},
+        {"code": "5-10", "title": "القسمة على العدد ٧", "title_en": "Division by 7", "page": 36, "page_end": 37},
+        {"code": "5-11", "title": "القسمة على العدد ٨", "title_en": "Division by 8", "page": 38, "page_end": 39},
+        {"code": "5-12", "title": "القسمة على العدد ٩", "title_en": "Division by 9", "page": 40, "page_end": 41},
+        {"code": "5-PM", "title": "تدرب أكثر - الوحدة الخامسة", "title_en": "Practice More - Unit 5", "page": 42, "page_end": 43, "type": "review"},
+        {"code": "5-PRJ", "title": "مشروع الوحدة الخامسة", "title_en": "Unit 5 Project", "page": 44, "page_end": 45, "type": "project"}
+      ]
+    },
+    {
+      "unit_number": 6,
+      "unit_title": "الوحدة التعليمية السادسة",
+      "unit_title_en": "Unit 6 - Division with Remainders & Data",
+      "standards_page": 46,
+      "page_start": 46,
+      "lessons": [
+        {"code": "6-1", "title": "أنماط القسمة", "title_en": "Division Patterns", "page": 49, "page_end": 51},
+        {"code": "6-2", "title": "التعرف على القسمة مع وجود باقٍ", "title_en": "Identifying Division with Remainder", "page": 52, "page_end": 53},
+        {"code": "6-3", "title": "القسمة على عدد مكون رمزه من رقم واحد بدون إعادة التسمية وبدون باقٍ", "title_en": "Division by a 1-digit Number without Regrouping and without Remainder", "page": 54, "page_end": 55},
+        {"code": "6-4", "title": "القسمة على عدد مكون رمزه من رقم واحد مع إعادة التسمية وبدون باقٍ", "title_en": "Division by a 1-digit Number with Regrouping and without Remainder", "page": 56, "page_end": 57},
+        {"code": "6-5", "title": "الأعداد الزوجية والأعداد الفردية", "title_en": "Even and Odd Numbers", "page": 58, "page_end": 59},
+        {"code": "6-6", "title": "تنظيم البيانات", "title_en": "Organizing Data", "page": 60, "page_end": 61},
+        {"code": "6-7", "title": "التمثيل البياني بالصور", "title_en": "Pictograph", "page": 62, "page_end": 63},
+        {"code": "6-8", "title": "التمثيل البياني بالأعمدة", "title_en": "Bar Graph", "page": 64, "page_end": 65},
+        {"code": "6-9", "title": "التمثيل البياني بالنقاط المجمعة", "title_en": "Line Plot / Dot Plot", "page": 66, "page_end": 67},
+        {"code": "6-PM", "title": "تدرب أكثر - الوحدة السادسة", "title_en": "Practice More - Unit 6", "page": 68, "page_end": 71, "type": "review"},
+        {"code": "6-PRJ", "title": "مشروع الوحدة السادسة", "title_en": "Unit 6 Project", "page": 72, "page_end": 74, "type": "project"}
+      ]
+    }
+  ]
+}
