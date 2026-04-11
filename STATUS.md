@@ -2,7 +2,7 @@
 
 Kuwait Ministry of Education textbook knowledge base — extracted from official PDFs for use by the Autodidactic AI tutor.
 
-**Last updated:** 2026-04-10
+**Last updated:** 2026-04-11
 
 ## Source
 
@@ -13,37 +13,41 @@ Navigate by grade and subject to download each book. PDFs are **not tracked in t
 
 ### Known MOE library mislabeling
 
-The MOE digital library serves the wrong content for two file IDs — the filenames and covers do not match the actual book content inside. The repo uses the actual content as the source of truth:
+The MOE digital library has multiple mislabeling/duplication issues. The repo uses actual content as the source of truth:
 
 | MOE file ID | Filename label / cover | **Actual content** |
 |---|---|---|
+| **3124** | Math Grade 3 Sem 2 Part 1 | **Duplicate of 3387** — same Part 1 content. Not stored separately; see `3124-DUPLICATE-OF-3387.txt` |
+| **3387** | Math Grade 3 Sem 2 Part 2 (label was wrong) | **Math Grade 3 Sem 2 Part 1** — stored in `books/grade3/3387-math-sem2-part1.pdf` |
 | **3399** | Math Grade 7 Sem 2 Part 1 | **Arabic Grade 5 Sem 2 Part 1** — stored in `books/grade5/3399-arabic-sem2-part1.pdf` |
 | **3407** | Arabic Grade 5 Sem 2 Part 1 | **Math Grade 7 Sem 2 Part 2** — stored in `books/grade7/3407-math-sem2-part2.pdf` |
 
-**Missing book:** Math Grade 7 Sem 2 **Part 1** is not served by any known MOE file ID — appears unavailable via the digital library.
+**Missing books (unavailable from MOE digital library):**
+- Math Grade 3 Sem 2 **Part 2** — no working file ID found (3387 was mislabeled as Part 2 but serves Part 1)
 
 ## Summary
 
 | Metric | Count |
 |--------|-------|
-| Total books in repo | 15 |
-| Fully extracted (lessons + images) | 12 |
-| Outlines written (no lessons yet) | 3 |
-| **Total lessons written** | **233** |
-| **Total images extracted** | **3,237** |
+| Total unique books in repo | 14 (3124 was a duplicate of 3387) |
+| Fully extracted (lessons + images) | 14 |
+| Outlines written (no lessons yet) | 0 |
+| **Total lessons written** | **312** |
+| **Total images extracted** | **3,811** (3399 new: 116, 3387 re-extracted: 134, 3407 new: 328) |
 
 ## Books by Grade
 
-### Grade 3 (6 books)
+### Grade 3 (5 unique books)
 
 | ID | Subject | Lessons | Images | Status |
 |----|---------|---------|--------|--------|
 | 2854 | Arabic Language (Sem 1) | 11/11 | 533 | Complete |
 | 3043 | English (3B) | 20/20 | 302 | Complete |
-| **3124** | **Mathematics (Sem 2 Part 1)** | **0/21** | **0** | **Outline ready — lessons pending** |
 | 3211 | Science (Sem 2 Part 2) | 9/9 | 190 | Complete |
-| 3387 | Mathematics (Sem 2 Part 2) | 21/21 | 118 | Complete |
+| **3387** | **Mathematics (Sem 2 Part 1)** | **25/25** | **134** | **Complete** |
 | 3390 | Arabic Language (Sem 2 Part 1) | 11/11 | 297 | Complete |
+
+~~3124~~ — duplicate of 3387, removed. See `books/grade3/3124-DUPLICATE-OF-3387.txt`.
 
 ### Grade 5 (6 books)
 
@@ -53,7 +57,7 @@ The MOE digital library serves the wrong content for two file IDs — the filena
 | 3074 | English (5B) | 20/20 | 262 | Complete |
 | 3099 | My Country Kuwait (Social Studies) | 24/24 | 220 | Complete |
 | 3212 | Science (Sem 2 Part 2) | 12/12 | 599 | Complete |
-| **3399** | **Arabic Language (Sem 2 Part 1)** | **0/~38** | **0** | **Outline ready — lessons pending (file from MOE ID 3399)** |
+| **3399** | **Arabic Language (Sem 2 Part 1)** | **39/39** | **116** | **Complete. Units 5-6 with full skill breakdown (poem, listening, reading, vocab, rhetoric, spelling, calligraphy, grammar, speaking, writing, assessment, free reading)** |
 | 3412 | Mathematics (Sem 2 Part 1) | 23/23 | 66 | Complete |
 
 ### Grade 7 (3 books)
@@ -62,41 +66,13 @@ The MOE digital library serves the wrong content for two file IDs — the filena
 |----|---------|---------|--------|--------|
 | 3068 | English (7B) | 28/28 | 160 | Complete |
 | 3349 | Arabic Language (Sem 2 Part 1) | 42/42 | 106 | Complete |
-| **3407** | **Mathematics (Sem 2 Part 2)** | **0/~40** | **0** | **Outline partial (Units 5-6 done, 7-8 pending) — from MOE ID 3407** |
+| **3407** | **Mathematics (Sem 2 FULL — both Parts 1 & 2)** | **36/36** | **328** | **Complete. Single PDF contains both Part 1 (Units 5-6) and Part 2 (Units 7-8). Stored in `3407-math-sem2-full/`** |
 
-**Missing:** Math Grade 7 Sem 2 Part 1 — not available from MOE digital library.
+**Correction from prior session:** Math Grade 7 Sem 2 Part 1 is **NOT missing** — it's bundled into the same PDF as Part 2 under file ID 3407 (pages 1-130 = Part 1, pages 131-224 = Part 2).
 
-## Pending Work (3 books with outlines ready)
+## Pending Work
 
-All three have their directories created and `outline.json` written. Lesson JSON extraction is the next step.
-
-### 1. 3124 Math Grade 3 Sem 2 Part 1
-
-- **21 lessons planned** across 2 units (division, data analysis)
-- Unit 5: Division (12 lessons on division by 1-9)
-- Unit 6: Division with remainders, even/odd, data organization, graphing
-- Total PDF pages: 86
-- Theme: Celebrating Kuwait's National Day (February 25) and Liberation Day (February 26)
-
-### 2. 3399 Arabic Grade 5 Sem 2 Part 1
-
-- **~38 lessons planned** across 2 units (2 main reading lessons per unit, each with 8 integrated sub-skills)
-- Unit 5: أنشودة الوطن, أعلام من بلدي
-- Unit 6: رحلة إلى المطاحن الكويتية, السجايا: المشروع الرائد
-- Grammar: المفعول به, حال الفاعل, ظرفي الزمان والمكان
-- Spelling: الهمزة المتوسطة, الألف اللينة
-- Calligraphy: خط الرقعة (ع-غ-ف-ق-ك-ل-م-ن)
-- Total PDF pages: 260
-
-### 3. 3407 Math Grade 7 Sem 2 Part 2 (Units 5-6 outlined, 7-8 pending)
-
-- **~40 lessons planned** across 4 units (outline written for Units 5-6 only)
-- Unit 5: Fractions and Operations (9 lessons + evaluation)
-- Unit 6: Geometry — Triangles, Parallel Lines, Parallelograms (9 lessons + eval + project)
-- Unit 7: Percentages — *TOC not yet read*
-- Unit 8: Probability — *TOC not yet read*
-- Total PDF pages: 224
-- Theme: Clinical Pharmacy (for Unit 5)
+All 14 books are now fully extracted. No pending lesson extraction work.
 
 ## Extraction Process
 

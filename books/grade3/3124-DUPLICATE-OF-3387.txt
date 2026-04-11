@@ -1,4 +1,10 @@
 Book 3124 is identical to book 3387.
 Both are: الرياضيات - الصف الثالث - الفصل الدراسي الثاني - القسم الأول
-Same authors, same TOC, same content.
-Use the extraction from 3387-math-sem2-part2/ instead.
+(Mathematics - Grade 3 - Semester 2 - Part 1)
+Same authors, same TOC, same content, same cover.
+
+The MOE digital library serves the same Part 1 content under both IDs.
+Math G3 Sem 2 Part 2 is NOT available from the MOE library.
+
+Use the extraction from 3387-math-sem2-part1/ instead.
+The 3124 PDF has been deleted (was byte-identical to 3387's PDF).

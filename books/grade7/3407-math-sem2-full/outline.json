@@ -1,0 +1,91 @@
+{
+  "book_id": "3407",
+  "subject": "الرياضيات",
+  "subject_en": "Mathematics",
+  "grade": 7,
+  "semester": 2,
+  "part": "full (1 and 2)",
+  "country": "Kuwait",
+  "publisher": "وزارة التربية - دولة الكويت",
+  "year": "2025-2026",
+  "total_pages": 224,
+  "notes": "MOE file ID 3407 actually contains BOTH Math G7 Sem 2 Part 1 AND Part 2 concatenated into a single 224-page PDF. PDF pages 1-130 = Sem 2 Part 1 (cover says '1/2', contains Units 5-6: Fractions and Geometry). PDF pages 131-224 = Sem 2 Part 2 (cover says '2/2', contains Units 7-8: Percentages and Probability). Earlier claim that Math G7 Sem 2 Part 1 was unavailable from MOE is WRONG — it's included in this same file. Grade 7 Semester 2 total is 8 units across 2 parts, but the 'الجزء الأول/الثاني' on page 12/contents refers to Semester 1 vs Semester 2 (not to Part 1/Part 2 of Sem 2).",
+  "units": [
+    {
+      "unit_number": 5,
+      "unit_title": "الوحدة التعليمية الخامسة: الكسور والعمليات عليها",
+      "unit_title_en": "Unit 5 - Fractions and Operations on Them",
+      "theme": "الصيدلة السريرية",
+      "theme_en": "Clinical Pharmacy",
+      "page_start": 14,
+      "standards_page": 16,
+      "lessons": [
+        {"code": "5-1", "title": "الكسور المركبة والأعداد الكسرية", "title_en": "Mixed Fractions and Fractional Numbers", "page": 20, "page_end": 23},
+        {"code": "5-2", "title": "التحويل بين الكسور الاعتيادية والكسور العشرية", "title_en": "Conversion between Common and Decimal Fractions", "page": 24, "page_end": 27},
+        {"code": "5-3", "title": "المقارنة والترتيب", "title_en": "Comparison and Ordering", "page": 28, "page_end": 31},
+        {"code": "5-4", "title": "جمع الكسور في صورتيها الاعتيادية والعشرية", "title_en": "Adding Common and Decimal Fractions", "page": 32, "page_end": 36},
+        {"code": "5-5", "title": "طرح الكسور في صورتيها الاعتيادية والعشرية", "title_en": "Subtracting Common and Decimal Fractions", "page": 37, "page_end": 40},
+        {"code": "5-6", "title": "ضرب الكسور في صورتيها الاعتيادية والعشرية", "title_en": "Multiplying Common and Decimal Fractions", "page": 41, "page_end": 43},
+        {"code": "5-7", "title": "قسمة الكسور في صورتيها الاعتيادية والعشرية", "title_en": "Dividing Common and Decimal Fractions", "page": 44, "page_end": 47},
+        {"code": "5-8", "title": "حل المعادلات التي تشتمل على جمع أو طرح الكسور الاعتيادية", "title_en": "Solving Equations with Addition/Subtraction of Common Fractions", "page": 48, "page_end": 51},
+        {"code": "5-9", "title": "حل المعادلات التي تشتمل على ضرب أو قسمة الكسور الاعتيادية", "title_en": "Solving Equations with Multiplication/Division of Common Fractions", "page": 52, "page_end": 56},
+        {"code": "5-EV", "title": "تقويم الوحدة التعليمية الخامسة", "title_en": "Unit 5 Evaluation", "page": 57, "page_end": 63, "type": "assessment"}
+      ]
+    },
+    {
+      "unit_number": 6,
+      "unit_title": "الوحدة التعليمية السادسة: الهندسة",
+      "unit_title_en": "Unit 6 - Geometry",
+      "page_start": 64,
+      "standards_page": 64,
+      "lessons": [
+        {"code": "6-1", "title": "المثلث", "title_en": "The Triangle", "page": 69, "page_end": 71},
+        {"code": "6-2", "title": "استكشاف خواص المثلث المتطابق الضلعين", "title_en": "Exploring Properties of the Isosceles Triangle", "page": 72, "page_end": 81},
+        {"code": "6-3", "title": "استكشاف خواص المثلث المتطابق الأضلاع", "title_en": "Exploring Properties of the Equilateral Triangle", "page": 82, "page_end": 86},
+        {"code": "6-4", "title": "الزاوية الخارجية للمثلث", "title_en": "The Exterior Angle of a Triangle", "page": 87, "page_end": 92},
+        {"code": "6-5", "title": "رسم مثلث بمعلومية أطوال أضلاعه الثلاثة", "title_en": "Drawing a Triangle Given Three Sides (SSS)", "page": 93, "page_end": 95},
+        {"code": "6-6", "title": "رسم مثلث بمعلومية قياس زاويتين وطول الضلع الواصل بين رأسيهما", "title_en": "Drawing a Triangle Given Two Angles and Included Side (ASA)", "page": 96, "page_end": 99},
+        {"code": "6-7", "title": "رسم مثلث بمعلومية طولَي ضلعَين وقياس الزاوية المحددة بهما", "title_en": "Drawing a Triangle Given Two Sides and Included Angle (SAS)", "page": 100, "page_end": 103},
+        {"code": "6-8", "title": "المستقيمات المتوازية والزوايا", "title_en": "Parallel Lines and Angles", "page": 104, "page_end": 110},
+        {"code": "6-9", "title": "متوازي الأضلاع وحالاته الخاصة", "title_en": "Parallelogram and Its Special Cases", "page": 111, "page_end": 120},
+        {"code": "6-EV", "title": "تقويم الوحدة التعليمية السادسة", "title_en": "Unit 6 Evaluation", "page": 121, "page_end": 127, "type": "assessment"},
+        {"code": "6-PRJ", "title": "المشروع الثالث", "title_en": "Project 3", "page": 128, "page_end": 130, "type": "project"}
+      ]
+    },
+    {
+      "unit_number": 7,
+      "unit_title": "الوحدة التعليمية السابعة: النسبة المئوية واستخدامها",
+      "unit_title_en": "Unit 7 - Percentages and Their Uses",
+      "theme": "سرّ تناغم الألوان في التصميم الداخلي",
+      "theme_en": "The Secret of Color Harmony in Interior Design",
+      "page_start": 130,
+      "standards_page": 132,
+      "lessons": [
+        {"code": "7-1", "title": "النسبة المئوية", "title_en": "Percent", "page": 136, "page_end": 139},
+        {"code": "7-2", "title": "ربط النسب المئوية بالكسور العشرية", "title_en": "Relating Percents and Decimals", "page": 140, "page_end": 143},
+        {"code": "7-3", "title": "ربط النسب المئوية بالكسور الاعتيادية", "title_en": "Relating Percents and Common Fractions", "page": 144, "page_end": 149},
+        {"code": "7-4", "title": "إيجاد النسبة المئوية من عدد", "title_en": "Finding the Percent of a Number", "page": 150, "page_end": 155},
+        {"code": "7-5", "title": "تقدير النسبة المئوية من عدد", "title_en": "Estimating the Percent of a Number", "page": 156, "page_end": 159},
+        {"code": "7-6", "title": "حل مسائل تتضمن نسبًا مئوية (الزكاة)", "title_en": "Solving Percentage Word Problems (Zakat)", "page": 160, "page_end": 163},
+        {"code": "7-7", "title": "حساب الخصم", "title_en": "Calculating Discount", "page": 164, "page_end": 167},
+        {"code": "7-EV", "title": "تقويم الوحدة التعليمية السابعة", "title_en": "Unit 7 Evaluation", "page": 168, "page_end": 173, "type": "assessment"}
+      ]
+    },
+    {
+      "unit_number": 8,
+      "unit_title": "الوحدة التعليمية الثامنة: الاحتمال",
+      "unit_title_en": "Unit 8 - Probability",
+      "page_start": 172,
+      "standards_page": 174,
+      "lessons": [
+        {"code": "8-1", "title": "مخطط الشجرة البيانية ومبدأ العدّ", "title_en": "Tree Diagrams and the Counting Principle", "page": 177, "page_end": 180},
+        {"code": "8-2", "title": "تجربة عشوائية - الأحداث", "title_en": "Random Experiment - Events", "page": 181, "page_end": 186},
+        {"code": "8-3", "title": "الاحتمال", "title_en": "Probability", "page": 187, "page_end": 192},
+        {"code": "8-4", "title": "الأحداث المستقلة", "title_en": "Independent Events", "page": 193, "page_end": 197},
+        {"code": "8-5", "title": "نماذج هندسية للاحتمال", "title_en": "Geometric Models for Probability", "page": 198, "page_end": 201},
+        {"code": "8-EV", "title": "تقويم الوحدة التعليمية الثامنة", "title_en": "Unit 8 Evaluation", "page": 202, "page_end": 206, "type": "assessment"},
+        {"code": "8-PRJ", "title": "المشروع الرابع", "title_en": "Project 4", "page": 207, "page_end": 210, "type": "project"}
+      ]
+    }
+  ]
+}
